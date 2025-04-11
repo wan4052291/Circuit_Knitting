@@ -10,8 +10,16 @@ QuantumCircuit::QuantumCircuit(){
 QuantumCircuit::QuantumCircuit(const vector<QuantumGate>& gates) {
     gateSet = gates;    
     int l = calculateLayers();
+    sortGatesByLayer();
     this->totalLayers = l;
 }
+
+void QuantumCircuit::sortGatesByLayer(){
+    sort(gateSet.begin(), gateSet.end(), [](const QuantumGate& a, const QuantumGate& b) {
+        return a.layer < b.layer;
+    });
+}
+
 
 // 計算量子電路的層數
 int QuantumCircuit::calculateLayers() {

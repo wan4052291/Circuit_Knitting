@@ -1,0 +1,4476 @@
+adder_10.qasm
+Operation : cx 2 1 at layer 0
+Operation : cx 8 7 at layer 0
+Operation : cx 6 5 at layer 0
+Operation : cx 4 3 at layer 0
+Operation : cx 2 0 at layer 1
+Operation : h 2 -2147483648 at layer 2
+Operation : cx 1 2 at layer 3
+Operation : tdg 2 -2147483648 at layer 4
+Operation : cx 0 2 at layer 5
+Operation : t 2 -2147483648 at layer 6
+Operation : cx 1 2 at layer 7
+Operation : t 1 -2147483648 at layer 8
+Operation : tdg 2 -2147483648 at layer 9
+Operation : cx 0 2 at layer 10
+Operation : cx 0 1 at layer 11
+Operation : t 2 -2147483648 at layer 11
+Operation : h 2 -2147483648 at layer 12
+Operation : t 0 -2147483648 at layer 13
+Operation : cx 4 2 at layer 13
+Operation : tdg 1 -2147483648 at layer 14
+Operation : cx 0 1 at layer 15
+Operation : h 4 -2147483648 at layer 15
+Operation : cx 3 4 at layer 16
+Operation : tdg 4 -2147483648 at layer 17
+Operation : cx 2 4 at layer 18
+Operation : t 4 -2147483648 at layer 19
+Operation : cx 3 4 at layer 20
+Operation : t 3 -2147483648 at layer 21
+Operation : tdg 4 -2147483648 at layer 22
+Operation : cx 2 4 at layer 23
+Operation : t 4 -2147483648 at layer 24
+Operation : cx 2 3 at layer 24
+Operation : h 4 -2147483648 at layer 25
+Operation : t 2 -2147483648 at layer 26
+Operation : cx 6 4 at layer 26
+Operation : tdg 3 -2147483648 at layer 27
+Operation : cx 2 3 at layer 28
+Operation : h 6 -2147483648 at layer 28
+Operation : cx 5 6 at layer 29
+Operation : tdg 6 -2147483648 at layer 30
+Operation : cx 4 6 at layer 31
+Operation : t 6 -2147483648 at layer 32
+Operation : cx 5 6 at layer 33
+Operation : t 5 -2147483648 at layer 34
+Operation : tdg 6 -2147483648 at layer 35
+Operation : cx 4 6 at layer 36
+Operation : cx 4 5 at layer 37
+Operation : t 6 -2147483648 at layer 37
+Operation : h 6 -2147483648 at layer 38
+Operation : t 4 -2147483648 at layer 39
+Operation : cx 8 6 at layer 39
+Operation : tdg 5 -2147483648 at layer 40
+Operation : cx 4 5 at layer 41
+Operation : h 8 -2147483648 at layer 41
+Operation : cx 7 8 at layer 42
+Operation : tdg 8 -2147483648 at layer 43
+Operation : cx 6 8 at layer 44
+Operation : t 8 -2147483648 at layer 45
+Operation : cx 7 8 at layer 46
+Operation : t 7 -2147483648 at layer 47
+Operation : tdg 8 -2147483648 at layer 48
+Operation : cx 6 8 at layer 49
+Operation : cx 6 7 at layer 50
+Operation : t 8 -2147483648 at layer 50
+Operation : h 8 -2147483648 at layer 51
+Operation : t 6 -2147483648 at layer 52
+Operation : cx 8 9 at layer 52
+Operation : tdg 7 -2147483648 at layer 53
+Operation : cx 6 7 at layer 54
+Operation : x 7 -2147483648 at layer 55
+Operation : cx 6 7 at layer 56
+Operation : h 8 -2147483648 at layer 56
+Operation : cx 7 8 at layer 57
+Operation : tdg 8 -2147483648 at layer 58
+Operation : cx 6 8 at layer 59
+Operation : t 8 -2147483648 at layer 60
+Operation : cx 7 8 at layer 61
+Operation : t 7 -2147483648 at layer 62
+Operation : tdg 8 -2147483648 at layer 63
+Operation : cx 6 8 at layer 64
+Operation : cx 6 7 at layer 65
+Operation : t 8 -2147483648 at layer 65
+Operation : h 8 -2147483648 at layer 66
+Operation : t 6 -2147483648 at layer 67
+Operation : tdg 7 -2147483648 at layer 68
+Operation : cx 6 7 at layer 69
+Operation : cx 8 6 at layer 70
+Operation : x 7 -2147483648 at layer 70
+Operation : cx 8 7 at layer 71
+Operation : x 5 -2147483648 at layer 71
+Operation : cx 4 5 at layer 72
+Operation : h 6 -2147483648 at layer 72
+Operation : cx 5 6 at layer 73
+Operation : tdg 6 -2147483648 at layer 74
+Operation : cx 4 6 at layer 75
+Operation : t 6 -2147483648 at layer 76
+Operation : cx 5 6 at layer 77
+Operation : t 5 -2147483648 at layer 78
+Operation : tdg 6 -2147483648 at layer 79
+Operation : cx 4 6 at layer 80
+Operation : cx 4 5 at layer 81
+Operation : t 6 -2147483648 at layer 81
+Operation : h 6 -2147483648 at layer 82
+Operation : t 4 -2147483648 at layer 83
+Operation : tdg 5 -2147483648 at layer 84
+Operation : cx 4 5 at layer 85
+Operation : x 5 -2147483648 at layer 86
+Operation : cx 6 4 at layer 86
+Operation : cx 6 5 at layer 87
+Operation : x 3 -2147483648 at layer 87
+Operation : cx 2 3 at layer 88
+Operation : h 4 -2147483648 at layer 88
+Operation : cx 3 4 at layer 89
+Operation : tdg 4 -2147483648 at layer 90
+Operation : cx 2 4 at layer 91
+Operation : t 4 -2147483648 at layer 92
+Operation : cx 3 4 at layer 93
+Operation : t 3 -2147483648 at layer 94
+Operation : tdg 4 -2147483648 at layer 95
+Operation : cx 2 4 at layer 96
+Operation : cx 2 3 at layer 97
+Operation : t 4 -2147483648 at layer 97
+Operation : h 4 -2147483648 at layer 98
+Operation : t 2 -2147483648 at layer 99
+Operation : tdg 3 -2147483648 at layer 100
+Operation : cx 2 3 at layer 101
+Operation : x 3 -2147483648 at layer 102
+Operation : cx 4 2 at layer 102
+Operation : cx 4 3 at layer 103
+Operation : x 1 -2147483648 at layer 103
+Operation : h 2 -2147483648 at layer 104
+Operation : cx 0 1 at layer 104
+Operation : cx 1 2 at layer 105
+Operation : tdg 2 -2147483648 at layer 106
+Operation : cx 0 2 at layer 107
+Operation : t 2 -2147483648 at layer 108
+Operation : cx 1 2 at layer 109
+Operation : t 1 -2147483648 at layer 110
+Operation : tdg 2 -2147483648 at layer 111
+Operation : cx 0 2 at layer 112
+Operation : cx 0 1 at layer 113
+Operation : t 2 -2147483648 at layer 113
+Operation : h 2 -2147483648 at layer 114
+Operation : t 0 -2147483648 at layer 115
+Operation : tdg 1 -2147483648 at layer 116
+Operation : cx 0 1 at layer 117
+Operation : x 1 -2147483648 at layer 118
+Operation : cx 2 0 at layer 118
+Operation : cx 2 1 at layer 119
+Edge weights:
+Qubit 0 - Qubit 1 : 2
+Qubit 0 - Qubit 2 : 3.05833
+Qubit 1 - Qubit 2 : 3.14167
+Qubit 2 - Qubit 3 : 2.18333
+Qubit 2 - Qubit 4 : 3.14167
+Qubit 3 - Qubit 4 : 3.325
+Qubit 4 - Qubit 5 : 2.36667
+Qubit 4 - Qubit 6 : 3.21667
+Qubit 5 - Qubit 6 : 3.50833
+Qubit 6 - Qubit 7 : 2.55
+Qubit 6 - Qubit 8 : 3.29167
+Qubit 7 - Qubit 8 : 3.69167
+Qubit 8 - Qubit 9 : 0.566667
+寫入完成，結果存於 qubit_graph.txt
+adder_20.qasm
+Operation : cx 2 1 at layer 0
+Operation : cx 18 17 at layer 0
+Operation : cx 16 15 at layer 0
+Operation : cx 14 13 at layer 0
+Operation : cx 12 11 at layer 0
+Operation : cx 10 9 at layer 0
+Operation : cx 8 7 at layer 0
+Operation : cx 6 5 at layer 0
+Operation : cx 4 3 at layer 0
+Operation : cx 2 0 at layer 1
+Operation : h 2 -2147483648 at layer 2
+Operation : cx 1 2 at layer 3
+Operation : tdg 2 -2147483648 at layer 4
+Operation : cx 0 2 at layer 5
+Operation : t 2 -2147483648 at layer 6
+Operation : cx 1 2 at layer 7
+Operation : t 1 -2147483648 at layer 8
+Operation : tdg 2 -2147483648 at layer 9
+Operation : cx 0 2 at layer 10
+Operation : cx 0 1 at layer 11
+Operation : t 2 -2147483648 at layer 11
+Operation : h 2 -2147483648 at layer 12
+Operation : cx 4 2 at layer 13
+Operation : t 0 -2147483648 at layer 13
+Operation : tdg 1 -2147483648 at layer 14
+Operation : cx 0 1 at layer 15
+Operation : h 4 -2147483648 at layer 15
+Operation : cx 3 4 at layer 16
+Operation : tdg 4 -2147483648 at layer 17
+Operation : cx 2 4 at layer 18
+Operation : t 4 -2147483648 at layer 19
+Operation : cx 3 4 at layer 20
+Operation : t 3 -2147483648 at layer 21
+Operation : tdg 4 -2147483648 at layer 22
+Operation : cx 2 4 at layer 23
+Operation : t 4 -2147483648 at layer 24
+Operation : cx 2 3 at layer 24
+Operation : h 4 -2147483648 at layer 25
+Operation : t 2 -2147483648 at layer 26
+Operation : cx 6 4 at layer 26
+Operation : tdg 3 -2147483648 at layer 27
+Operation : cx 2 3 at layer 28
+Operation : h 6 -2147483648 at layer 28
+Operation : cx 5 6 at layer 29
+Operation : tdg 6 -2147483648 at layer 30
+Operation : cx 4 6 at layer 31
+Operation : t 6 -2147483648 at layer 32
+Operation : cx 5 6 at layer 33
+Operation : t 5 -2147483648 at layer 34
+Operation : tdg 6 -2147483648 at layer 35
+Operation : cx 4 6 at layer 36
+Operation : cx 4 5 at layer 37
+Operation : t 6 -2147483648 at layer 37
+Operation : h 6 -2147483648 at layer 38
+Operation : t 4 -2147483648 at layer 39
+Operation : cx 8 6 at layer 39
+Operation : tdg 5 -2147483648 at layer 40
+Operation : cx 4 5 at layer 41
+Operation : h 8 -2147483648 at layer 41
+Operation : cx 7 8 at layer 42
+Operation : tdg 8 -2147483648 at layer 43
+Operation : cx 6 8 at layer 44
+Operation : t 8 -2147483648 at layer 45
+Operation : cx 7 8 at layer 46
+Operation : t 7 -2147483648 at layer 47
+Operation : tdg 8 -2147483648 at layer 48
+Operation : cx 6 8 at layer 49
+Operation : t 8 -2147483648 at layer 50
+Operation : cx 6 7 at layer 50
+Operation : h 8 -2147483648 at layer 51
+Operation : cx 10 8 at layer 52
+Operation : t 6 -2147483648 at layer 52
+Operation : tdg 7 -2147483648 at layer 53
+Operation : cx 6 7 at layer 54
+Operation : h 10 -2147483648 at layer 54
+Operation : cx 9 10 at layer 55
+Operation : tdg 10 -2147483648 at layer 56
+Operation : cx 8 10 at layer 57
+Operation : t 10 -2147483648 at layer 58
+Operation : cx 9 10 at layer 59
+Operation : t 9 -2147483648 at layer 60
+Operation : tdg 10 -2147483648 at layer 61
+Operation : cx 8 10 at layer 62
+Operation : cx 8 9 at layer 63
+Operation : t 10 -2147483648 at layer 63
+Operation : h 10 -2147483648 at layer 64
+Operation : t 8 -2147483648 at layer 65
+Operation : cx 12 10 at layer 65
+Operation : tdg 9 -2147483648 at layer 66
+Operation : cx 8 9 at layer 67
+Operation : h 12 -2147483648 at layer 67
+Operation : cx 11 12 at layer 68
+Operation : tdg 12 -2147483648 at layer 69
+Operation : cx 10 12 at layer 70
+Operation : t 12 -2147483648 at layer 71
+Operation : cx 11 12 at layer 72
+Operation : t 11 -2147483648 at layer 73
+Operation : tdg 12 -2147483648 at layer 74
+Operation : cx 10 12 at layer 75
+Operation : cx 10 11 at layer 76
+Operation : t 12 -2147483648 at layer 76
+Operation : h 12 -2147483648 at layer 77
+Operation : t 10 -2147483648 at layer 78
+Operation : cx 14 12 at layer 78
+Operation : tdg 11 -2147483648 at layer 79
+Operation : h 14 -2147483648 at layer 80
+Operation : cx 10 11 at layer 80
+Operation : cx 13 14 at layer 81
+Operation : tdg 14 -2147483648 at layer 82
+Operation : cx 12 14 at layer 83
+Operation : t 14 -2147483648 at layer 84
+Operation : cx 13 14 at layer 85
+Operation : t 13 -2147483648 at layer 86
+Operation : tdg 14 -2147483648 at layer 87
+Operation : cx 12 14 at layer 88
+Operation : cx 12 13 at layer 89
+Operation : t 14 -2147483648 at layer 89
+Operation : h 14 -2147483648 at layer 90
+Operation : cx 16 14 at layer 91
+Operation : t 12 -2147483648 at layer 91
+Operation : tdg 13 -2147483648 at layer 92
+Operation : cx 12 13 at layer 93
+Operation : h 16 -2147483648 at layer 93
+Operation : cx 15 16 at layer 94
+Operation : tdg 16 -2147483648 at layer 95
+Operation : cx 14 16 at layer 96
+Operation : t 16 -2147483648 at layer 97
+Operation : cx 15 16 at layer 98
+Operation : t 15 -2147483648 at layer 99
+Operation : tdg 16 -2147483648 at layer 100
+Operation : cx 14 16 at layer 101
+Operation : cx 14 15 at layer 102
+Operation : t 16 -2147483648 at layer 102
+Operation : h 16 -2147483648 at layer 103
+Operation : t 14 -2147483648 at layer 104
+Operation : cx 18 16 at layer 104
+Operation : tdg 15 -2147483648 at layer 105
+Operation : cx 14 15 at layer 106
+Operation : h 18 -2147483648 at layer 106
+Operation : cx 17 18 at layer 107
+Operation : tdg 18 -2147483648 at layer 108
+Operation : cx 16 18 at layer 109
+Operation : t 18 -2147483648 at layer 110
+Operation : cx 17 18 at layer 111
+Operation : t 17 -2147483648 at layer 112
+Operation : tdg 18 -2147483648 at layer 113
+Operation : cx 16 18 at layer 114
+Operation : cx 16 17 at layer 115
+Operation : t 18 -2147483648 at layer 115
+Operation : h 18 -2147483648 at layer 116
+Operation : t 16 -2147483648 at layer 117
+Operation : cx 18 19 at layer 117
+Operation : tdg 17 -2147483648 at layer 118
+Operation : cx 16 17 at layer 119
+Operation : x 17 -2147483648 at layer 120
+Operation : cx 16 17 at layer 121
+Operation : h 18 -2147483648 at layer 121
+Operation : cx 17 18 at layer 122
+Operation : tdg 18 -2147483648 at layer 123
+Operation : cx 16 18 at layer 124
+Operation : t 18 -2147483648 at layer 125
+Operation : cx 17 18 at layer 126
+Operation : t 17 -2147483648 at layer 127
+Operation : tdg 18 -2147483648 at layer 128
+Operation : cx 16 18 at layer 129
+Operation : cx 16 17 at layer 130
+Operation : t 18 -2147483648 at layer 130
+Operation : h 18 -2147483648 at layer 131
+Operation : t 16 -2147483648 at layer 132
+Operation : tdg 17 -2147483648 at layer 133
+Operation : cx 16 17 at layer 134
+Operation : x 17 -2147483648 at layer 135
+Operation : cx 18 16 at layer 135
+Operation : cx 18 17 at layer 136
+Operation : x 15 -2147483648 at layer 136
+Operation : cx 14 15 at layer 137
+Operation : h 16 -2147483648 at layer 137
+Operation : cx 15 16 at layer 138
+Operation : tdg 16 -2147483648 at layer 139
+Operation : cx 14 16 at layer 140
+Operation : t 16 -2147483648 at layer 141
+Operation : cx 15 16 at layer 142
+Operation : t 15 -2147483648 at layer 143
+Operation : tdg 16 -2147483648 at layer 144
+Operation : cx 14 16 at layer 145
+Operation : cx 14 15 at layer 146
+Operation : t 16 -2147483648 at layer 146
+Operation : h 16 -2147483648 at layer 147
+Operation : t 14 -2147483648 at layer 148
+Operation : tdg 15 -2147483648 at layer 149
+Operation : cx 14 15 at layer 150
+Operation : cx 16 14 at layer 151
+Operation : x 15 -2147483648 at layer 151
+Operation : cx 16 15 at layer 152
+Operation : x 13 -2147483648 at layer 152
+Operation : cx 12 13 at layer 153
+Operation : h 14 -2147483648 at layer 153
+Operation : cx 13 14 at layer 154
+Operation : tdg 14 -2147483648 at layer 155
+Operation : cx 12 14 at layer 156
+Operation : t 14 -2147483648 at layer 157
+Operation : cx 13 14 at layer 158
+Operation : t 13 -2147483648 at layer 159
+Operation : tdg 14 -2147483648 at layer 160
+Operation : cx 12 14 at layer 161
+Operation : cx 12 13 at layer 162
+Operation : t 14 -2147483648 at layer 162
+Operation : h 14 -2147483648 at layer 163
+Operation : t 12 -2147483648 at layer 164
+Operation : tdg 13 -2147483648 at layer 165
+Operation : cx 12 13 at layer 166
+Operation : x 13 -2147483648 at layer 167
+Operation : cx 14 12 at layer 167
+Operation : cx 14 13 at layer 168
+Operation : x 11 -2147483648 at layer 168
+Operation : cx 10 11 at layer 169
+Operation : h 12 -2147483648 at layer 169
+Operation : cx 11 12 at layer 170
+Operation : tdg 12 -2147483648 at layer 171
+Operation : cx 10 12 at layer 172
+Operation : t 12 -2147483648 at layer 173
+Operation : cx 11 12 at layer 174
+Operation : t 11 -2147483648 at layer 175
+Operation : tdg 12 -2147483648 at layer 176
+Operation : cx 10 12 at layer 177
+Operation : cx 10 11 at layer 178
+Operation : t 12 -2147483648 at layer 178
+Operation : h 12 -2147483648 at layer 179
+Operation : t 10 -2147483648 at layer 180
+Operation : tdg 11 -2147483648 at layer 181
+Operation : cx 10 11 at layer 182
+Operation : cx 12 10 at layer 183
+Operation : x 11 -2147483648 at layer 183
+Operation : cx 12 11 at layer 184
+Operation : x 9 -2147483648 at layer 184
+Operation : cx 8 9 at layer 185
+Operation : h 10 -2147483648 at layer 185
+Operation : cx 9 10 at layer 186
+Operation : tdg 10 -2147483648 at layer 187
+Operation : cx 8 10 at layer 188
+Operation : t 10 -2147483648 at layer 189
+Operation : cx 9 10 at layer 190
+Operation : t 9 -2147483648 at layer 191
+Operation : tdg 10 -2147483648 at layer 192
+Operation : cx 8 10 at layer 193
+Operation : cx 8 9 at layer 194
+Operation : t 10 -2147483648 at layer 194
+Operation : h 10 -2147483648 at layer 195
+Operation : t 8 -2147483648 at layer 196
+Operation : tdg 9 -2147483648 at layer 197
+Operation : cx 8 9 at layer 198
+Operation : x 9 -2147483648 at layer 199
+Operation : cx 10 8 at layer 199
+Operation : cx 10 9 at layer 200
+Operation : x 7 -2147483648 at layer 200
+Operation : cx 6 7 at layer 201
+Operation : h 8 -2147483648 at layer 201
+Operation : cx 7 8 at layer 202
+Operation : tdg 8 -2147483648 at layer 203
+Operation : cx 6 8 at layer 204
+Operation : t 8 -2147483648 at layer 205
+Operation : cx 7 8 at layer 206
+Operation : t 7 -2147483648 at layer 207
+Operation : tdg 8 -2147483648 at layer 208
+Operation : cx 6 8 at layer 209
+Operation : cx 6 7 at layer 210
+Operation : t 8 -2147483648 at layer 210
+Operation : h 8 -2147483648 at layer 211
+Operation : t 6 -2147483648 at layer 212
+Operation : tdg 7 -2147483648 at layer 213
+Operation : cx 6 7 at layer 214
+Operation : x 7 -2147483648 at layer 215
+Operation : cx 8 6 at layer 215
+Operation : x 5 -2147483648 at layer 216
+Operation : cx 8 7 at layer 216
+Operation : cx 4 5 at layer 217
+Operation : h 6 -2147483648 at layer 217
+Operation : cx 5 6 at layer 218
+Operation : tdg 6 -2147483648 at layer 219
+Operation : cx 4 6 at layer 220
+Operation : t 6 -2147483648 at layer 221
+Operation : cx 5 6 at layer 222
+Operation : t 5 -2147483648 at layer 223
+Operation : tdg 6 -2147483648 at layer 224
+Operation : cx 4 6 at layer 225
+Operation : cx 4 5 at layer 226
+Operation : t 6 -2147483648 at layer 226
+Operation : h 6 -2147483648 at layer 227
+Operation : t 4 -2147483648 at layer 228
+Operation : tdg 5 -2147483648 at layer 229
+Operation : cx 4 5 at layer 230
+Operation : x 5 -2147483648 at layer 231
+Operation : cx 6 4 at layer 231
+Operation : cx 6 5 at layer 232
+Operation : x 3 -2147483648 at layer 232
+Operation : cx 2 3 at layer 233
+Operation : h 4 -2147483648 at layer 233
+Operation : cx 3 4 at layer 234
+Operation : tdg 4 -2147483648 at layer 235
+Operation : cx 2 4 at layer 236
+Operation : t 4 -2147483648 at layer 237
+Operation : cx 3 4 at layer 238
+Operation : t 3 -2147483648 at layer 239
+Operation : tdg 4 -2147483648 at layer 240
+Operation : cx 2 4 at layer 241
+Operation : cx 2 3 at layer 242
+Operation : t 4 -2147483648 at layer 242
+Operation : h 4 -2147483648 at layer 243
+Operation : t 2 -2147483648 at layer 244
+Operation : tdg 3 -2147483648 at layer 245
+Operation : cx 2 3 at layer 246
+Operation : x 3 -2147483648 at layer 247
+Operation : cx 4 2 at layer 247
+Operation : x 1 -2147483648 at layer 248
+Operation : cx 4 3 at layer 248
+Operation : cx 0 1 at layer 249
+Operation : h 2 -2147483648 at layer 249
+Operation : cx 1 2 at layer 250
+Operation : tdg 2 -2147483648 at layer 251
+Operation : cx 0 2 at layer 252
+Operation : t 2 -2147483648 at layer 253
+Operation : cx 1 2 at layer 254
+Operation : t 1 -2147483648 at layer 255
+Operation : tdg 2 -2147483648 at layer 256
+Operation : cx 0 2 at layer 257
+Operation : cx 0 1 at layer 258
+Operation : t 2 -2147483648 at layer 258
+Operation : h 2 -2147483648 at layer 259
+Operation : t 0 -2147483648 at layer 260
+Operation : tdg 1 -2147483648 at layer 261
+Operation : cx 0 1 at layer 262
+Operation : x 1 -2147483648 at layer 263
+Operation : cx 2 0 at layer 263
+Operation : cx 2 1 at layer 264
+Edge weights:
+Qubit 0 - Qubit 1 : 2
+Qubit 0 - Qubit 2 : 3.02642
+Qubit 1 - Qubit 2 : 3.06415
+Qubit 2 - Qubit 3 : 2.08302
+Qubit 2 - Qubit 4 : 3.06415
+Qubit 3 - Qubit 4 : 3.14717
+Qubit 4 - Qubit 5 : 2.16604
+Qubit 4 - Qubit 6 : 3.09811
+Qubit 5 - Qubit 6 : 3.23019
+Qubit 6 - Qubit 7 : 2.24906
+Qubit 6 - Qubit 8 : 3.13208
+Qubit 7 - Qubit 8 : 3.31321
+Qubit 8 - Qubit 9 : 2.33208
+Qubit 8 - Qubit 10 : 3.16604
+Qubit 9 - Qubit 10 : 3.39623
+Qubit 10 - Qubit 11 : 2.41509
+Qubit 10 - Qubit 12 : 3.2
+Qubit 11 - Qubit 12 : 3.47925
+Qubit 12 - Qubit 13 : 2.49811
+Qubit 12 - Qubit 14 : 3.23396
+Qubit 13 - Qubit 14 : 3.56226
+Qubit 14 - Qubit 15 : 2.58113
+Qubit 14 - Qubit 16 : 3.26792
+Qubit 15 - Qubit 16 : 3.64528
+Qubit 16 - Qubit 17 : 2.66415
+Qubit 16 - Qubit 18 : 3.30189
+Qubit 17 - Qubit 18 : 3.7283
+Qubit 18 - Qubit 19 : 0.558491
+寫入完成，結果存於 qubit_graph.txt
+aqft_10.qasm
+Operation : h 9 -2147483648 at layer 0
+Operation : cp(pi/2) 9 8 at layer 1
+Operation : h 8 -2147483648 at layer 2
+Operation : cp(pi/4) 9 7 at layer 2
+Operation : cp(pi/2) 8 7 at layer 3
+Operation : cp(pi/8) 9 6 at layer 3
+Operation : h 7 -2147483648 at layer 4
+Operation : cp(pi/4) 8 6 at layer 4
+Operation : cp(pi/16) 9 5 at layer 4
+Operation : cp(pi/2) 7 6 at layer 5
+Operation : cp(pi/8) 8 5 at layer 5
+Operation : h 6 -2147483648 at layer 6
+Operation : cp(pi/4) 7 5 at layer 6
+Operation : cp(pi/16) 8 4 at layer 6
+Operation : cp(pi/2) 6 5 at layer 7
+Operation : cp(pi/8) 7 4 at layer 7
+Operation : cp(pi/16) 7 3 at layer 8
+Operation : h 5 -2147483648 at layer 8
+Operation : cp(pi/4) 6 4 at layer 8
+Operation : cp(pi/2) 5 4 at layer 9
+Operation : cp(pi/8) 6 3 at layer 9
+Operation : h 4 -2147483648 at layer 10
+Operation : cp(pi/4) 5 3 at layer 10
+Operation : cp(pi/16) 6 2 at layer 10
+Operation : cp(pi/2) 4 3 at layer 11
+Operation : cp(pi/8) 5 2 at layer 11
+Operation : h 3 -2147483648 at layer 12
+Operation : cp(pi/4) 4 2 at layer 12
+Operation : cp(pi/16) 5 1 at layer 12
+Operation : cp(pi/2) 3 2 at layer 13
+Operation : cp(pi/8) 4 1 at layer 13
+Operation : h 2 -2147483648 at layer 14
+Operation : cp(pi/4) 3 1 at layer 14
+Operation : cp(pi/16) 4 0 at layer 14
+Operation : cp(pi/2) 2 1 at layer 15
+Operation : cp(pi/8) 3 0 at layer 15
+Operation : h 1 -2147483648 at layer 16
+Operation : cp(pi/4) 2 0 at layer 16
+Operation : cp(pi/2) 1 0 at layer 17
+Operation : h 0 -2147483648 at layer 18
+Edge weights:
+Qubit 0 - Qubit 1 : 0.105263
+Qubit 0 - Qubit 2 : 0.157895
+Qubit 0 - Qubit 3 : 0.210526
+Qubit 0 - Qubit 4 : 0.263158
+Qubit 1 - Qubit 2 : 0.210526
+Qubit 1 - Qubit 3 : 0.263158
+Qubit 1 - Qubit 4 : 0.315789
+Qubit 1 - Qubit 5 : 0.368421
+Qubit 2 - Qubit 3 : 0.315789
+Qubit 2 - Qubit 4 : 0.368421
+Qubit 2 - Qubit 5 : 0.421053
+Qubit 2 - Qubit 6 : 0.473684
+Qubit 3 - Qubit 4 : 0.421053
+Qubit 3 - Qubit 5 : 0.473684
+Qubit 3 - Qubit 6 : 0.526316
+Qubit 3 - Qubit 7 : 0.578947
+Qubit 4 - Qubit 5 : 0.526316
+Qubit 4 - Qubit 6 : 0.578947
+Qubit 4 - Qubit 7 : 0.631579
+Qubit 4 - Qubit 8 : 0.684211
+Qubit 5 - Qubit 6 : 0.631579
+Qubit 5 - Qubit 7 : 0.684211
+Qubit 5 - Qubit 8 : 0.736842
+Qubit 5 - Qubit 9 : 0.789474
+Qubit 6 - Qubit 7 : 0.736842
+Qubit 6 - Qubit 8 : 0.789474
+Qubit 6 - Qubit 9 : 0.842105
+Qubit 7 - Qubit 8 : 0.842105
+Qubit 7 - Qubit 9 : 0.894737
+Qubit 8 - Qubit 9 : 0.947368
+寫入完成，結果存於 qubit_graph.txt
+aqft_15.qasm
+Operation : h 14 -2147483648 at layer 0
+Operation : cp(pi/2) 14 13 at layer 1
+Operation : cp(pi/4) 14 12 at layer 2
+Operation : h 13 -2147483648 at layer 2
+Operation : cp(pi/2) 13 12 at layer 3
+Operation : cp(pi/8) 14 11 at layer 3
+Operation : h 12 -2147483648 at layer 4
+Operation : cp(pi/4) 13 11 at layer 4
+Operation : cp(pi/16) 14 10 at layer 4
+Operation : cp(pi/2) 12 11 at layer 5
+Operation : cp(pi/8) 13 10 at layer 5
+Operation : h 11 -2147483648 at layer 6
+Operation : cp(pi/4) 12 10 at layer 6
+Operation : cp(pi/16) 13 9 at layer 6
+Operation : cp(pi/2) 11 10 at layer 7
+Operation : cp(pi/8) 12 9 at layer 7
+Operation : cp(pi/4) 11 9 at layer 8
+Operation : cp(pi/16) 12 8 at layer 8
+Operation : h 10 -2147483648 at layer 8
+Operation : cp(pi/2) 10 9 at layer 9
+Operation : cp(pi/8) 11 8 at layer 9
+Operation : cp(pi/4) 10 8 at layer 10
+Operation : cp(pi/16) 11 7 at layer 10
+Operation : h 9 -2147483648 at layer 10
+Operation : cp(pi/8) 10 7 at layer 11
+Operation : cp(pi/2) 9 8 at layer 11
+Operation : cp(pi/16) 10 6 at layer 12
+Operation : h 8 -2147483648 at layer 12
+Operation : cp(pi/4) 9 7 at layer 12
+Operation : cp(pi/2) 8 7 at layer 13
+Operation : cp(pi/8) 9 6 at layer 13
+Operation : cp(pi/16) 9 5 at layer 14
+Operation : cp(pi/4) 8 6 at layer 14
+Operation : h 7 -2147483648 at layer 14
+Operation : cp(pi/8) 8 5 at layer 15
+Operation : cp(pi/2) 7 6 at layer 15
+Operation : h 6 -2147483648 at layer 16
+Operation : cp(pi/4) 7 5 at layer 16
+Operation : cp(pi/16) 8 4 at layer 16
+Operation : cp(pi/2) 6 5 at layer 17
+Operation : cp(pi/8) 7 4 at layer 17
+Operation : h 5 -2147483648 at layer 18
+Operation : cp(pi/4) 6 4 at layer 18
+Operation : cp(pi/16) 7 3 at layer 18
+Operation : cp(pi/2) 5 4 at layer 19
+Operation : cp(pi/8) 6 3 at layer 19
+Operation : h 4 -2147483648 at layer 20
+Operation : cp(pi/4) 5 3 at layer 20
+Operation : cp(pi/16) 6 2 at layer 20
+Operation : cp(pi/2) 4 3 at layer 21
+Operation : cp(pi/8) 5 2 at layer 21
+Operation : h 3 -2147483648 at layer 22
+Operation : cp(pi/16) 5 1 at layer 22
+Operation : cp(pi/4) 4 2 at layer 22
+Operation : cp(pi/2) 3 2 at layer 23
+Operation : cp(pi/8) 4 1 at layer 23
+Operation : h 2 -2147483648 at layer 24
+Operation : cp(pi/4) 3 1 at layer 24
+Operation : cp(pi/16) 4 0 at layer 24
+Operation : cp(pi/2) 2 1 at layer 25
+Operation : cp(pi/8) 3 0 at layer 25
+Operation : h 1 -2147483648 at layer 26
+Operation : cp(pi/4) 2 0 at layer 26
+Operation : cp(pi/2) 1 0 at layer 27
+Operation : h 0 -2147483648 at layer 28
+Edge weights:
+Qubit 0 - Qubit 1 : 0.0689655
+Qubit 0 - Qubit 2 : 0.103448
+Qubit 0 - Qubit 3 : 0.137931
+Qubit 0 - Qubit 4 : 0.172414
+Qubit 1 - Qubit 2 : 0.137931
+Qubit 1 - Qubit 3 : 0.172414
+Qubit 1 - Qubit 4 : 0.206897
+Qubit 1 - Qubit 5 : 0.241379
+Qubit 2 - Qubit 3 : 0.206897
+Qubit 2 - Qubit 4 : 0.241379
+Qubit 2 - Qubit 5 : 0.275862
+Qubit 2 - Qubit 6 : 0.310345
+Qubit 3 - Qubit 4 : 0.275862
+Qubit 3 - Qubit 5 : 0.310345
+Qubit 3 - Qubit 6 : 0.344828
+Qubit 3 - Qubit 7 : 0.37931
+Qubit 4 - Qubit 5 : 0.344828
+Qubit 4 - Qubit 6 : 0.37931
+Qubit 4 - Qubit 7 : 0.413793
+Qubit 4 - Qubit 8 : 0.448276
+Qubit 5 - Qubit 6 : 0.413793
+Qubit 5 - Qubit 7 : 0.448276
+Qubit 5 - Qubit 8 : 0.482759
+Qubit 5 - Qubit 9 : 0.517241
+Qubit 6 - Qubit 7 : 0.482759
+Qubit 6 - Qubit 8 : 0.517241
+Qubit 6 - Qubit 9 : 0.551724
+Qubit 6 - Qubit 10 : 0.586207
+Qubit 7 - Qubit 8 : 0.551724
+Qubit 7 - Qubit 9 : 0.586207
+Qubit 7 - Qubit 10 : 0.62069
+Qubit 7 - Qubit 11 : 0.655172
+Qubit 8 - Qubit 9 : 0.62069
+Qubit 8 - Qubit 10 : 0.655172
+Qubit 8 - Qubit 11 : 0.689655
+Qubit 8 - Qubit 12 : 0.724138
+Qubit 9 - Qubit 10 : 0.689655
+Qubit 9 - Qubit 11 : 0.724138
+Qubit 9 - Qubit 12 : 0.758621
+Qubit 9 - Qubit 13 : 0.793103
+Qubit 10 - Qubit 11 : 0.758621
+Qubit 10 - Qubit 12 : 0.793103
+Qubit 10 - Qubit 13 : 0.827586
+Qubit 10 - Qubit 14 : 0.862069
+Qubit 11 - Qubit 12 : 0.827586
+Qubit 11 - Qubit 13 : 0.862069
+Qubit 11 - Qubit 14 : 0.896552
+Qubit 12 - Qubit 13 : 0.896552
+Qubit 12 - Qubit 14 : 0.931034
+Qubit 13 - Qubit 14 : 0.965517
+寫入完成，結果存於 qubit_graph.txt
+aqft_20.qasm
+Operation : h 19 -2147483648 at layer 0
+Operation : cp(pi/2) 19 18 at layer 1
+Operation : cp(pi/4) 19 17 at layer 2
+Operation : h 18 -2147483648 at layer 2
+Operation : cp(pi/2) 18 17 at layer 3
+Operation : cp(pi/8) 19 16 at layer 3
+Operation : h 17 -2147483648 at layer 4
+Operation : cp(pi/4) 18 16 at layer 4
+Operation : cp(pi/16) 19 15 at layer 4
+Operation : cp(pi/2) 17 16 at layer 5
+Operation : cp(pi/8) 18 15 at layer 5
+Operation : cp(pi/32) 19 14 at layer 5
+Operation : cp(pi/4) 17 15 at layer 6
+Operation : cp(pi/16) 18 14 at layer 6
+Operation : h 16 -2147483648 at layer 6
+Operation : cp(pi/2) 16 15 at layer 7
+Operation : cp(pi/8) 17 14 at layer 7
+Operation : cp(pi/32) 18 13 at layer 7
+Operation : h 15 -2147483648 at layer 8
+Operation : cp(pi/4) 16 14 at layer 8
+Operation : cp(pi/16) 17 13 at layer 8
+Operation : cp(pi/32) 17 12 at layer 9
+Operation : cp(pi/8) 16 13 at layer 9
+Operation : cp(pi/2) 15 14 at layer 9
+Operation : cp(pi/4) 15 13 at layer 10
+Operation : h 14 -2147483648 at layer 10
+Operation : cp(pi/16) 16 12 at layer 10
+Operation : cp(pi/32) 16 11 at layer 11
+Operation : cp(pi/8) 15 12 at layer 11
+Operation : cp(pi/2) 14 13 at layer 11
+Operation : h 13 -2147483648 at layer 12
+Operation : cp(pi/4) 14 12 at layer 12
+Operation : cp(pi/16) 15 11 at layer 12
+Operation : cp(pi/2) 13 12 at layer 13
+Operation : cp(pi/8) 14 11 at layer 13
+Operation : cp(pi/32) 15 10 at layer 13
+Operation : h 12 -2147483648 at layer 14
+Operation : cp(pi/4) 13 11 at layer 14
+Operation : cp(pi/16) 14 10 at layer 14
+Operation : cp(pi/2) 12 11 at layer 15
+Operation : cp(pi/8) 13 10 at layer 15
+Operation : cp(pi/32) 14 9 at layer 15
+Operation : h 11 -2147483648 at layer 16
+Operation : cp(pi/16) 13 9 at layer 16
+Operation : cp(pi/4) 12 10 at layer 16
+Operation : cp(pi/2) 11 10 at layer 17
+Operation : cp(pi/8) 12 9 at layer 17
+Operation : cp(pi/32) 13 8 at layer 17
+Operation : h 10 -2147483648 at layer 18
+Operation : cp(pi/4) 11 9 at layer 18
+Operation : cp(pi/16) 12 8 at layer 18
+Operation : cp(pi/32) 12 7 at layer 19
+Operation : cp(pi/8) 11 8 at layer 19
+Operation : cp(pi/2) 10 9 at layer 19
+Operation : cp(pi/16) 11 7 at layer 20
+Operation : cp(pi/4) 10 8 at layer 20
+Operation : h 9 -2147483648 at layer 20
+Operation : cp(pi/8) 10 7 at layer 21
+Operation : cp(pi/32) 11 6 at layer 21
+Operation : cp(pi/2) 9 8 at layer 21
+Operation : h 8 -2147483648 at layer 22
+Operation : cp(pi/4) 9 7 at layer 22
+Operation : cp(pi/16) 10 6 at layer 22
+Operation : cp(pi/32) 10 5 at layer 23
+Operation : cp(pi/2) 8 7 at layer 23
+Operation : cp(pi/8) 9 6 at layer 23
+Operation : h 7 -2147483648 at layer 24
+Operation : cp(pi/4) 8 6 at layer 24
+Operation : cp(pi/16) 9 5 at layer 24
+Operation : cp(pi/2) 7 6 at layer 25
+Operation : cp(pi/32) 9 4 at layer 25
+Operation : cp(pi/8) 8 5 at layer 25
+Operation : cp(pi/4) 7 5 at layer 26
+Operation : h 6 -2147483648 at layer 26
+Operation : cp(pi/16) 8 4 at layer 26
+Operation : cp(pi/2) 6 5 at layer 27
+Operation : cp(pi/8) 7 4 at layer 27
+Operation : cp(pi/32) 8 3 at layer 27
+Operation : h 5 -2147483648 at layer 28
+Operation : cp(pi/4) 6 4 at layer 28
+Operation : cp(pi/16) 7 3 at layer 28
+Operation : cp(pi/2) 5 4 at layer 29
+Operation : cp(pi/32) 7 2 at layer 29
+Operation : cp(pi/8) 6 3 at layer 29
+Operation : cp(pi/4) 5 3 at layer 30
+Operation : h 4 -2147483648 at layer 30
+Operation : cp(pi/16) 6 2 at layer 30
+Operation : cp(pi/2) 4 3 at layer 31
+Operation : cp(pi/8) 5 2 at layer 31
+Operation : cp(pi/32) 6 1 at layer 31
+Operation : cp(pi/16) 5 1 at layer 32
+Operation : cp(pi/4) 4 2 at layer 32
+Operation : h 3 -2147483648 at layer 32
+Operation : cp(pi/2) 3 2 at layer 33
+Operation : cp(pi/8) 4 1 at layer 33
+Operation : cp(pi/32) 5 0 at layer 33
+Operation : h 2 -2147483648 at layer 34
+Operation : cp(pi/4) 3 1 at layer 34
+Operation : cp(pi/16) 4 0 at layer 34
+Operation : cp(pi/2) 2 1 at layer 35
+Operation : cp(pi/8) 3 0 at layer 35
+Operation : h 1 -2147483648 at layer 36
+Operation : cp(pi/4) 2 0 at layer 36
+Operation : cp(pi/2) 1 0 at layer 37
+Operation : h 0 -2147483648 at layer 38
+Edge weights:
+Qubit 0 - Qubit 1 : 0.0512821
+Qubit 0 - Qubit 2 : 0.0769231
+Qubit 0 - Qubit 3 : 0.102564
+Qubit 0 - Qubit 4 : 0.128205
+Qubit 0 - Qubit 5 : 0.153846
+Qubit 1 - Qubit 2 : 0.102564
+Qubit 1 - Qubit 3 : 0.128205
+Qubit 1 - Qubit 4 : 0.153846
+Qubit 1 - Qubit 5 : 0.179487
+Qubit 1 - Qubit 6 : 0.205128
+Qubit 2 - Qubit 3 : 0.153846
+Qubit 2 - Qubit 4 : 0.179487
+Qubit 2 - Qubit 5 : 0.205128
+Qubit 2 - Qubit 6 : 0.230769
+Qubit 2 - Qubit 7 : 0.25641
+Qubit 3 - Qubit 4 : 0.205128
+Qubit 3 - Qubit 5 : 0.230769
+Qubit 3 - Qubit 6 : 0.25641
+Qubit 3 - Qubit 7 : 0.282051
+Qubit 3 - Qubit 8 : 0.307692
+Qubit 4 - Qubit 5 : 0.25641
+Qubit 4 - Qubit 6 : 0.282051
+Qubit 4 - Qubit 7 : 0.307692
+Qubit 4 - Qubit 8 : 0.333333
+Qubit 4 - Qubit 9 : 0.358974
+Qubit 5 - Qubit 6 : 0.307692
+Qubit 5 - Qubit 7 : 0.333333
+Qubit 5 - Qubit 8 : 0.358974
+Qubit 5 - Qubit 9 : 0.384615
+Qubit 5 - Qubit 10 : 0.410256
+Qubit 6 - Qubit 7 : 0.358974
+Qubit 6 - Qubit 8 : 0.384615
+Qubit 6 - Qubit 9 : 0.410256
+Qubit 6 - Qubit 10 : 0.435897
+Qubit 6 - Qubit 11 : 0.461538
+Qubit 7 - Qubit 8 : 0.410256
+Qubit 7 - Qubit 9 : 0.435897
+Qubit 7 - Qubit 10 : 0.461538
+Qubit 7 - Qubit 11 : 0.487179
+Qubit 7 - Qubit 12 : 0.512821
+Qubit 8 - Qubit 9 : 0.461538
+Qubit 8 - Qubit 10 : 0.487179
+Qubit 8 - Qubit 11 : 0.512821
+Qubit 8 - Qubit 12 : 0.538462
+Qubit 8 - Qubit 13 : 0.564103
+Qubit 9 - Qubit 10 : 0.512821
+Qubit 9 - Qubit 11 : 0.538462
+Qubit 9 - Qubit 12 : 0.564103
+Qubit 9 - Qubit 13 : 0.589744
+Qubit 9 - Qubit 14 : 0.615385
+Qubit 10 - Qubit 11 : 0.564103
+Qubit 10 - Qubit 12 : 0.589744
+Qubit 10 - Qubit 13 : 0.615385
+Qubit 10 - Qubit 14 : 0.641026
+Qubit 10 - Qubit 15 : 0.666667
+Qubit 11 - Qubit 12 : 0.615385
+Qubit 11 - Qubit 13 : 0.641026
+Qubit 11 - Qubit 14 : 0.666667
+Qubit 11 - Qubit 15 : 0.692308
+Qubit 11 - Qubit 16 : 0.717949
+Qubit 12 - Qubit 13 : 0.666667
+Qubit 12 - Qubit 14 : 0.692308
+Qubit 12 - Qubit 15 : 0.717949
+Qubit 12 - Qubit 16 : 0.74359
+Qubit 12 - Qubit 17 : 0.769231
+Qubit 13 - Qubit 14 : 0.717949
+Qubit 13 - Qubit 15 : 0.74359
+Qubit 13 - Qubit 16 : 0.769231
+Qubit 13 - Qubit 17 : 0.794872
+Qubit 13 - Qubit 18 : 0.820513
+Qubit 14 - Qubit 15 : 0.769231
+Qubit 14 - Qubit 16 : 0.794872
+Qubit 14 - Qubit 17 : 0.820513
+Qubit 14 - Qubit 18 : 0.846154
+Qubit 14 - Qubit 19 : 0.871795
+Qubit 15 - Qubit 16 : 0.820513
+Qubit 15 - Qubit 17 : 0.846154
+Qubit 15 - Qubit 18 : 0.871795
+Qubit 15 - Qubit 19 : 0.897436
+Qubit 16 - Qubit 17 : 0.871795
+Qubit 16 - Qubit 18 : 0.897436
+Qubit 16 - Qubit 19 : 0.923077
+Qubit 17 - Qubit 18 : 0.923077
+Qubit 17 - Qubit 19 : 0.948718
+Qubit 18 - Qubit 19 : 0.974359
+寫入完成，結果存於 qubit_graph.txt
+aqft_25.qasm
+Operation : h 24 -2147483648 at layer 0
+Operation : cp(pi/2) 24 23 at layer 1
+Operation : h 23 -2147483648 at layer 2
+Operation : cp(pi/4) 24 22 at layer 2
+Operation : cp(pi/2) 23 22 at layer 3
+Operation : cp(pi/8) 24 21 at layer 3
+Operation : h 22 -2147483648 at layer 4
+Operation : cp(pi/4) 23 21 at layer 4
+Operation : cp(pi/16) 24 20 at layer 4
+Operation : cp(pi/2) 22 21 at layer 5
+Operation : cp(pi/32) 24 19 at layer 5
+Operation : cp(pi/8) 23 20 at layer 5
+Operation : cp(pi/4) 22 20 at layer 6
+Operation : h 21 -2147483648 at layer 6
+Operation : cp(pi/16) 23 19 at layer 6
+Operation : cp(pi/32) 23 18 at layer 7
+Operation : cp(pi/8) 22 19 at layer 7
+Operation : cp(pi/2) 21 20 at layer 7
+Operation : cp(pi/4) 21 19 at layer 8
+Operation : h 20 -2147483648 at layer 8
+Operation : cp(pi/16) 22 18 at layer 8
+Operation : cp(pi/2) 20 19 at layer 9
+Operation : cp(pi/8) 21 18 at layer 9
+Operation : cp(pi/32) 22 17 at layer 9
+Operation : h 19 -2147483648 at layer 10
+Operation : cp(pi/4) 20 18 at layer 10
+Operation : cp(pi/16) 21 17 at layer 10
+Operation : cp(pi/2) 19 18 at layer 11
+Operation : cp(pi/32) 21 16 at layer 11
+Operation : cp(pi/8) 20 17 at layer 11
+Operation : cp(pi/16) 20 16 at layer 12
+Operation : cp(pi/4) 19 17 at layer 12
+Operation : h 18 -2147483648 at layer 12
+Operation : cp(pi/32) 20 15 at layer 13
+Operation : cp(pi/8) 19 16 at layer 13
+Operation : cp(pi/2) 18 17 at layer 13
+Operation : cp(pi/4) 18 16 at layer 14
+Operation : h 17 -2147483648 at layer 14
+Operation : cp(pi/16) 19 15 at layer 14
+Operation : cp(pi/2) 17 16 at layer 15
+Operation : cp(pi/8) 18 15 at layer 15
+Operation : cp(pi/32) 19 14 at layer 15
+Operation : h 16 -2147483648 at layer 16
+Operation : cp(pi/4) 17 15 at layer 16
+Operation : cp(pi/16) 18 14 at layer 16
+Operation : cp(pi/2) 16 15 at layer 17
+Operation : cp(pi/32) 18 13 at layer 17
+Operation : cp(pi/8) 17 14 at layer 17
+Operation : cp(pi/16) 17 13 at layer 18
+Operation : cp(pi/4) 16 14 at layer 18
+Operation : h 15 -2147483648 at layer 18
+Operation : cp(pi/32) 17 12 at layer 19
+Operation : cp(pi/8) 16 13 at layer 19
+Operation : cp(pi/2) 15 14 at layer 19
+Operation : cp(pi/4) 15 13 at layer 20
+Operation : h 14 -2147483648 at layer 20
+Operation : cp(pi/16) 16 12 at layer 20
+Operation : cp(pi/2) 14 13 at layer 21
+Operation : cp(pi/8) 15 12 at layer 21
+Operation : cp(pi/32) 16 11 at layer 21
+Operation : h 13 -2147483648 at layer 22
+Operation : cp(pi/4) 14 12 at layer 22
+Operation : cp(pi/16) 15 11 at layer 22
+Operation : cp(pi/2) 13 12 at layer 23
+Operation : cp(pi/32) 15 10 at layer 23
+Operation : cp(pi/8) 14 11 at layer 23
+Operation : cp(pi/16) 14 10 at layer 24
+Operation : cp(pi/4) 13 11 at layer 24
+Operation : h 12 -2147483648 at layer 24
+Operation : cp(pi/32) 14 9 at layer 25
+Operation : cp(pi/2) 12 11 at layer 25
+Operation : cp(pi/8) 13 10 at layer 25
+Operation : cp(pi/4) 12 10 at layer 26
+Operation : h 11 -2147483648 at layer 26
+Operation : cp(pi/16) 13 9 at layer 26
+Operation : cp(pi/2) 11 10 at layer 27
+Operation : cp(pi/8) 12 9 at layer 27
+Operation : cp(pi/32) 13 8 at layer 27
+Operation : h 10 -2147483648 at layer 28
+Operation : cp(pi/4) 11 9 at layer 28
+Operation : cp(pi/16) 12 8 at layer 28
+Operation : cp(pi/2) 10 9 at layer 29
+Operation : cp(pi/8) 11 8 at layer 29
+Operation : cp(pi/32) 12 7 at layer 29
+Operation : cp(pi/4) 10 8 at layer 30
+Operation : h 9 -2147483648 at layer 30
+Operation : cp(pi/16) 11 7 at layer 30
+Operation : cp(pi/8) 10 7 at layer 31
+Operation : cp(pi/32) 11 6 at layer 31
+Operation : cp(pi/2) 9 8 at layer 31
+Operation : cp(pi/16) 10 6 at layer 32
+Operation : h 8 -2147483648 at layer 32
+Operation : cp(pi/4) 9 7 at layer 32
+Operation : cp(pi/32) 10 5 at layer 33
+Operation : cp(pi/8) 9 6 at layer 33
+Operation : cp(pi/2) 8 7 at layer 33
+Operation : h 7 -2147483648 at layer 34
+Operation : cp(pi/4) 8 6 at layer 34
+Operation : cp(pi/16) 9 5 at layer 34
+Operation : cp(pi/2) 7 6 at layer 35
+Operation : cp(pi/8) 8 5 at layer 35
+Operation : cp(pi/32) 9 4 at layer 35
+Operation : h 6 -2147483648 at layer 36
+Operation : cp(pi/4) 7 5 at layer 36
+Operation : cp(pi/16) 8 4 at layer 36
+Operation : cp(pi/2) 6 5 at layer 37
+Operation : cp(pi/32) 8 3 at layer 37
+Operation : cp(pi/8) 7 4 at layer 37
+Operation : cp(pi/4) 6 4 at layer 38
+Operation : h 5 -2147483648 at layer 38
+Operation : cp(pi/16) 7 3 at layer 38
+Operation : cp(pi/2) 5 4 at layer 39
+Operation : cp(pi/8) 6 3 at layer 39
+Operation : cp(pi/32) 7 2 at layer 39
+Operation : h 4 -2147483648 at layer 40
+Operation : cp(pi/4) 5 3 at layer 40
+Operation : cp(pi/16) 6 2 at layer 40
+Operation : cp(pi/2) 4 3 at layer 41
+Operation : cp(pi/32) 6 1 at layer 41
+Operation : cp(pi/8) 5 2 at layer 41
+Operation : cp(pi/16) 5 1 at layer 42
+Operation : cp(pi/4) 4 2 at layer 42
+Operation : h 3 -2147483648 at layer 42
+Operation : cp(pi/32) 5 0 at layer 43
+Operation : cp(pi/2) 3 2 at layer 43
+Operation : cp(pi/8) 4 1 at layer 43
+Operation : cp(pi/4) 3 1 at layer 44
+Operation : h 2 -2147483648 at layer 44
+Operation : cp(pi/16) 4 0 at layer 44
+Operation : cp(pi/2) 2 1 at layer 45
+Operation : cp(pi/8) 3 0 at layer 45
+Operation : h 1 -2147483648 at layer 46
+Operation : cp(pi/4) 2 0 at layer 46
+Operation : cp(pi/2) 1 0 at layer 47
+Operation : h 0 -2147483648 at layer 48
+Edge weights:
+Qubit 0 - Qubit 1 : 0.0408163
+Qubit 0 - Qubit 2 : 0.0612245
+Qubit 0 - Qubit 3 : 0.0816327
+Qubit 0 - Qubit 4 : 0.102041
+Qubit 0 - Qubit 5 : 0.122449
+Qubit 1 - Qubit 2 : 0.0816327
+Qubit 1 - Qubit 3 : 0.102041
+Qubit 1 - Qubit 4 : 0.122449
+Qubit 1 - Qubit 5 : 0.142857
+Qubit 1 - Qubit 6 : 0.163265
+Qubit 2 - Qubit 3 : 0.122449
+Qubit 2 - Qubit 4 : 0.142857
+Qubit 2 - Qubit 5 : 0.163265
+Qubit 2 - Qubit 6 : 0.183673
+Qubit 2 - Qubit 7 : 0.204082
+Qubit 3 - Qubit 4 : 0.163265
+Qubit 3 - Qubit 5 : 0.183673
+Qubit 3 - Qubit 6 : 0.204082
+Qubit 3 - Qubit 7 : 0.22449
+Qubit 3 - Qubit 8 : 0.244898
+Qubit 4 - Qubit 5 : 0.204082
+Qubit 4 - Qubit 6 : 0.22449
+Qubit 4 - Qubit 7 : 0.244898
+Qubit 4 - Qubit 8 : 0.265306
+Qubit 4 - Qubit 9 : 0.285714
+Qubit 5 - Qubit 6 : 0.244898
+Qubit 5 - Qubit 7 : 0.265306
+Qubit 5 - Qubit 8 : 0.285714
+Qubit 5 - Qubit 9 : 0.306122
+Qubit 5 - Qubit 10 : 0.326531
+Qubit 6 - Qubit 7 : 0.285714
+Qubit 6 - Qubit 8 : 0.306122
+Qubit 6 - Qubit 9 : 0.326531
+Qubit 6 - Qubit 10 : 0.346939
+Qubit 6 - Qubit 11 : 0.367347
+Qubit 7 - Qubit 8 : 0.326531
+Qubit 7 - Qubit 9 : 0.346939
+Qubit 7 - Qubit 10 : 0.367347
+Qubit 7 - Qubit 11 : 0.387755
+Qubit 7 - Qubit 12 : 0.408163
+Qubit 8 - Qubit 9 : 0.367347
+Qubit 8 - Qubit 10 : 0.387755
+Qubit 8 - Qubit 11 : 0.408163
+Qubit 8 - Qubit 12 : 0.428571
+Qubit 8 - Qubit 13 : 0.44898
+Qubit 9 - Qubit 10 : 0.408163
+Qubit 9 - Qubit 11 : 0.428571
+Qubit 9 - Qubit 12 : 0.44898
+Qubit 9 - Qubit 13 : 0.469388
+Qubit 9 - Qubit 14 : 0.489796
+Qubit 10 - Qubit 11 : 0.44898
+Qubit 10 - Qubit 12 : 0.469388
+Qubit 10 - Qubit 13 : 0.489796
+Qubit 10 - Qubit 14 : 0.510204
+Qubit 10 - Qubit 15 : 0.530612
+Qubit 11 - Qubit 12 : 0.489796
+Qubit 11 - Qubit 13 : 0.510204
+Qubit 11 - Qubit 14 : 0.530612
+Qubit 11 - Qubit 15 : 0.55102
+Qubit 11 - Qubit 16 : 0.571429
+Qubit 12 - Qubit 13 : 0.530612
+Qubit 12 - Qubit 14 : 0.55102
+Qubit 12 - Qubit 15 : 0.571429
+Qubit 12 - Qubit 16 : 0.591837
+Qubit 12 - Qubit 17 : 0.612245
+Qubit 13 - Qubit 14 : 0.571429
+Qubit 13 - Qubit 15 : 0.591837
+Qubit 13 - Qubit 16 : 0.612245
+Qubit 13 - Qubit 17 : 0.632653
+Qubit 13 - Qubit 18 : 0.653061
+Qubit 14 - Qubit 15 : 0.612245
+Qubit 14 - Qubit 16 : 0.632653
+Qubit 14 - Qubit 17 : 0.653061
+Qubit 14 - Qubit 18 : 0.673469
+Qubit 14 - Qubit 19 : 0.693878
+Qubit 15 - Qubit 16 : 0.653061
+Qubit 15 - Qubit 17 : 0.673469
+Qubit 15 - Qubit 18 : 0.693878
+Qubit 15 - Qubit 19 : 0.714286
+Qubit 15 - Qubit 20 : 0.734694
+Qubit 16 - Qubit 17 : 0.693878
+Qubit 16 - Qubit 18 : 0.714286
+Qubit 16 - Qubit 19 : 0.734694
+Qubit 16 - Qubit 20 : 0.755102
+Qubit 16 - Qubit 21 : 0.77551
+Qubit 17 - Qubit 18 : 0.734694
+Qubit 17 - Qubit 19 : 0.755102
+Qubit 17 - Qubit 20 : 0.77551
+Qubit 17 - Qubit 21 : 0.795918
+Qubit 17 - Qubit 22 : 0.816327
+Qubit 18 - Qubit 19 : 0.77551
+Qubit 18 - Qubit 20 : 0.795918
+Qubit 18 - Qubit 21 : 0.816327
+Qubit 18 - Qubit 22 : 0.836735
+Qubit 18 - Qubit 23 : 0.857143
+Qubit 19 - Qubit 20 : 0.816327
+Qubit 19 - Qubit 21 : 0.836735
+Qubit 19 - Qubit 22 : 0.857143
+Qubit 19 - Qubit 23 : 0.877551
+Qubit 19 - Qubit 24 : 0.897959
+Qubit 20 - Qubit 21 : 0.857143
+Qubit 20 - Qubit 22 : 0.877551
+Qubit 20 - Qubit 23 : 0.897959
+Qubit 20 - Qubit 24 : 0.918367
+Qubit 21 - Qubit 22 : 0.897959
+Qubit 21 - Qubit 23 : 0.918367
+Qubit 21 - Qubit 24 : 0.938776
+Qubit 22 - Qubit 23 : 0.938776
+Qubit 22 - Qubit 24 : 0.959184
+Qubit 23 - Qubit 24 : 0.979592
+寫入完成，結果存於 qubit_graph.txt
+bv_10.qasm
+Operation : x 9 -2147483648 at layer 0
+Operation : h 0 -2147483648 at layer 1
+Operation : h 1 -2147483648 at layer 2
+Operation : h 2 -2147483648 at layer 3
+Operation : h 3 -2147483648 at layer 4
+Operation : h 4 -2147483648 at layer 5
+Operation : h 5 -2147483648 at layer 6
+Operation : h 6 -2147483648 at layer 7
+Operation : h 7 -2147483648 at layer 8
+Operation : h 8 -2147483648 at layer 9
+Operation : h 9 -2147483648 at layer 10
+Operation : cx 0 9 at layer 11
+Operation : cx 1 9 at layer 12
+Operation : h 0 -2147483648 at layer 12
+Operation : cx 2 9 at layer 13
+Operation : h 1 -2147483648 at layer 13
+Operation : cx 3 9 at layer 14
+Operation : h 2 -2147483648 at layer 14
+Operation : cx 4 9 at layer 15
+Operation : h 3 -2147483648 at layer 15
+Operation : cx 5 9 at layer 16
+Operation : h 4 -2147483648 at layer 16
+Operation : cx 6 9 at layer 17
+Operation : h 5 -2147483648 at layer 17
+Operation : cx 7 9 at layer 18
+Operation : h 6 -2147483648 at layer 18
+Operation : cx 8 9 at layer 19
+Operation : h 7 -2147483648 at layer 19
+Operation : h 8 -2147483648 at layer 20
+Operation : h 9 -2147483648 at layer 21
+Edge weights:
+Qubit 0 - Qubit 9 : 0.5
+Qubit 1 - Qubit 9 : 0.454545
+Qubit 2 - Qubit 9 : 0.409091
+Qubit 3 - Qubit 9 : 0.363636
+Qubit 4 - Qubit 9 : 0.318182
+Qubit 5 - Qubit 9 : 0.272727
+Qubit 6 - Qubit 9 : 0.227273
+Qubit 7 - Qubit 9 : 0.181818
+Qubit 8 - Qubit 9 : 0.136364
+寫入完成，結果存於 qubit_graph.txt
+bv_15.qasm
+Operation : x 14 -2147483648 at layer 0
+Operation : h 0 -2147483648 at layer 1
+Operation : h 1 -2147483648 at layer 2
+Operation : h 2 -2147483648 at layer 3
+Operation : h 3 -2147483648 at layer 4
+Operation : h 4 -2147483648 at layer 5
+Operation : h 5 -2147483648 at layer 6
+Operation : h 6 -2147483648 at layer 7
+Operation : h 7 -2147483648 at layer 8
+Operation : h 8 -2147483648 at layer 9
+Operation : h 9 -2147483648 at layer 10
+Operation : h 10 -2147483648 at layer 11
+Operation : h 11 -2147483648 at layer 12
+Operation : h 12 -2147483648 at layer 13
+Operation : h 13 -2147483648 at layer 14
+Operation : h 14 -2147483648 at layer 15
+Operation : cx 0 14 at layer 16
+Operation : cx 1 14 at layer 17
+Operation : h 0 -2147483648 at layer 17
+Operation : cx 2 14 at layer 18
+Operation : h 1 -2147483648 at layer 18
+Operation : cx 3 14 at layer 19
+Operation : h 2 -2147483648 at layer 19
+Operation : cx 4 14 at layer 20
+Operation : h 3 -2147483648 at layer 20
+Operation : cx 5 14 at layer 21
+Operation : h 4 -2147483648 at layer 21
+Operation : cx 6 14 at layer 22
+Operation : h 5 -2147483648 at layer 22
+Operation : cx 7 14 at layer 23
+Operation : h 6 -2147483648 at layer 23
+Operation : cx 8 14 at layer 24
+Operation : h 7 -2147483648 at layer 24
+Operation : cx 9 14 at layer 25
+Operation : h 8 -2147483648 at layer 25
+Operation : cx 10 14 at layer 26
+Operation : h 9 -2147483648 at layer 26
+Operation : cx 11 14 at layer 27
+Operation : h 10 -2147483648 at layer 27
+Operation : cx 12 14 at layer 28
+Operation : h 11 -2147483648 at layer 28
+Operation : cx 13 14 at layer 29
+Operation : h 12 -2147483648 at layer 29
+Operation : h 13 -2147483648 at layer 30
+Operation : h 14 -2147483648 at layer 31
+Edge weights:
+Qubit 0 - Qubit 14 : 0.5
+Qubit 1 - Qubit 14 : 0.46875
+Qubit 2 - Qubit 14 : 0.4375
+Qubit 3 - Qubit 14 : 0.40625
+Qubit 4 - Qubit 14 : 0.375
+Qubit 5 - Qubit 14 : 0.34375
+Qubit 6 - Qubit 14 : 0.3125
+Qubit 7 - Qubit 14 : 0.28125
+Qubit 8 - Qubit 14 : 0.25
+Qubit 9 - Qubit 14 : 0.21875
+Qubit 10 - Qubit 14 : 0.1875
+Qubit 11 - Qubit 14 : 0.15625
+Qubit 12 - Qubit 14 : 0.125
+Qubit 13 - Qubit 14 : 0.09375
+寫入完成，結果存於 qubit_graph.txt
+bv_20.qasm
+Operation : x 19 -2147483648 at layer 0
+Operation : h 0 -2147483648 at layer 1
+Operation : h 1 -2147483648 at layer 2
+Operation : h 2 -2147483648 at layer 3
+Operation : h 3 -2147483648 at layer 4
+Operation : h 4 -2147483648 at layer 5
+Operation : h 5 -2147483648 at layer 6
+Operation : h 6 -2147483648 at layer 7
+Operation : h 7 -2147483648 at layer 8
+Operation : h 8 -2147483648 at layer 9
+Operation : h 9 -2147483648 at layer 10
+Operation : h 10 -2147483648 at layer 11
+Operation : h 11 -2147483648 at layer 12
+Operation : h 12 -2147483648 at layer 13
+Operation : h 13 -2147483648 at layer 14
+Operation : h 14 -2147483648 at layer 15
+Operation : h 15 -2147483648 at layer 16
+Operation : h 16 -2147483648 at layer 17
+Operation : h 17 -2147483648 at layer 18
+Operation : h 18 -2147483648 at layer 19
+Operation : h 19 -2147483648 at layer 20
+Operation : cx 0 19 at layer 21
+Operation : cx 1 19 at layer 22
+Operation : h 0 -2147483648 at layer 22
+Operation : h 1 -2147483648 at layer 23
+Operation : cx 2 19 at layer 23
+Operation : cx 3 19 at layer 24
+Operation : h 2 -2147483648 at layer 24
+Operation : cx 4 19 at layer 25
+Operation : h 3 -2147483648 at layer 25
+Operation : cx 5 19 at layer 26
+Operation : h 4 -2147483648 at layer 26
+Operation : cx 6 19 at layer 27
+Operation : h 5 -2147483648 at layer 27
+Operation : cx 7 19 at layer 28
+Operation : h 6 -2147483648 at layer 28
+Operation : cx 8 19 at layer 29
+Operation : h 7 -2147483648 at layer 29
+Operation : cx 9 19 at layer 30
+Operation : h 8 -2147483648 at layer 30
+Operation : cx 10 19 at layer 31
+Operation : h 9 -2147483648 at layer 31
+Operation : cx 11 19 at layer 32
+Operation : h 10 -2147483648 at layer 32
+Operation : cx 12 19 at layer 33
+Operation : h 11 -2147483648 at layer 33
+Operation : cx 13 19 at layer 34
+Operation : h 12 -2147483648 at layer 34
+Operation : cx 14 19 at layer 35
+Operation : h 13 -2147483648 at layer 35
+Operation : cx 15 19 at layer 36
+Operation : h 14 -2147483648 at layer 36
+Operation : cx 16 19 at layer 37
+Operation : h 15 -2147483648 at layer 37
+Operation : cx 17 19 at layer 38
+Operation : h 16 -2147483648 at layer 38
+Operation : cx 18 19 at layer 39
+Operation : h 17 -2147483648 at layer 39
+Operation : h 18 -2147483648 at layer 40
+Operation : h 19 -2147483648 at layer 41
+Edge weights:
+Qubit 0 - Qubit 19 : 0.5
+Qubit 1 - Qubit 19 : 0.47619
+Qubit 2 - Qubit 19 : 0.452381
+Qubit 3 - Qubit 19 : 0.428571
+Qubit 4 - Qubit 19 : 0.404762
+Qubit 5 - Qubit 19 : 0.380952
+Qubit 6 - Qubit 19 : 0.357143
+Qubit 7 - Qubit 19 : 0.333333
+Qubit 8 - Qubit 19 : 0.309524
+Qubit 9 - Qubit 19 : 0.285714
+Qubit 10 - Qubit 19 : 0.261905
+Qubit 11 - Qubit 19 : 0.238095
+Qubit 12 - Qubit 19 : 0.214286
+Qubit 13 - Qubit 19 : 0.190476
+Qubit 14 - Qubit 19 : 0.166667
+Qubit 15 - Qubit 19 : 0.142857
+Qubit 16 - Qubit 19 : 0.119048
+Qubit 17 - Qubit 19 : 0.0952381
+Qubit 18 - Qubit 19 : 0.0714286
+寫入完成，結果存於 qubit_graph.txt
+bv_25.qasm
+Operation : x 24 -2147483648 at layer 0
+Operation : h 0 -2147483648 at layer 1
+Operation : h 1 -2147483648 at layer 2
+Operation : h 2 -2147483648 at layer 3
+Operation : h 3 -2147483648 at layer 4
+Operation : h 4 -2147483648 at layer 5
+Operation : h 5 -2147483648 at layer 6
+Operation : h 6 -2147483648 at layer 7
+Operation : h 7 -2147483648 at layer 8
+Operation : h 8 -2147483648 at layer 9
+Operation : h 9 -2147483648 at layer 10
+Operation : h 10 -2147483648 at layer 11
+Operation : h 11 -2147483648 at layer 12
+Operation : h 12 -2147483648 at layer 13
+Operation : h 13 -2147483648 at layer 14
+Operation : h 14 -2147483648 at layer 15
+Operation : h 15 -2147483648 at layer 16
+Operation : h 16 -2147483648 at layer 17
+Operation : h 17 -2147483648 at layer 18
+Operation : h 18 -2147483648 at layer 19
+Operation : h 19 -2147483648 at layer 20
+Operation : h 20 -2147483648 at layer 21
+Operation : h 21 -2147483648 at layer 22
+Operation : h 22 -2147483648 at layer 23
+Operation : h 23 -2147483648 at layer 24
+Operation : h 24 -2147483648 at layer 25
+Operation : cx 0 24 at layer 26
+Operation : h 0 -2147483648 at layer 27
+Operation : cx 1 24 at layer 27
+Operation : cx 2 24 at layer 28
+Operation : h 1 -2147483648 at layer 28
+Operation : cx 3 24 at layer 29
+Operation : h 2 -2147483648 at layer 29
+Operation : h 3 -2147483648 at layer 30
+Operation : cx 4 24 at layer 30
+Operation : h 4 -2147483648 at layer 31
+Operation : cx 5 24 at layer 31
+Operation : h 5 -2147483648 at layer 32
+Operation : cx 6 24 at layer 32
+Operation : cx 7 24 at layer 33
+Operation : h 6 -2147483648 at layer 33
+Operation : cx 8 24 at layer 34
+Operation : h 7 -2147483648 at layer 34
+Operation : cx 9 24 at layer 35
+Operation : h 8 -2147483648 at layer 35
+Operation : cx 10 24 at layer 36
+Operation : h 9 -2147483648 at layer 36
+Operation : cx 11 24 at layer 37
+Operation : h 10 -2147483648 at layer 37
+Operation : cx 12 24 at layer 38
+Operation : h 11 -2147483648 at layer 38
+Operation : h 12 -2147483648 at layer 39
+Operation : cx 13 24 at layer 39
+Operation : h 13 -2147483648 at layer 40
+Operation : cx 14 24 at layer 40
+Operation : h 14 -2147483648 at layer 41
+Operation : cx 15 24 at layer 41
+Operation : h 15 -2147483648 at layer 42
+Operation : cx 16 24 at layer 42
+Operation : h 16 -2147483648 at layer 43
+Operation : cx 17 24 at layer 43
+Operation : h 17 -2147483648 at layer 44
+Operation : cx 18 24 at layer 44
+Operation : cx 19 24 at layer 45
+Operation : h 18 -2147483648 at layer 45
+Operation : cx 20 24 at layer 46
+Operation : h 19 -2147483648 at layer 46
+Operation : h 20 -2147483648 at layer 47
+Operation : cx 21 24 at layer 47
+Operation : h 21 -2147483648 at layer 48
+Operation : cx 22 24 at layer 48
+Operation : cx 23 24 at layer 49
+Operation : h 22 -2147483648 at layer 49
+Operation : h 23 -2147483648 at layer 50
+Operation : h 24 -2147483648 at layer 51
+Edge weights:
+Qubit 0 - Qubit 24 : 0.5
+Qubit 1 - Qubit 24 : 0.480769
+Qubit 2 - Qubit 24 : 0.461538
+Qubit 3 - Qubit 24 : 0.442308
+Qubit 4 - Qubit 24 : 0.423077
+Qubit 5 - Qubit 24 : 0.403846
+Qubit 6 - Qubit 24 : 0.384615
+Qubit 7 - Qubit 24 : 0.365385
+Qubit 8 - Qubit 24 : 0.346154
+Qubit 9 - Qubit 24 : 0.326923
+Qubit 10 - Qubit 24 : 0.307692
+Qubit 11 - Qubit 24 : 0.288462
+Qubit 12 - Qubit 24 : 0.269231
+Qubit 13 - Qubit 24 : 0.25
+Qubit 14 - Qubit 24 : 0.230769
+Qubit 15 - Qubit 24 : 0.211538
+Qubit 16 - Qubit 24 : 0.192308
+Qubit 17 - Qubit 24 : 0.173077
+Qubit 18 - Qubit 24 : 0.153846
+Qubit 19 - Qubit 24 : 0.134615
+Qubit 20 - Qubit 24 : 0.115385
+Qubit 21 - Qubit 24 : 0.0961538
+Qubit 22 - Qubit 24 : 0.0769231
+Qubit 23 - Qubit 24 : 0.0576923
+寫入完成，結果存於 qubit_graph.txt
+supremacy_15.qasm
+Operation : h 0 -2147483648 at layer 0
+Operation : h 1 -2147483648 at layer 1
+Operation : h 2 -2147483648 at layer 2
+Operation : cz 0 1 at layer 2
+Operation : h 3 -2147483648 at layer 3
+Operation : h 4 -2147483648 at layer 4
+Operation : h 5 -2147483648 at layer 5
+Operation : h 6 -2147483648 at layer 6
+Operation : h 7 -2147483648 at layer 7
+Operation : h 8 -2147483648 at layer 8
+Operation : h 9 -2147483648 at layer 9
+Operation : cz 7 8 at layer 9
+Operation : h 10 -2147483648 at layer 10
+Operation : h 11 -2147483648 at layer 11
+Operation : h 12 -2147483648 at layer 12
+Operation : cz 10 11 at layer 12
+Operation : h 13 -2147483648 at layer 13
+Operation : h 14 -2147483648 at layer 14
+Operation : t 2 -2147483648 at layer 15
+Operation : t 3 -2147483648 at layer 16
+Operation : t 4 -2147483648 at layer 17
+Operation : t 5 -2147483648 at layer 18
+Operation : t 6 -2147483648 at layer 19
+Operation : cz 5 10 at layer 19
+Operation : t 9 -2147483648 at layer 20
+Operation : t 12 -2147483648 at layer 21
+Operation : t 13 -2147483648 at layer 22
+Operation : cz 7 12 at layer 22
+Operation : t 14 -2147483648 at layer 23
+Operation : cz 9 14 at layer 24
+Operation : ry(pi/2) 0 -2147483648 at layer 24
+Operation : ry(pi/2) 1 -2147483648 at layer 25
+Operation : rx(pi/2) 8 -2147483648 at layer 26
+Operation : cz 1 2 at layer 26
+Operation : rx(pi/2) 11 -2147483648 at layer 27
+Operation : cz 8 9 at layer 27
+Operation : cz 11 12 at layer 28
+Operation : t 0 -2147483648 at layer 28
+Operation : cz 4 9 at layer 28
+Operation : ry(pi/2) 5 -2147483648 at layer 29
+Operation : ry(pi/2) 10 -2147483648 at layer 30
+Operation : cz 0 5 at layer 30
+Operation : rx(pi/2) 7 -2147483648 at layer 31
+Operation : cz 5 6 at layer 31
+Operation : rx(pi/2) 14 -2147483648 at layer 32
+Operation : cz 2 7 at layer 32
+Operation : t 10 -2147483648 at layer 33
+Operation : cz 2 3 at layer 33
+Operation : t 14 -2147483648 at layer 34
+Operation : ry(pi/2) 1 -2147483648 at layer 35
+Operation : rx(pi/2) 8 -2147483648 at layer 36
+Operation : ry(pi/2) 11 -2147483648 at layer 37
+Operation : rx(pi/2) 12 -2147483648 at layer 38
+Operation : cz 12 13 at layer 39
+Operation : t 1 -2147483648 at layer 39
+Operation : t 8 -2147483648 at layer 40
+Operation : t 11 -2147483648 at layer 41
+Operation : cz 8 13 at layer 41
+Operation : rx(pi/2) 0 -2147483648 at layer 42
+Operation : cz 6 11 at layer 42
+Operation : cz 13 14 at layer 42
+Operation : rx(pi/2) 7 -2147483648 at layer 43
+Operation : rx(pi/2) 4 -2147483648 at layer 44
+Operation : rx(pi/2) 9 -2147483648 at layer 45
+Operation : t 0 -2147483648 at layer 46
+Operation : t 7 -2147483648 at layer 47
+Operation : cz 6 7 at layer 48
+Operation : t 4 -2147483648 at layer 48
+Operation : t 9 -2147483648 at layer 49
+Operation : cz 1 6 at layer 49
+Operation : ry(pi/2) 5 -2147483648 at layer 50
+Operation : cz 0 1 at layer 50
+Operation : rx(pi/2) 2 -2147483648 at layer 51
+Operation : rx(pi/2) 3 -2147483648 at layer 52
+Operation : rx(pi/2) 12 -2147483648 at layer 53
+Operation : cz 3 4 at layer 53
+Operation : t 5 -2147483648 at layer 54
+Operation : t 2 -2147483648 at layer 55
+Operation : t 12 -2147483648 at layer 56
+Operation : rx(pi/2) 11 -2147483648 at layer 57
+Operation : rx(pi/2) 8 -2147483648 at layer 58
+Operation : cz 3 8 at layer 59
+Operation : t 11 -2147483648 at layer 59
+Operation : ry(pi/2) 7 -2147483648 at layer 60
+Operation : cz 10 11 at layer 60
+Operation : cz 7 8 at layer 61
+Operation : cz 5 10 at layer 61
+Operation : rx(pi/2) 4 -2147483648 at layer 61
+Operation : ry(pi/2) 13 -2147483648 at layer 62
+Operation : cz 7 12 at layer 62
+Operation : ry(pi/2) 14 -2147483648 at layer 63
+Operation : t 4 -2147483648 at layer 64
+Operation : t 13 -2147483648 at layer 65
+Operation : t 14 -2147483648 at layer 66
+Operation : rx(pi/2) 6 -2147483648 at layer 67
+Operation : cz 9 14 at layer 67
+Operation : rx(pi/2) 3 -2147483648 at layer 68
+Operation : t 6 -2147483648 at layer 69
+Operation : t 3 -2147483648 at layer 70
+Operation : rx(pi/2) 0 -2147483648 at layer 71
+Operation : ry(pi/2) 1 -2147483648 at layer 72
+Operation : ry(pi/2) 8 -2147483648 at layer 73
+Operation : cz 1 2 at layer 73
+Operation : ry(pi/2) 11 -2147483648 at layer 74
+Operation : cz 8 9 at layer 74
+Operation : cz 11 12 at layer 75
+Operation : t 0 -2147483648 at layer 75
+Operation : cz 4 9 at layer 75
+Operation : rx(pi/2) 5 -2147483648 at layer 76
+Operation : ry(pi/2) 10 -2147483648 at layer 77
+Operation : cz 0 5 at layer 77
+Operation : cz 5 6 at layer 78
+Operation : ry(pi/2) 7 -2147483648 at layer 78
+Operation : ry(pi/2) 14 -2147483648 at layer 79
+Operation : cz 2 7 at layer 79
+Operation : t 10 -2147483648 at layer 80
+Operation : cz 2 3 at layer 80
+Operation : t 14 -2147483648 at layer 81
+Operation : ry(pi/2) 1 -2147483648 at layer 82
+Operation : rx(pi/2) 8 -2147483648 at layer 83
+Operation : rx(pi/2) 11 -2147483648 at layer 84
+Operation : rx(pi/2) 12 -2147483648 at layer 85
+Operation : cz 12 13 at layer 86
+Operation : t 1 -2147483648 at layer 86
+Operation : t 8 -2147483648 at layer 87
+Operation : t 11 -2147483648 at layer 88
+Operation : cz 8 13 at layer 88
+Operation : ry(pi/2) 0 -2147483648 at layer 89
+Operation : cz 13 14 at layer 89
+Operation : cz 6 11 at layer 89
+Operation : rx(pi/2) 7 -2147483648 at layer 90
+Operation : ry(pi/2) 4 -2147483648 at layer 91
+Operation : ry(pi/2) 9 -2147483648 at layer 92
+Operation : t 0 -2147483648 at layer 93
+Operation : t 7 -2147483648 at layer 94
+Operation : t 4 -2147483648 at layer 95
+Operation : cz 6 7 at layer 95
+Operation : t 9 -2147483648 at layer 96
+Operation : cz 1 6 at layer 96
+Operation : ry(pi/2) 5 -2147483648 at layer 97
+Operation : cz 0 1 at layer 97
+Operation : rx(pi/2) 2 -2147483648 at layer 98
+Operation : ry(pi/2) 3 -2147483648 at layer 99
+Operation : cz 3 4 at layer 100
+Operation : rx(pi/2) 12 -2147483648 at layer 100
+Operation : t 5 -2147483648 at layer 101
+Operation : t 2 -2147483648 at layer 102
+Operation : t 12 -2147483648 at layer 103
+Operation : ry(pi/2) 11 -2147483648 at layer 104
+Operation : rx(pi/2) 8 -2147483648 at layer 105
+Operation : cz 3 8 at layer 106
+Operation : t 11 -2147483648 at layer 106
+Operation : rx(pi/2) 7 -2147483648 at layer 107
+Operation : cz 10 11 at layer 107
+Operation : cz 5 10 at layer 108
+Operation : cz 7 8 at layer 108
+Operation : ry(pi/2) 4 -2147483648 at layer 108
+Operation : ry(pi/2) 13 -2147483648 at layer 109
+Operation : cz 7 12 at layer 109
+Operation : ry(pi/2) 14 -2147483648 at layer 110
+Operation : t 4 -2147483648 at layer 111
+Operation : t 13 -2147483648 at layer 112
+Operation : t 14 -2147483648 at layer 113
+Operation : cz 9 14 at layer 114
+Operation : ry(pi/2) 6 -2147483648 at layer 114
+Operation : ry(pi/2) 3 -2147483648 at layer 115
+Operation : t 6 -2147483648 at layer 116
+Operation : t 3 -2147483648 at layer 117
+Operation : ry(pi/2) 0 -2147483648 at layer 118
+Operation : ry(pi/2) 1 -2147483648 at layer 119
+Operation : ry(pi/2) 8 -2147483648 at layer 120
+Operation : cz 1 2 at layer 120
+Operation : rx(pi/2) 11 -2147483648 at layer 121
+Operation : cz 8 9 at layer 121
+Operation : t 0 -2147483648 at layer 122
+Operation : cz 4 9 at layer 122
+Operation : cz 11 12 at layer 122
+Operation : rx(pi/2) 5 -2147483648 at layer 123
+Operation : rx(pi/2) 10 -2147483648 at layer 124
+Operation : cz 0 5 at layer 124
+Operation : ry(pi/2) 7 -2147483648 at layer 125
+Operation : cz 5 6 at layer 125
+Operation : ry(pi/2) 14 -2147483648 at layer 126
+Operation : cz 2 7 at layer 126
+Operation : t 10 -2147483648 at layer 127
+Operation : cz 2 3 at layer 127
+Operation : t 14 -2147483648 at layer 128
+Operation : ry(pi/2) 1 -2147483648 at layer 129
+Operation : rx(pi/2) 8 -2147483648 at layer 130
+Operation : ry(pi/2) 11 -2147483648 at layer 131
+Operation : ry(pi/2) 12 -2147483648 at layer 132
+Operation : cz 12 13 at layer 133
+Operation : t 1 -2147483648 at layer 133
+Operation : t 8 -2147483648 at layer 134
+Operation : t 11 -2147483648 at layer 135
+Operation : cz 8 13 at layer 135
+Operation : cz 13 14 at layer 136
+Operation : cz 6 11 at layer 136
+Operation : rx(pi/2) 0 -2147483648 at layer 136
+Operation : ry(pi/2) 7 -2147483648 at layer 137
+Operation : ry(pi/2) 4 -2147483648 at layer 138
+Operation : rx(pi/2) 9 -2147483648 at layer 139
+Operation : t 0 -2147483648 at layer 140
+Operation : t 7 -2147483648 at layer 141
+Operation : t 4 -2147483648 at layer 142
+Operation : cz 6 7 at layer 142
+Operation : t 9 -2147483648 at layer 143
+Operation : cz 1 6 at layer 143
+Operation : rx(pi/2) 5 -2147483648 at layer 144
+Operation : cz 0 1 at layer 144
+Operation : rx(pi/2) 2 -2147483648 at layer 145
+Operation : ry(pi/2) 3 -2147483648 at layer 146
+Operation : cz 3 4 at layer 147
+Operation : ry(pi/2) 12 -2147483648 at layer 147
+Operation : t 5 -2147483648 at layer 148
+Operation : t 2 -2147483648 at layer 149
+Operation : t 12 -2147483648 at layer 150
+Operation : ry(pi/2) 11 -2147483648 at layer 151
+Operation : ry(pi/2) 8 -2147483648 at layer 152
+Operation : cz 3 8 at layer 153
+Operation : t 11 -2147483648 at layer 153
+Operation : rx(pi/2) 7 -2147483648 at layer 154
+Operation : cz 10 11 at layer 154
+Operation : ry(pi/2) 4 -2147483648 at layer 155
+Operation : cz 5 10 at layer 155
+Operation : cz 7 8 at layer 155
+Operation : cz 7 12 at layer 156
+Operation : rx(pi/2) 13 -2147483648 at layer 156
+Operation : rx(pi/2) 14 -2147483648 at layer 157
+Operation : t 4 -2147483648 at layer 158
+Operation : t 13 -2147483648 at layer 159
+Operation : t 14 -2147483648 at layer 160
+Operation : ry(pi/2) 6 -2147483648 at layer 161
+Operation : cz 9 14 at layer 161
+Operation : ry(pi/2) 3 -2147483648 at layer 162
+Operation : t 6 -2147483648 at layer 163
+Operation : t 3 -2147483648 at layer 164
+Operation : ry(pi/2) 0 -2147483648 at layer 165
+Operation : rx(pi/2) 1 -2147483648 at layer 166
+Operation : ry(pi/2) 8 -2147483648 at layer 167
+Operation : cz 1 2 at layer 167
+Operation : cz 8 9 at layer 168
+Operation : rx(pi/2) 11 -2147483648 at layer 168
+Operation : cz 11 12 at layer 169
+Operation : t 0 -2147483648 at layer 169
+Operation : cz 4 9 at layer 169
+Operation : rx(pi/2) 5 -2147483648 at layer 170
+Operation : rx(pi/2) 10 -2147483648 at layer 171
+Operation : cz 0 5 at layer 171
+Operation : rx(pi/2) 7 -2147483648 at layer 172
+Operation : cz 5 6 at layer 172
+Operation : rx(pi/2) 14 -2147483648 at layer 173
+Operation : cz 2 7 at layer 173
+Operation : t 10 -2147483648 at layer 174
+Operation : cz 2 3 at layer 174
+Operation : t 14 -2147483648 at layer 175
+Operation : ry(pi/2) 1 -2147483648 at layer 176
+Operation : rx(pi/2) 8 -2147483648 at layer 177
+Operation : ry(pi/2) 11 -2147483648 at layer 178
+Operation : rx(pi/2) 12 -2147483648 at layer 179
+Operation : cz 12 13 at layer 180
+Operation : t 1 -2147483648 at layer 180
+Operation : t 8 -2147483648 at layer 181
+Operation : cz 8 13 at layer 182
+Operation : t 11 -2147483648 at layer 182
+Operation : ry(pi/2) 0 -2147483648 at layer 183
+Operation : cz 13 14 at layer 183
+Operation : cz 6 11 at layer 183
+Operation : ry(pi/2) 7 -2147483648 at layer 184
+Operation : ry(pi/2) 4 -2147483648 at layer 185
+Operation : rx(pi/2) 9 -2147483648 at layer 186
+Operation : t 0 -2147483648 at layer 187
+Operation : t 7 -2147483648 at layer 188
+Operation : t 4 -2147483648 at layer 189
+Operation : cz 6 7 at layer 189
+Operation : t 9 -2147483648 at layer 190
+Operation : cz 1 6 at layer 190
+Operation : rx(pi/2) 5 -2147483648 at layer 191
+Operation : cz 0 1 at layer 191
+Operation : rx(pi/2) 2 -2147483648 at layer 192
+Operation : rx(pi/2) 3 -2147483648 at layer 193
+Operation : rx(pi/2) 12 -2147483648 at layer 194
+Operation : cz 3 4 at layer 194
+Operation : t 5 -2147483648 at layer 195
+Operation : t 2 -2147483648 at layer 196
+Operation : t 12 -2147483648 at layer 197
+Operation : rx(pi/2) 11 -2147483648 at layer 198
+Operation : rx(pi/2) 8 -2147483648 at layer 199
+Operation : cz 3 8 at layer 200
+Operation : t 11 -2147483648 at layer 200
+Operation : rx(pi/2) 7 -2147483648 at layer 201
+Operation : cz 10 11 at layer 201
+Operation : cz 7 8 at layer 202
+Operation : cz 5 10 at layer 202
+Operation : ry(pi/2) 4 -2147483648 at layer 202
+Operation : ry(pi/2) 13 -2147483648 at layer 203
+Operation : cz 7 12 at layer 203
+Operation : ry(pi/2) 14 -2147483648 at layer 204
+Operation : t 4 -2147483648 at layer 205
+Operation : t 13 -2147483648 at layer 206
+Operation : t 14 -2147483648 at layer 207
+Operation : ry(pi/2) 6 -2147483648 at layer 208
+Operation : cz 9 14 at layer 208
+Operation : rx(pi/2) 3 -2147483648 at layer 209
+Operation : t 6 -2147483648 at layer 210
+Operation : t 3 -2147483648 at layer 211
+Operation : rx(pi/2) 0 -2147483648 at layer 212
+Operation : rx(pi/2) 1 -2147483648 at layer 213
+Operation : ry(pi/2) 8 -2147483648 at layer 214
+Operation : cz 1 2 at layer 214
+Operation : rx(pi/2) 11 -2147483648 at layer 215
+Operation : cz 8 9 at layer 215
+Operation : cz 11 12 at layer 216
+Operation : t 0 -2147483648 at layer 216
+Operation : cz 4 9 at layer 216
+Operation : ry(pi/2) 5 -2147483648 at layer 217
+Operation : ry(pi/2) 10 -2147483648 at layer 218
+Operation : cz 0 5 at layer 218
+Operation : cz 5 6 at layer 219
+Operation : ry(pi/2) 7 -2147483648 at layer 219
+Operation : cz 2 7 at layer 220
+Operation : ry(pi/2) 14 -2147483648 at layer 220
+Operation : t 10 -2147483648 at layer 221
+Operation : cz 2 3 at layer 221
+Operation : t 14 -2147483648 at layer 222
+Operation : rx(pi/2) 1 -2147483648 at layer 223
+Operation : rx(pi/2) 8 -2147483648 at layer 224
+Operation : rx(pi/2) 11 -2147483648 at layer 225
+Operation : rx(pi/2) 12 -2147483648 at layer 226
+Operation : cz 12 13 at layer 227
+Operation : t 1 -2147483648 at layer 227
+Operation : t 8 -2147483648 at layer 228
+Operation : t 11 -2147483648 at layer 229
+Operation : cz 8 13 at layer 229
+Operation : rx(pi/2) 0 -2147483648 at layer 230
+Operation : cz 6 11 at layer 230
+Operation : cz 13 14 at layer 230
+Operation : rx(pi/2) 7 -2147483648 at layer 231
+Operation : rx(pi/2) 4 -2147483648 at layer 232
+Operation : ry(pi/2) 9 -2147483648 at layer 233
+Operation : t 0 -2147483648 at layer 234
+Operation : t 7 -2147483648 at layer 235
+Operation : cz 6 7 at layer 236
+Operation : t 4 -2147483648 at layer 236
+Operation : cz 1 6 at layer 237
+Operation : t 9 -2147483648 at layer 237
+Operation : rx(pi/2) 5 -2147483648 at layer 238
+Operation : cz 0 1 at layer 238
+Operation : ry(pi/2) 2 -2147483648 at layer 239
+Operation : ry(pi/2) 3 -2147483648 at layer 240
+Operation : ry(pi/2) 12 -2147483648 at layer 241
+Operation : cz 3 4 at layer 241
+Operation : t 5 -2147483648 at layer 242
+Operation : t 2 -2147483648 at layer 243
+Operation : t 12 -2147483648 at layer 244
+Operation : ry(pi/2) 11 -2147483648 at layer 245
+Operation : ry(pi/2) 8 -2147483648 at layer 246
+Operation : cz 3 8 at layer 247
+Operation : t 11 -2147483648 at layer 247
+Operation : rx(pi/2) 7 -2147483648 at layer 248
+Operation : cz 10 11 at layer 248
+Operation : cz 7 8 at layer 249
+Operation : rx(pi/2) 4 -2147483648 at layer 249
+Operation : cz 5 10 at layer 249
+Operation : ry(pi/2) 13 -2147483648 at layer 250
+Operation : cz 7 12 at layer 250
+Operation : ry(pi/2) 14 -2147483648 at layer 251
+Operation : t 4 -2147483648 at layer 252
+Operation : t 13 -2147483648 at layer 253
+Operation : t 14 -2147483648 at layer 254
+Operation : rx(pi/2) 6 -2147483648 at layer 255
+Operation : cz 9 14 at layer 255
+Operation : ry(pi/2) 3 -2147483648 at layer 256
+Operation : t 6 -2147483648 at layer 257
+Operation : t 3 -2147483648 at layer 258
+Operation : ry(pi/2) 0 -2147483648 at layer 259
+Operation : rx(pi/2) 1 -2147483648 at layer 260
+Operation : ry(pi/2) 8 -2147483648 at layer 261
+Operation : cz 1 2 at layer 261
+Operation : ry(pi/2) 11 -2147483648 at layer 262
+Operation : cz 8 9 at layer 262
+Operation : cz 11 12 at layer 263
+Operation : t 0 -2147483648 at layer 263
+Operation : cz 4 9 at layer 263
+Operation : ry(pi/2) 5 -2147483648 at layer 264
+Operation : ry(pi/2) 10 -2147483648 at layer 265
+Operation : cz 0 5 at layer 265
+Operation : cz 5 6 at layer 266
+Operation : rx(pi/2) 7 -2147483648 at layer 266
+Operation : ry(pi/2) 14 -2147483648 at layer 267
+Operation : cz 2 7 at layer 267
+Operation : t 10 -2147483648 at layer 268
+Operation : cz 2 3 at layer 268
+Operation : t 14 -2147483648 at layer 269
+Operation : rx(pi/2) 1 -2147483648 at layer 270
+Operation : rx(pi/2) 8 -2147483648 at layer 271
+Operation : rx(pi/2) 11 -2147483648 at layer 272
+Operation : ry(pi/2) 12 -2147483648 at layer 273
+Operation : cz 12 13 at layer 274
+Operation : t 1 -2147483648 at layer 274
+Operation : t 8 -2147483648 at layer 275
+Operation : t 11 -2147483648 at layer 276
+Operation : cz 8 13 at layer 276
+Operation : rx(pi/2) 0 -2147483648 at layer 277
+Operation : cz 13 14 at layer 277
+Operation : cz 6 11 at layer 277
+Operation : rx(pi/2) 7 -2147483648 at layer 278
+Operation : ry(pi/2) 4 -2147483648 at layer 279
+Operation : ry(pi/2) 9 -2147483648 at layer 280
+Operation : t 0 -2147483648 at layer 281
+Operation : t 7 -2147483648 at layer 282
+Operation : t 4 -2147483648 at layer 283
+Operation : cz 6 7 at layer 283
+Operation : t 9 -2147483648 at layer 284
+Operation : cz 1 6 at layer 284
+Operation : ry(pi/2) 5 -2147483648 at layer 285
+Operation : cz 0 1 at layer 285
+Operation : ry(pi/2) 2 -2147483648 at layer 286
+Operation : rx(pi/2) 3 -2147483648 at layer 287
+Operation : ry(pi/2) 12 -2147483648 at layer 288
+Operation : cz 3 4 at layer 288
+Operation : t 5 -2147483648 at layer 289
+Operation : t 2 -2147483648 at layer 290
+Operation : t 12 -2147483648 at layer 291
+Operation : ry(pi/2) 11 -2147483648 at layer 292
+Operation : ry(pi/2) 8 -2147483648 at layer 293
+Operation : cz 3 8 at layer 294
+Operation : t 11 -2147483648 at layer 294
+Operation : rx(pi/2) 7 -2147483648 at layer 295
+Operation : cz 10 11 at layer 295
+Operation : cz 5 10 at layer 296
+Operation : cz 7 8 at layer 296
+Operation : ry(pi/2) 4 -2147483648 at layer 296
+Operation : rx(pi/2) 13 -2147483648 at layer 297
+Operation : cz 7 12 at layer 297
+Operation : rx(pi/2) 14 -2147483648 at layer 298
+Operation : t 4 -2147483648 at layer 299
+Operation : t 13 -2147483648 at layer 300
+Operation : t 14 -2147483648 at layer 301
+Operation : ry(pi/2) 6 -2147483648 at layer 302
+Operation : cz 9 14 at layer 302
+Operation : ry(pi/2) 3 -2147483648 at layer 303
+Operation : t 6 -2147483648 at layer 304
+Operation : t 3 -2147483648 at layer 305
+Operation : ry(pi/2) 0 -2147483648 at layer 306
+Operation : ry(pi/2) 1 -2147483648 at layer 307
+Operation : ry(pi/2) 8 -2147483648 at layer 308
+Operation : cz 1 2 at layer 308
+Operation : rx(pi/2) 11 -2147483648 at layer 309
+Operation : cz 8 9 at layer 309
+Operation : cz 11 12 at layer 310
+Operation : t 0 -2147483648 at layer 310
+Operation : cz 4 9 at layer 310
+Operation : ry(pi/2) 5 -2147483648 at layer 311
+Operation : ry(pi/2) 10 -2147483648 at layer 312
+Operation : cz 0 5 at layer 312
+Operation : rx(pi/2) 7 -2147483648 at layer 313
+Operation : cz 5 6 at layer 313
+Operation : cz 2 7 at layer 314
+Operation : rx(pi/2) 14 -2147483648 at layer 314
+Operation : cz 2 3 at layer 315
+Operation : t 10 -2147483648 at layer 315
+Operation : t 14 -2147483648 at layer 316
+Operation : ry(pi/2) 1 -2147483648 at layer 317
+Operation : ry(pi/2) 8 -2147483648 at layer 318
+Operation : rx(pi/2) 11 -2147483648 at layer 319
+Operation : ry(pi/2) 12 -2147483648 at layer 320
+Operation : cz 12 13 at layer 321
+Operation : t 1 -2147483648 at layer 321
+Operation : t 8 -2147483648 at layer 322
+Operation : t 11 -2147483648 at layer 323
+Operation : cz 8 13 at layer 323
+Operation : ry(pi/2) 0 -2147483648 at layer 324
+Operation : cz 13 14 at layer 324
+Operation : cz 6 11 at layer 324
+Operation : rx(pi/2) 7 -2147483648 at layer 325
+Operation : rx(pi/2) 4 -2147483648 at layer 326
+Operation : rx(pi/2) 9 -2147483648 at layer 327
+Operation : t 0 -2147483648 at layer 328
+Operation : t 7 -2147483648 at layer 329
+Operation : t 4 -2147483648 at layer 330
+Operation : cz 6 7 at layer 330
+Operation : cz 1 6 at layer 331
+Operation : t 9 -2147483648 at layer 331
+Operation : cz 0 1 at layer 332
+Operation : ry(pi/2) 5 -2147483648 at layer 332
+Operation : ry(pi/2) 2 -2147483648 at layer 333
+Operation : rx(pi/2) 3 -2147483648 at layer 334
+Operation : cz 3 4 at layer 335
+Operation : ry(pi/2) 12 -2147483648 at layer 335
+Operation : t 5 -2147483648 at layer 336
+Operation : t 2 -2147483648 at layer 337
+Operation : t 12 -2147483648 at layer 338
+Operation : rx(pi/2) 11 -2147483648 at layer 339
+Operation : rx(pi/2) 8 -2147483648 at layer 340
+Operation : cz 3 8 at layer 341
+Operation : t 11 -2147483648 at layer 341
+Operation : rx(pi/2) 7 -2147483648 at layer 342
+Operation : cz 10 11 at layer 342
+Operation : cz 5 10 at layer 343
+Operation : cz 7 8 at layer 343
+Operation : rx(pi/2) 4 -2147483648 at layer 343
+Operation : rx(pi/2) 13 -2147483648 at layer 344
+Operation : cz 7 12 at layer 344
+Operation : rx(pi/2) 14 -2147483648 at layer 345
+Operation : t 4 -2147483648 at layer 346
+Operation : t 13 -2147483648 at layer 347
+Operation : t 14 -2147483648 at layer 348
+Operation : ry(pi/2) 6 -2147483648 at layer 349
+Operation : cz 9 14 at layer 349
+Operation : ry(pi/2) 3 -2147483648 at layer 350
+Operation : t 6 -2147483648 at layer 351
+Operation : t 3 -2147483648 at layer 352
+Operation : rx(pi/2) 0 -2147483648 at layer 353
+Operation : rx(pi/2) 1 -2147483648 at layer 354
+Operation : rx(pi/2) 8 -2147483648 at layer 355
+Operation : cz 1 2 at layer 355
+Operation : ry(pi/2) 11 -2147483648 at layer 356
+Operation : cz 8 9 at layer 356
+Operation : cz 11 12 at layer 357
+Operation : t 0 -2147483648 at layer 357
+Operation : cz 4 9 at layer 357
+Operation : rx(pi/2) 5 -2147483648 at layer 358
+Operation : ry(pi/2) 10 -2147483648 at layer 359
+Operation : cz 0 5 at layer 359
+Operation : cz 5 6 at layer 360
+Operation : rx(pi/2) 7 -2147483648 at layer 360
+Operation : cz 2 7 at layer 361
+Operation : rx(pi/2) 14 -2147483648 at layer 361
+Operation : t 10 -2147483648 at layer 362
+Operation : cz 2 3 at layer 362
+Operation : t 14 -2147483648 at layer 363
+Operation : ry(pi/2) 1 -2147483648 at layer 364
+Operation : ry(pi/2) 8 -2147483648 at layer 365
+Operation : rx(pi/2) 11 -2147483648 at layer 366
+Operation : ry(pi/2) 12 -2147483648 at layer 367
+Operation : cz 12 13 at layer 368
+Operation : t 1 -2147483648 at layer 368
+Operation : t 8 -2147483648 at layer 369
+Operation : t 11 -2147483648 at layer 370
+Operation : cz 8 13 at layer 370
+Operation : cz 13 14 at layer 371
+Operation : cz 6 11 at layer 371
+Operation : rx(pi/2) 0 -2147483648 at layer 371
+Operation : rx(pi/2) 7 -2147483648 at layer 372
+Operation : rx(pi/2) 4 -2147483648 at layer 373
+Operation : rx(pi/2) 9 -2147483648 at layer 374
+Operation : t 0 -2147483648 at layer 375
+Operation : t 7 -2147483648 at layer 376
+Operation : t 4 -2147483648 at layer 377
+Operation : cz 6 7 at layer 377
+Operation : t 9 -2147483648 at layer 378
+Operation : cz 1 6 at layer 378
+Operation : cz 0 1 at layer 379
+Operation : ry(pi/2) 5 -2147483648 at layer 379
+Operation : rx(pi/2) 2 -2147483648 at layer 380
+Operation : rx(pi/2) 3 -2147483648 at layer 381
+Operation : rx(pi/2) 12 -2147483648 at layer 382
+Operation : cz 3 4 at layer 382
+Operation : t 5 -2147483648 at layer 383
+Operation : t 2 -2147483648 at layer 384
+Operation : t 12 -2147483648 at layer 385
+Operation : ry(pi/2) 11 -2147483648 at layer 386
+Operation : rx(pi/2) 8 -2147483648 at layer 387
+Operation : cz 3 8 at layer 388
+Operation : t 11 -2147483648 at layer 388
+Operation : ry(pi/2) 7 -2147483648 at layer 389
+Operation : cz 10 11 at layer 389
+Operation : ry(pi/2) 4 -2147483648 at layer 390
+Operation : cz 5 10 at layer 390
+Operation : cz 7 8 at layer 390
+Operation : ry(pi/2) 13 -2147483648 at layer 391
+Operation : cz 7 12 at layer 391
+Operation : rx(pi/2) 14 -2147483648 at layer 392
+Operation : t 4 -2147483648 at layer 393
+Operation : t 13 -2147483648 at layer 394
+Operation : t 14 -2147483648 at layer 395
+Operation : ry(pi/2) 6 -2147483648 at layer 396
+Operation : cz 9 14 at layer 396
+Operation : ry(pi/2) 3 -2147483648 at layer 397
+Operation : t 6 -2147483648 at layer 398
+Operation : t 3 -2147483648 at layer 399
+Operation : rx(pi/2) 0 -2147483648 at layer 400
+Operation : rx(pi/2) 1 -2147483648 at layer 401
+Operation : ry(pi/2) 8 -2147483648 at layer 402
+Operation : cz 1 2 at layer 402
+Operation : ry(pi/2) 11 -2147483648 at layer 403
+Operation : cz 8 9 at layer 403
+Operation : cz 11 12 at layer 404
+Operation : cz 4 9 at layer 404
+Operation : t 0 -2147483648 at layer 404
+Operation : ry(pi/2) 5 -2147483648 at layer 405
+Operation : rx(pi/2) 10 -2147483648 at layer 406
+Operation : cz 0 5 at layer 406
+Operation : cz 5 6 at layer 407
+Operation : ry(pi/2) 7 -2147483648 at layer 407
+Operation : rx(pi/2) 14 -2147483648 at layer 408
+Operation : cz 2 7 at layer 408
+Operation : t 10 -2147483648 at layer 409
+Operation : cz 2 3 at layer 409
+Operation : t 14 -2147483648 at layer 410
+Operation : ry(pi/2) 1 -2147483648 at layer 411
+Operation : rx(pi/2) 8 -2147483648 at layer 412
+Operation : rx(pi/2) 11 -2147483648 at layer 413
+Operation : rx(pi/2) 12 -2147483648 at layer 414
+Operation : cz 12 13 at layer 415
+Operation : t 1 -2147483648 at layer 415
+Operation : t 8 -2147483648 at layer 416
+Operation : t 11 -2147483648 at layer 417
+Operation : cz 8 13 at layer 417
+Operation : ry(pi/2) 0 -2147483648 at layer 418
+Operation : cz 6 11 at layer 418
+Operation : cz 13 14 at layer 418
+Operation : ry(pi/2) 7 -2147483648 at layer 419
+Operation : rx(pi/2) 4 -2147483648 at layer 420
+Operation : ry(pi/2) 9 -2147483648 at layer 421
+Operation : t 0 -2147483648 at layer 422
+Operation : t 7 -2147483648 at layer 423
+Operation : t 4 -2147483648 at layer 424
+Operation : cz 6 7 at layer 424
+Operation : t 9 -2147483648 at layer 425
+Operation : cz 1 6 at layer 425
+Operation : rx(pi/2) 5 -2147483648 at layer 426
+Operation : cz 0 1 at layer 426
+Operation : rx(pi/2) 2 -2147483648 at layer 427
+Operation : ry(pi/2) 3 -2147483648 at layer 428
+Operation : rx(pi/2) 12 -2147483648 at layer 429
+Operation : cz 3 4 at layer 429
+Operation : t 5 -2147483648 at layer 430
+Operation : t 2 -2147483648 at layer 431
+Operation : t 12 -2147483648 at layer 432
+Operation : ry(pi/2) 11 -2147483648 at layer 433
+Operation : rx(pi/2) 8 -2147483648 at layer 434
+Operation : cz 3 8 at layer 435
+Operation : t 11 -2147483648 at layer 435
+Operation : rx(pi/2) 7 -2147483648 at layer 436
+Operation : cz 10 11 at layer 436
+Operation : rx(pi/2) 4 -2147483648 at layer 437
+Operation : cz 5 10 at layer 437
+Operation : cz 7 8 at layer 437
+Operation : rx(pi/2) 13 -2147483648 at layer 438
+Operation : cz 7 12 at layer 438
+Operation : ry(pi/2) 14 -2147483648 at layer 439
+Operation : t 4 -2147483648 at layer 440
+Operation : t 13 -2147483648 at layer 441
+Operation : t 14 -2147483648 at layer 442
+Operation : rx(pi/2) 6 -2147483648 at layer 443
+Operation : cz 9 14 at layer 443
+Operation : ry(pi/2) 3 -2147483648 at layer 444
+Operation : t 6 -2147483648 at layer 445
+Operation : t 3 -2147483648 at layer 446
+Operation : ry(pi/2) 0 -2147483648 at layer 447
+Operation : rx(pi/2) 1 -2147483648 at layer 448
+Operation : ry(pi/2) 8 -2147483648 at layer 449
+Operation : cz 1 2 at layer 449
+Operation : rx(pi/2) 11 -2147483648 at layer 450
+Operation : cz 8 9 at layer 450
+Operation : t 0 -2147483648 at layer 451
+Operation : cz 4 9 at layer 451
+Operation : cz 11 12 at layer 451
+Operation : rx(pi/2) 5 -2147483648 at layer 452
+Operation : ry(pi/2) 10 -2147483648 at layer 453
+Operation : cz 0 5 at layer 453
+Operation : ry(pi/2) 7 -2147483648 at layer 454
+Operation : cz 5 6 at layer 454
+Operation : rx(pi/2) 14 -2147483648 at layer 455
+Operation : cz 2 7 at layer 455
+Operation : t 10 -2147483648 at layer 456
+Operation : cz 2 3 at layer 456
+Operation : t 14 -2147483648 at layer 457
+Operation : rx(pi/2) 1 -2147483648 at layer 458
+Operation : ry(pi/2) 8 -2147483648 at layer 459
+Operation : ry(pi/2) 11 -2147483648 at layer 460
+Operation : ry(pi/2) 12 -2147483648 at layer 461
+Operation : cz 12 13 at layer 462
+Operation : t 1 -2147483648 at layer 462
+Operation : t 8 -2147483648 at layer 463
+Operation : t 11 -2147483648 at layer 464
+Operation : cz 8 13 at layer 464
+Operation : rx(pi/2) 0 -2147483648 at layer 465
+Operation : cz 13 14 at layer 465
+Operation : cz 6 11 at layer 465
+Operation : ry(pi/2) 7 -2147483648 at layer 466
+Operation : rx(pi/2) 4 -2147483648 at layer 467
+Operation : ry(pi/2) 9 -2147483648 at layer 468
+Operation : t 0 -2147483648 at layer 469
+Operation : t 7 -2147483648 at layer 470
+Operation : t 4 -2147483648 at layer 471
+Operation : cz 6 7 at layer 471
+Operation : t 9 -2147483648 at layer 472
+Operation : cz 1 6 at layer 472
+Operation : rx(pi/2) 5 -2147483648 at layer 473
+Operation : ry(pi/2) 2 -2147483648 at layer 474
+Operation : rx(pi/2) 3 -2147483648 at layer 475
+Operation : cz 3 4 at layer 476
+Operation : rx(pi/2) 12 -2147483648 at layer 476
+Operation : t 5 -2147483648 at layer 477
+Operation : t 2 -2147483648 at layer 478
+Operation : t 12 -2147483648 at layer 479
+Operation : ry(pi/2) 11 -2147483648 at layer 480
+Operation : ry(pi/2) 8 -2147483648 at layer 481
+Operation : t 11 -2147483648 at layer 482
+Operation : cz 3 8 at layer 482
+Operation : rx(pi/2) 7 -2147483648 at layer 483
+Operation : rx(pi/2) 4 -2147483648 at layer 484
+Operation : rx(pi/2) 13 -2147483648 at layer 485
+Operation : ry(pi/2) 14 -2147483648 at layer 486
+Operation : h 0 -2147483648 at layer 487
+Operation : h 1 -2147483648 at layer 488
+Operation : h 2 -2147483648 at layer 489
+Operation : h 3 -2147483648 at layer 490
+Operation : h 4 -2147483648 at layer 491
+Operation : h 5 -2147483648 at layer 492
+Operation : h 6 -2147483648 at layer 493
+Operation : h 7 -2147483648 at layer 494
+Operation : h 8 -2147483648 at layer 495
+Operation : h 9 -2147483648 at layer 496
+Operation : h 10 -2147483648 at layer 497
+Operation : h 11 -2147483648 at layer 498
+Operation : h 12 -2147483648 at layer 499
+Operation : h 13 -2147483648 at layer 500
+Operation : h 14 -2147483648 at layer 501
+Edge weights:
+Qubit 0 - Qubit 1 : 5.72908
+Qubit 0 - Qubit 5 : 5.18924
+Qubit 1 - Qubit 2 : 5.26892
+Qubit 1 - Qubit 6 : 4.81076
+Qubit 2 - Qubit 3 : 5.12948
+Qubit 2 - Qubit 7 : 5.1494
+Qubit 3 - Qubit 4 : 4.73108
+Qubit 3 - Qubit 8 : 4.61155
+Qubit 4 - Qubit 9 : 5.22908
+Qubit 5 - Qubit 6 : 5.16932
+Qubit 5 - Qubit 10 : 5.49801
+Qubit 6 - Qubit 7 : 4.83068
+Qubit 6 - Qubit 11 : 4.9502
+Qubit 7 - Qubit 8 : 5.51793
+Qubit 7 - Qubit 12 : 5.4741
+Qubit 8 - Qubit 9 : 5.249
+Qubit 8 - Qubit 13 : 4.97012
+Qubit 9 - Qubit 14 : 5.38048
+Qubit 10 - Qubit 11 : 5.52988
+Qubit 11 - Qubit 12 : 5.22908
+Qubit 12 - Qubit 13 : 5.00996
+Qubit 13 - Qubit 14 : 4.9502
+寫入完成，結果存於 qubit_graph.txt
+supremacy_20.qasm
+Operation : h 0 -2147483648 at layer 0
+Operation : h 1 -2147483648 at layer 1
+Operation : h 2 -2147483648 at layer 2
+Operation : cz 0 1 at layer 2
+Operation : h 3 -2147483648 at layer 3
+Operation : h 4 -2147483648 at layer 4
+Operation : h 5 -2147483648 at layer 5
+Operation : h 6 -2147483648 at layer 6
+Operation : h 7 -2147483648 at layer 7
+Operation : h 8 -2147483648 at layer 8
+Operation : cz 6 7 at layer 8
+Operation : h 9 -2147483648 at layer 9
+Operation : h 10 -2147483648 at layer 10
+Operation : cz 8 9 at layer 10
+Operation : h 11 -2147483648 at layer 11
+Operation : h 12 -2147483648 at layer 12
+Operation : h 13 -2147483648 at layer 13
+Operation : h 14 -2147483648 at layer 14
+Operation : h 15 -2147483648 at layer 15
+Operation : h 16 -2147483648 at layer 16
+Operation : cz 14 15 at layer 16
+Operation : h 17 -2147483648 at layer 17
+Operation : h 18 -2147483648 at layer 18
+Operation : cz 16 17 at layer 18
+Operation : h 19 -2147483648 at layer 19
+Operation : t 2 -2147483648 at layer 20
+Operation : t 3 -2147483648 at layer 21
+Operation : t 4 -2147483648 at layer 22
+Operation : t 5 -2147483648 at layer 23
+Operation : cz 4 8 at layer 23
+Operation : t 10 -2147483648 at layer 24
+Operation : t 11 -2147483648 at layer 25
+Operation : cz 6 10 at layer 25
+Operation : t 12 -2147483648 at layer 26
+Operation : t 13 -2147483648 at layer 27
+Operation : t 18 -2147483648 at layer 28
+Operation : cz 13 17 at layer 28
+Operation : t 19 -2147483648 at layer 29
+Operation : cz 17 18 at layer 29
+Operation : rx(pi/2) 0 -2147483648 at layer 30
+Operation : cz 15 19 at layer 30
+Operation : ry(pi/2) 1 -2147483648 at layer 31
+Operation : cz 1 2 at layer 32
+Operation : rx(pi/2) 7 -2147483648 at layer 32
+Operation : ry(pi/2) 9 -2147483648 at layer 33
+Operation : ry(pi/2) 14 -2147483648 at layer 34
+Operation : cz 9 10 at layer 34
+Operation : ry(pi/2) 16 -2147483648 at layer 35
+Operation : t 0 -2147483648 at layer 36
+Operation : t 7 -2147483648 at layer 37
+Operation : t 14 -2147483648 at layer 38
+Operation : t 16 -2147483648 at layer 39
+Operation : rx(pi/2) 4 -2147483648 at layer 40
+Operation : ry(pi/2) 8 -2147483648 at layer 41
+Operation : cz 0 4 at layer 41
+Operation : cz 4 5 at layer 42
+Operation : ry(pi/2) 13 -2147483648 at layer 42
+Operation : ry(pi/2) 6 -2147483648 at layer 43
+Operation : cz 9 13 at layer 43
+Operation : ry(pi/2) 15 -2147483648 at layer 44
+Operation : cz 2 6 at layer 44
+Operation : cz 12 13 at layer 44
+Operation : ry(pi/2) 19 -2147483648 at layer 45
+Operation : cz 11 15 at layer 45
+Operation : cz 12 16 at layer 45
+Operation : cz 2 3 at layer 45
+Operation : t 8 -2147483648 at layer 46
+Operation : t 19 -2147483648 at layer 47
+Operation : ry(pi/2) 1 -2147483648 at layer 48
+Operation : ry(pi/2) 10 -2147483648 at layer 49
+Operation : ry(pi/2) 17 -2147483648 at layer 50
+Operation : cz 10 11 at layer 50
+Operation : rx(pi/2) 18 -2147483648 at layer 51
+Operation : cz 7 11 at layer 51
+Operation : cz 18 19 at layer 52
+Operation : t 1 -2147483648 at layer 52
+Operation : t 17 -2147483648 at layer 53
+Operation : cz 14 18 at layer 53
+Operation : rx(pi/2) 0 -2147483648 at layer 54
+Operation : rx(pi/2) 9 -2147483648 at layer 55
+Operation : ry(pi/2) 6 -2147483648 at layer 56
+Operation : cz 5 9 at layer 56
+Operation : ry(pi/2) 15 -2147483648 at layer 57
+Operation : t 0 -2147483648 at layer 58
+Operation : t 6 -2147483648 at layer 59
+Operation : t 15 -2147483648 at layer 60
+Operation : cz 5 6 at layer 60
+Operation : ry(pi/2) 4 -2147483648 at layer 61
+Operation : cz 1 5 at layer 61
+Operation : rx(pi/2) 2 -2147483648 at layer 62
+Operation : cz 0 1 at layer 62
+Operation : ry(pi/2) 3 -2147483648 at layer 63
+Operation : rx(pi/2) 13 -2147483648 at layer 64
+Operation : ry(pi/2) 10 -2147483648 at layer 65
+Operation : cz 13 14 at layer 65
+Operation : rx(pi/2) 19 -2147483648 at layer 66
+Operation : t 4 -2147483648 at layer 67
+Operation : t 2 -2147483648 at layer 68
+Operation : t 3 -2147483648 at layer 69
+Operation : t 10 -2147483648 at layer 70
+Operation : t 19 -2147483648 at layer 71
+Operation : cz 10 14 at layer 71
+Operation : cz 14 15 at layer 72
+Operation : rx(pi/2) 9 -2147483648 at layer 72
+Operation : cz 15 19 at layer 73
+Operation : ry(pi/2) 12 -2147483648 at layer 73
+Operation : cz 8 12 at layer 74
+Operation : rx(pi/2) 16 -2147483648 at layer 74
+Operation : ry(pi/2) 7 -2147483648 at layer 75
+Operation : cz 3 7 at layer 76
+Operation : ry(pi/2) 11 -2147483648 at layer 76
+Operation : ry(pi/2) 18 -2147483648 at layer 77
+Operation : t 9 -2147483648 at layer 78
+Operation : t 16 -2147483648 at layer 79
+Operation : cz 8 9 at layer 79
+Operation : cz 16 17 at layer 80
+Operation : cz 4 8 at layer 80
+Operation : t 11 -2147483648 at layer 80
+Operation : t 18 -2147483648 at layer 81
+Operation : rx(pi/2) 6 -2147483648 at layer 82
+Operation : cz 6 7 at layer 83
+Operation : rx(pi/2) 13 -2147483648 at layer 83
+Operation : t 13 -2147483648 at layer 84
+Operation : ry(pi/2) 5 -2147483648 at layer 85
+Operation : cz 13 17 at layer 85
+Operation : ry(pi/2) 12 -2147483648 at layer 86
+Operation : cz 17 18 at layer 86
+Operation : rx(pi/2) 3 -2147483648 at layer 87
+Operation : rx(pi/2) 10 -2147483648 at layer 88
+Operation : t 5 -2147483648 at layer 89
+Operation : cz 6 10 at layer 89
+Operation : t 12 -2147483648 at layer 90
+Operation : t 3 -2147483648 at layer 91
+Operation : ry(pi/2) 0 -2147483648 at layer 92
+Operation : ry(pi/2) 1 -2147483648 at layer 93
+Operation : cz 1 2 at layer 94
+Operation : ry(pi/2) 7 -2147483648 at layer 94
+Operation : rx(pi/2) 9 -2147483648 at layer 95
+Operation : ry(pi/2) 14 -2147483648 at layer 96
+Operation : cz 9 10 at layer 96
+Operation : ry(pi/2) 16 -2147483648 at layer 97
+Operation : t 0 -2147483648 at layer 98
+Operation : t 7 -2147483648 at layer 99
+Operation : t 14 -2147483648 at layer 100
+Operation : t 16 -2147483648 at layer 101
+Operation : ry(pi/2) 4 -2147483648 at layer 102
+Operation : rx(pi/2) 8 -2147483648 at layer 103
+Operation : cz 0 4 at layer 103
+Operation : rx(pi/2) 13 -2147483648 at layer 104
+Operation : cz 4 5 at layer 104
+Operation : rx(pi/2) 6 -2147483648 at layer 105
+Operation : cz 9 13 at layer 105
+Operation : rx(pi/2) 15 -2147483648 at layer 106
+Operation : cz 2 6 at layer 106
+Operation : cz 12 13 at layer 106
+Operation : ry(pi/2) 19 -2147483648 at layer 107
+Operation : cz 11 15 at layer 107
+Operation : cz 12 16 at layer 107
+Operation : cz 2 3 at layer 107
+Operation : t 8 -2147483648 at layer 108
+Operation : t 19 -2147483648 at layer 109
+Operation : rx(pi/2) 1 -2147483648 at layer 110
+Operation : ry(pi/2) 10 -2147483648 at layer 111
+Operation : ry(pi/2) 17 -2147483648 at layer 112
+Operation : cz 10 11 at layer 112
+Operation : ry(pi/2) 18 -2147483648 at layer 113
+Operation : cz 7 11 at layer 113
+Operation : cz 18 19 at layer 114
+Operation : t 1 -2147483648 at layer 114
+Operation : t 17 -2147483648 at layer 115
+Operation : cz 14 18 at layer 115
+Operation : rx(pi/2) 0 -2147483648 at layer 116
+Operation : ry(pi/2) 9 -2147483648 at layer 117
+Operation : ry(pi/2) 6 -2147483648 at layer 118
+Operation : cz 5 9 at layer 118
+Operation : rx(pi/2) 15 -2147483648 at layer 119
+Operation : t 0 -2147483648 at layer 120
+Operation : t 6 -2147483648 at layer 121
+Operation : t 15 -2147483648 at layer 122
+Operation : cz 5 6 at layer 122
+Operation : rx(pi/2) 4 -2147483648 at layer 123
+Operation : cz 1 5 at layer 123
+Operation : ry(pi/2) 2 -2147483648 at layer 124
+Operation : cz 0 1 at layer 124
+Operation : rx(pi/2) 3 -2147483648 at layer 125
+Operation : rx(pi/2) 13 -2147483648 at layer 126
+Operation : rx(pi/2) 10 -2147483648 at layer 127
+Operation : cz 13 14 at layer 127
+Operation : ry(pi/2) 19 -2147483648 at layer 128
+Operation : t 4 -2147483648 at layer 129
+Operation : t 2 -2147483648 at layer 130
+Operation : t 3 -2147483648 at layer 131
+Operation : t 10 -2147483648 at layer 132
+Operation : t 19 -2147483648 at layer 133
+Operation : cz 10 14 at layer 133
+Operation : ry(pi/2) 9 -2147483648 at layer 134
+Operation : cz 14 15 at layer 134
+Operation : ry(pi/2) 12 -2147483648 at layer 135
+Operation : cz 15 19 at layer 135
+Operation : rx(pi/2) 16 -2147483648 at layer 136
+Operation : cz 8 12 at layer 136
+Operation : rx(pi/2) 7 -2147483648 at layer 137
+Operation : cz 3 7 at layer 138
+Operation : ry(pi/2) 11 -2147483648 at layer 138
+Operation : ry(pi/2) 18 -2147483648 at layer 139
+Operation : t 9 -2147483648 at layer 140
+Operation : t 16 -2147483648 at layer 141
+Operation : cz 8 9 at layer 141
+Operation : cz 4 8 at layer 142
+Operation : cz 16 17 at layer 142
+Operation : t 11 -2147483648 at layer 142
+Operation : t 18 -2147483648 at layer 143
+Operation : rx(pi/2) 6 -2147483648 at layer 144
+Operation : rx(pi/2) 13 -2147483648 at layer 145
+Operation : cz 6 7 at layer 145
+Operation : t 13 -2147483648 at layer 146
+Operation : rx(pi/2) 5 -2147483648 at layer 147
+Operation : cz 13 17 at layer 147
+Operation : rx(pi/2) 12 -2147483648 at layer 148
+Operation : cz 17 18 at layer 148
+Operation : ry(pi/2) 3 -2147483648 at layer 149
+Operation : ry(pi/2) 10 -2147483648 at layer 150
+Operation : cz 6 10 at layer 151
+Operation : t 5 -2147483648 at layer 151
+Operation : t 12 -2147483648 at layer 152
+Operation : t 3 -2147483648 at layer 153
+Operation : rx(pi/2) 0 -2147483648 at layer 154
+Operation : rx(pi/2) 1 -2147483648 at layer 155
+Operation : rx(pi/2) 7 -2147483648 at layer 156
+Operation : cz 1 2 at layer 156
+Operation : rx(pi/2) 9 -2147483648 at layer 157
+Operation : cz 9 10 at layer 158
+Operation : rx(pi/2) 14 -2147483648 at layer 158
+Operation : ry(pi/2) 16 -2147483648 at layer 159
+Operation : t 0 -2147483648 at layer 160
+Operation : t 7 -2147483648 at layer 161
+Operation : t 14 -2147483648 at layer 162
+Operation : t 16 -2147483648 at layer 163
+Operation : rx(pi/2) 4 -2147483648 at layer 164
+Operation : rx(pi/2) 8 -2147483648 at layer 165
+Operation : cz 0 4 at layer 165
+Operation : rx(pi/2) 13 -2147483648 at layer 166
+Operation : cz 4 5 at layer 166
+Operation : ry(pi/2) 6 -2147483648 at layer 167
+Operation : cz 9 13 at layer 167
+Operation : cz 2 6 at layer 168
+Operation : cz 12 13 at layer 168
+Operation : rx(pi/2) 15 -2147483648 at layer 168
+Operation : cz 12 16 at layer 169
+Operation : cz 11 15 at layer 169
+Operation : ry(pi/2) 19 -2147483648 at layer 169
+Operation : cz 2 3 at layer 169
+Operation : t 8 -2147483648 at layer 170
+Operation : t 19 -2147483648 at layer 171
+Operation : rx(pi/2) 1 -2147483648 at layer 172
+Operation : rx(pi/2) 10 -2147483648 at layer 173
+Operation : rx(pi/2) 17 -2147483648 at layer 174
+Operation : cz 10 11 at layer 174
+Operation : rx(pi/2) 18 -2147483648 at layer 175
+Operation : cz 7 11 at layer 175
+Operation : cz 18 19 at layer 176
+Operation : t 1 -2147483648 at layer 176
+Operation : t 17 -2147483648 at layer 177
+Operation : cz 14 18 at layer 177
+Operation : rx(pi/2) 0 -2147483648 at layer 178
+Operation : rx(pi/2) 9 -2147483648 at layer 179
+Operation : rx(pi/2) 6 -2147483648 at layer 180
+Operation : cz 5 9 at layer 180
+Operation : ry(pi/2) 15 -2147483648 at layer 181
+Operation : t 0 -2147483648 at layer 182
+Operation : t 6 -2147483648 at layer 183
+Operation : t 15 -2147483648 at layer 184
+Operation : cz 5 6 at layer 184
+Operation : ry(pi/2) 4 -2147483648 at layer 185
+Operation : cz 1 5 at layer 185
+Operation : rx(pi/2) 2 -2147483648 at layer 186
+Operation : cz 0 1 at layer 186
+Operation : ry(pi/2) 3 -2147483648 at layer 187
+Operation : ry(pi/2) 13 -2147483648 at layer 188
+Operation : cz 13 14 at layer 189
+Operation : rx(pi/2) 10 -2147483648 at layer 189
+Operation : rx(pi/2) 19 -2147483648 at layer 190
+Operation : t 4 -2147483648 at layer 191
+Operation : t 2 -2147483648 at layer 192
+Operation : t 3 -2147483648 at layer 193
+Operation : t 10 -2147483648 at layer 194
+Operation : t 19 -2147483648 at layer 195
+Operation : cz 10 14 at layer 195
+Operation : ry(pi/2) 9 -2147483648 at layer 196
+Operation : cz 14 15 at layer 196
+Operation : rx(pi/2) 12 -2147483648 at layer 197
+Operation : cz 15 19 at layer 197
+Operation : ry(pi/2) 16 -2147483648 at layer 198
+Operation : cz 8 12 at layer 198
+Operation : ry(pi/2) 7 -2147483648 at layer 199
+Operation : cz 3 7 at layer 200
+Operation : rx(pi/2) 11 -2147483648 at layer 200
+Operation : rx(pi/2) 18 -2147483648 at layer 201
+Operation : t 9 -2147483648 at layer 202
+Operation : t 16 -2147483648 at layer 203
+Operation : cz 8 9 at layer 203
+Operation : cz 16 17 at layer 204
+Operation : cz 4 8 at layer 204
+Operation : t 11 -2147483648 at layer 204
+Operation : t 18 -2147483648 at layer 205
+Operation : ry(pi/2) 6 -2147483648 at layer 206
+Operation : rx(pi/2) 13 -2147483648 at layer 207
+Operation : cz 6 7 at layer 207
+Operation : t 13 -2147483648 at layer 208
+Operation : ry(pi/2) 5 -2147483648 at layer 209
+Operation : cz 13 17 at layer 209
+Operation : cz 17 18 at layer 210
+Operation : ry(pi/2) 12 -2147483648 at layer 210
+Operation : rx(pi/2) 3 -2147483648 at layer 211
+Operation : rx(pi/2) 10 -2147483648 at layer 212
+Operation : cz 6 10 at layer 213
+Operation : t 5 -2147483648 at layer 213
+Operation : t 12 -2147483648 at layer 214
+Operation : t 3 -2147483648 at layer 215
+Operation : ry(pi/2) 0 -2147483648 at layer 216
+Operation : ry(pi/2) 1 -2147483648 at layer 217
+Operation : cz 1 2 at layer 218
+Operation : ry(pi/2) 7 -2147483648 at layer 218
+Operation : ry(pi/2) 9 -2147483648 at layer 219
+Operation : cz 9 10 at layer 220
+Operation : ry(pi/2) 14 -2147483648 at layer 220
+Operation : ry(pi/2) 16 -2147483648 at layer 221
+Operation : t 0 -2147483648 at layer 222
+Operation : t 7 -2147483648 at layer 223
+Operation : t 14 -2147483648 at layer 224
+Operation : t 16 -2147483648 at layer 225
+Operation : rx(pi/2) 4 -2147483648 at layer 226
+Operation : rx(pi/2) 8 -2147483648 at layer 227
+Operation : cz 0 4 at layer 227
+Operation : ry(pi/2) 13 -2147483648 at layer 228
+Operation : cz 4 5 at layer 228
+Operation : rx(pi/2) 6 -2147483648 at layer 229
+Operation : cz 9 13 at layer 229
+Operation : cz 12 13 at layer 230
+Operation : cz 2 6 at layer 230
+Operation : rx(pi/2) 15 -2147483648 at layer 230
+Operation : rx(pi/2) 19 -2147483648 at layer 231
+Operation : cz 2 3 at layer 231
+Operation : cz 12 16 at layer 231
+Operation : cz 11 15 at layer 231
+Operation : t 8 -2147483648 at layer 232
+Operation : t 19 -2147483648 at layer 233
+Operation : ry(pi/2) 1 -2147483648 at layer 234
+Operation : ry(pi/2) 10 -2147483648 at layer 235
+Operation : ry(pi/2) 17 -2147483648 at layer 236
+Operation : cz 10 11 at layer 236
+Operation : ry(pi/2) 18 -2147483648 at layer 237
+Operation : cz 7 11 at layer 237
+Operation : cz 18 19 at layer 238
+Operation : t 1 -2147483648 at layer 238
+Operation : t 17 -2147483648 at layer 239
+Operation : cz 14 18 at layer 239
+Operation : ry(pi/2) 0 -2147483648 at layer 240
+Operation : rx(pi/2) 9 -2147483648 at layer 241
+Operation : ry(pi/2) 6 -2147483648 at layer 242
+Operation : cz 5 9 at layer 242
+Operation : ry(pi/2) 15 -2147483648 at layer 243
+Operation : t 0 -2147483648 at layer 244
+Operation : t 6 -2147483648 at layer 245
+Operation : t 15 -2147483648 at layer 246
+Operation : cz 5 6 at layer 246
+Operation : ry(pi/2) 4 -2147483648 at layer 247
+Operation : cz 1 5 at layer 247
+Operation : ry(pi/2) 2 -2147483648 at layer 248
+Operation : cz 0 1 at layer 248
+Operation : rx(pi/2) 3 -2147483648 at layer 249
+Operation : ry(pi/2) 13 -2147483648 at layer 250
+Operation : ry(pi/2) 10 -2147483648 at layer 251
+Operation : cz 13 14 at layer 251
+Operation : rx(pi/2) 19 -2147483648 at layer 252
+Operation : t 4 -2147483648 at layer 253
+Operation : t 2 -2147483648 at layer 254
+Operation : t 3 -2147483648 at layer 255
+Operation : t 10 -2147483648 at layer 256
+Operation : t 19 -2147483648 at layer 257
+Operation : cz 10 14 at layer 257
+Operation : ry(pi/2) 9 -2147483648 at layer 258
+Operation : cz 14 15 at layer 258
+Operation : cz 15 19 at layer 259
+Operation : ry(pi/2) 12 -2147483648 at layer 259
+Operation : cz 8 12 at layer 260
+Operation : ry(pi/2) 16 -2147483648 at layer 260
+Operation : ry(pi/2) 7 -2147483648 at layer 261
+Operation : cz 3 7 at layer 262
+Operation : rx(pi/2) 11 -2147483648 at layer 262
+Operation : ry(pi/2) 18 -2147483648 at layer 263
+Operation : t 9 -2147483648 at layer 264
+Operation : t 16 -2147483648 at layer 265
+Operation : cz 8 9 at layer 265
+Operation : cz 16 17 at layer 266
+Operation : cz 4 8 at layer 266
+Operation : t 11 -2147483648 at layer 266
+Operation : t 18 -2147483648 at layer 267
+Operation : rx(pi/2) 6 -2147483648 at layer 268
+Operation : rx(pi/2) 13 -2147483648 at layer 269
+Operation : cz 6 7 at layer 269
+Operation : t 13 -2147483648 at layer 270
+Operation : rx(pi/2) 5 -2147483648 at layer 271
+Operation : cz 13 17 at layer 271
+Operation : ry(pi/2) 12 -2147483648 at layer 272
+Operation : cz 17 18 at layer 272
+Operation : rx(pi/2) 3 -2147483648 at layer 273
+Operation : ry(pi/2) 10 -2147483648 at layer 274
+Operation : cz 6 10 at layer 275
+Operation : t 5 -2147483648 at layer 275
+Operation : t 12 -2147483648 at layer 276
+Operation : t 3 -2147483648 at layer 277
+Operation : rx(pi/2) 0 -2147483648 at layer 278
+Operation : rx(pi/2) 1 -2147483648 at layer 279
+Operation : cz 1 2 at layer 280
+Operation : rx(pi/2) 7 -2147483648 at layer 280
+Operation : rx(pi/2) 9 -2147483648 at layer 281
+Operation : ry(pi/2) 14 -2147483648 at layer 282
+Operation : cz 9 10 at layer 282
+Operation : rx(pi/2) 16 -2147483648 at layer 283
+Operation : t 0 -2147483648 at layer 284
+Operation : t 7 -2147483648 at layer 285
+Operation : t 14 -2147483648 at layer 286
+Operation : t 16 -2147483648 at layer 287
+Operation : rx(pi/2) 4 -2147483648 at layer 288
+Operation : ry(pi/2) 8 -2147483648 at layer 289
+Operation : cz 0 4 at layer 289
+Operation : cz 4 5 at layer 290
+Operation : ry(pi/2) 13 -2147483648 at layer 290
+Operation : ry(pi/2) 6 -2147483648 at layer 291
+Operation : cz 9 13 at layer 291
+Operation : ry(pi/2) 15 -2147483648 at layer 292
+Operation : cz 2 6 at layer 292
+Operation : cz 12 13 at layer 292
+Operation : ry(pi/2) 19 -2147483648 at layer 293
+Operation : cz 11 15 at layer 293
+Operation : cz 12 16 at layer 293
+Operation : cz 2 3 at layer 293
+Operation : t 8 -2147483648 at layer 294
+Operation : t 19 -2147483648 at layer 295
+Operation : rx(pi/2) 1 -2147483648 at layer 296
+Operation : ry(pi/2) 10 -2147483648 at layer 297
+Operation : ry(pi/2) 17 -2147483648 at layer 298
+Operation : cz 10 11 at layer 298
+Operation : ry(pi/2) 18 -2147483648 at layer 299
+Operation : cz 7 11 at layer 299
+Operation : cz 18 19 at layer 300
+Operation : t 1 -2147483648 at layer 300
+Operation : cz 14 18 at layer 301
+Operation : t 17 -2147483648 at layer 301
+Operation : ry(pi/2) 0 -2147483648 at layer 302
+Operation : ry(pi/2) 9 -2147483648 at layer 303
+Operation : cz 5 9 at layer 304
+Operation : ry(pi/2) 6 -2147483648 at layer 304
+Operation : ry(pi/2) 15 -2147483648 at layer 305
+Operation : t 0 -2147483648 at layer 306
+Operation : t 6 -2147483648 at layer 307
+Operation : t 15 -2147483648 at layer 308
+Operation : cz 5 6 at layer 308
+Operation : cz 1 5 at layer 309
+Operation : ry(pi/2) 4 -2147483648 at layer 309
+Operation : ry(pi/2) 2 -2147483648 at layer 310
+Operation : cz 0 1 at layer 310
+Operation : rx(pi/2) 3 -2147483648 at layer 311
+Operation : ry(pi/2) 13 -2147483648 at layer 312
+Operation : ry(pi/2) 10 -2147483648 at layer 313
+Operation : cz 13 14 at layer 313
+Operation : ry(pi/2) 19 -2147483648 at layer 314
+Operation : t 4 -2147483648 at layer 315
+Operation : t 2 -2147483648 at layer 316
+Operation : t 3 -2147483648 at layer 317
+Operation : t 10 -2147483648 at layer 318
+Operation : t 19 -2147483648 at layer 319
+Operation : cz 10 14 at layer 319
+Operation : ry(pi/2) 9 -2147483648 at layer 320
+Operation : cz 14 15 at layer 320
+Operation : ry(pi/2) 12 -2147483648 at layer 321
+Operation : cz 15 19 at layer 321
+Operation : ry(pi/2) 16 -2147483648 at layer 322
+Operation : cz 8 12 at layer 322
+Operation : ry(pi/2) 7 -2147483648 at layer 323
+Operation : rx(pi/2) 11 -2147483648 at layer 324
+Operation : cz 3 7 at layer 324
+Operation : ry(pi/2) 18 -2147483648 at layer 325
+Operation : t 9 -2147483648 at layer 326
+Operation : cz 8 9 at layer 327
+Operation : t 16 -2147483648 at layer 327
+Operation : t 11 -2147483648 at layer 328
+Operation : cz 16 17 at layer 328
+Operation : cz 4 8 at layer 328
+Operation : t 18 -2147483648 at layer 329
+Operation : ry(pi/2) 6 -2147483648 at layer 330
+Operation : ry(pi/2) 13 -2147483648 at layer 331
+Operation : cz 6 7 at layer 331
+Operation : t 13 -2147483648 at layer 332
+Operation : rx(pi/2) 5 -2147483648 at layer 333
+Operation : cz 13 17 at layer 333
+Operation : ry(pi/2) 12 -2147483648 at layer 334
+Operation : cz 17 18 at layer 334
+Operation : rx(pi/2) 3 -2147483648 at layer 335
+Operation : ry(pi/2) 10 -2147483648 at layer 336
+Operation : cz 6 10 at layer 337
+Operation : t 5 -2147483648 at layer 337
+Operation : t 12 -2147483648 at layer 338
+Operation : t 3 -2147483648 at layer 339
+Operation : rx(pi/2) 0 -2147483648 at layer 340
+Operation : ry(pi/2) 1 -2147483648 at layer 341
+Operation : rx(pi/2) 7 -2147483648 at layer 342
+Operation : cz 1 2 at layer 342
+Operation : ry(pi/2) 9 -2147483648 at layer 343
+Operation : rx(pi/2) 14 -2147483648 at layer 344
+Operation : cz 9 10 at layer 344
+Operation : rx(pi/2) 16 -2147483648 at layer 345
+Operation : t 0 -2147483648 at layer 346
+Operation : t 7 -2147483648 at layer 347
+Operation : t 14 -2147483648 at layer 348
+Operation : t 16 -2147483648 at layer 349
+Operation : ry(pi/2) 4 -2147483648 at layer 350
+Operation : rx(pi/2) 8 -2147483648 at layer 351
+Operation : cz 0 4 at layer 351
+Operation : rx(pi/2) 13 -2147483648 at layer 352
+Operation : cz 4 5 at layer 352
+Operation : rx(pi/2) 6 -2147483648 at layer 353
+Operation : cz 9 13 at layer 353
+Operation : ry(pi/2) 15 -2147483648 at layer 354
+Operation : cz 2 6 at layer 354
+Operation : cz 12 13 at layer 354
+Operation : ry(pi/2) 19 -2147483648 at layer 355
+Operation : cz 11 15 at layer 355
+Operation : cz 12 16 at layer 355
+Operation : cz 2 3 at layer 355
+Operation : t 8 -2147483648 at layer 356
+Operation : t 19 -2147483648 at layer 357
+Operation : ry(pi/2) 1 -2147483648 at layer 358
+Operation : ry(pi/2) 10 -2147483648 at layer 359
+Operation : rx(pi/2) 17 -2147483648 at layer 360
+Operation : cz 10 11 at layer 360
+Operation : cz 7 11 at layer 361
+Operation : ry(pi/2) 18 -2147483648 at layer 361
+Operation : cz 18 19 at layer 362
+Operation : t 1 -2147483648 at layer 362
+Operation : cz 14 18 at layer 363
+Operation : t 17 -2147483648 at layer 363
+Operation : ry(pi/2) 0 -2147483648 at layer 364
+Operation : ry(pi/2) 9 -2147483648 at layer 365
+Operation : rx(pi/2) 6 -2147483648 at layer 366
+Operation : cz 5 9 at layer 366
+Operation : ry(pi/2) 15 -2147483648 at layer 367
+Operation : t 0 -2147483648 at layer 368
+Operation : t 6 -2147483648 at layer 369
+Operation : t 15 -2147483648 at layer 370
+Operation : cz 5 6 at layer 370
+Operation : rx(pi/2) 4 -2147483648 at layer 371
+Operation : cz 1 5 at layer 371
+Operation : ry(pi/2) 2 -2147483648 at layer 372
+Operation : cz 0 1 at layer 372
+Operation : ry(pi/2) 3 -2147483648 at layer 373
+Operation : rx(pi/2) 13 -2147483648 at layer 374
+Operation : cz 13 14 at layer 375
+Operation : ry(pi/2) 10 -2147483648 at layer 375
+Operation : ry(pi/2) 19 -2147483648 at layer 376
+Operation : t 4 -2147483648 at layer 377
+Operation : t 2 -2147483648 at layer 378
+Operation : t 3 -2147483648 at layer 379
+Operation : t 10 -2147483648 at layer 380
+Operation : t 19 -2147483648 at layer 381
+Operation : cz 10 14 at layer 381
+Operation : cz 14 15 at layer 382
+Operation : rx(pi/2) 9 -2147483648 at layer 382
+Operation : rx(pi/2) 12 -2147483648 at layer 383
+Operation : cz 15 19 at layer 383
+Operation : rx(pi/2) 16 -2147483648 at layer 384
+Operation : cz 8 12 at layer 384
+Operation : rx(pi/2) 7 -2147483648 at layer 385
+Operation : cz 3 7 at layer 386
+Operation : rx(pi/2) 11 -2147483648 at layer 386
+Operation : rx(pi/2) 18 -2147483648 at layer 387
+Operation : t 9 -2147483648 at layer 388
+Operation : cz 8 9 at layer 389
+Operation : t 16 -2147483648 at layer 389
+Operation : t 11 -2147483648 at layer 390
+Operation : cz 16 17 at layer 390
+Operation : cz 4 8 at layer 390
+Operation : t 18 -2147483648 at layer 391
+Operation : rx(pi/2) 6 -2147483648 at layer 392
+Operation : rx(pi/2) 13 -2147483648 at layer 393
+Operation : cz 6 7 at layer 393
+Operation : t 13 -2147483648 at layer 394
+Operation : ry(pi/2) 5 -2147483648 at layer 395
+Operation : cz 13 17 at layer 395
+Operation : rx(pi/2) 12 -2147483648 at layer 396
+Operation : cz 17 18 at layer 396
+Operation : ry(pi/2) 3 -2147483648 at layer 397
+Operation : rx(pi/2) 10 -2147483648 at layer 398
+Operation : cz 6 10 at layer 399
+Operation : t 5 -2147483648 at layer 399
+Operation : t 12 -2147483648 at layer 400
+Operation : t 3 -2147483648 at layer 401
+Operation : ry(pi/2) 0 -2147483648 at layer 402
+Operation : rx(pi/2) 1 -2147483648 at layer 403
+Operation : ry(pi/2) 7 -2147483648 at layer 404
+Operation : cz 1 2 at layer 404
+Operation : rx(pi/2) 9 -2147483648 at layer 405
+Operation : rx(pi/2) 14 -2147483648 at layer 406
+Operation : cz 9 10 at layer 406
+Operation : ry(pi/2) 16 -2147483648 at layer 407
+Operation : t 0 -2147483648 at layer 408
+Operation : t 7 -2147483648 at layer 409
+Operation : t 14 -2147483648 at layer 410
+Operation : t 16 -2147483648 at layer 411
+Operation : rx(pi/2) 4 -2147483648 at layer 412
+Operation : ry(pi/2) 8 -2147483648 at layer 413
+Operation : cz 0 4 at layer 413
+Operation : rx(pi/2) 13 -2147483648 at layer 414
+Operation : cz 4 5 at layer 414
+Operation : rx(pi/2) 6 -2147483648 at layer 415
+Operation : cz 9 13 at layer 415
+Operation : rx(pi/2) 15 -2147483648 at layer 416
+Operation : cz 2 6 at layer 416
+Operation : cz 12 13 at layer 416
+Operation : cz 12 16 at layer 417
+Operation : cz 2 3 at layer 417
+Operation : cz 11 15 at layer 417
+Operation : rx(pi/2) 19 -2147483648 at layer 417
+Operation : t 8 -2147483648 at layer 418
+Operation : t 19 -2147483648 at layer 419
+Operation : ry(pi/2) 1 -2147483648 at layer 420
+Operation : ry(pi/2) 10 -2147483648 at layer 421
+Operation : ry(pi/2) 17 -2147483648 at layer 422
+Operation : cz 10 11 at layer 422
+Operation : rx(pi/2) 18 -2147483648 at layer 423
+Operation : cz 7 11 at layer 423
+Operation : cz 18 19 at layer 424
+Operation : t 1 -2147483648 at layer 424
+Operation : t 17 -2147483648 at layer 425
+Operation : cz 14 18 at layer 425
+Operation : rx(pi/2) 0 -2147483648 at layer 426
+Operation : rx(pi/2) 9 -2147483648 at layer 427
+Operation : rx(pi/2) 6 -2147483648 at layer 428
+Operation : cz 5 9 at layer 428
+Operation : ry(pi/2) 15 -2147483648 at layer 429
+Operation : t 0 -2147483648 at layer 430
+Operation : t 6 -2147483648 at layer 431
+Operation : t 15 -2147483648 at layer 432
+Operation : cz 5 6 at layer 432
+Operation : cz 1 5 at layer 433
+Operation : rx(pi/2) 4 -2147483648 at layer 433
+Operation : ry(pi/2) 2 -2147483648 at layer 434
+Operation : cz 0 1 at layer 434
+Operation : rx(pi/2) 3 -2147483648 at layer 435
+Operation : rx(pi/2) 13 -2147483648 at layer 436
+Operation : ry(pi/2) 10 -2147483648 at layer 437
+Operation : cz 13 14 at layer 437
+Operation : ry(pi/2) 19 -2147483648 at layer 438
+Operation : t 4 -2147483648 at layer 439
+Operation : t 2 -2147483648 at layer 440
+Operation : t 3 -2147483648 at layer 441
+Operation : t 10 -2147483648 at layer 442
+Operation : cz 10 14 at layer 443
+Operation : t 19 -2147483648 at layer 443
+Operation : cz 14 15 at layer 444
+Operation : rx(pi/2) 9 -2147483648 at layer 444
+Operation : cz 15 19 at layer 445
+Operation : ry(pi/2) 12 -2147483648 at layer 445
+Operation : rx(pi/2) 16 -2147483648 at layer 446
+Operation : cz 8 12 at layer 446
+Operation : ry(pi/2) 7 -2147483648 at layer 447
+Operation : ry(pi/2) 11 -2147483648 at layer 448
+Operation : cz 3 7 at layer 448
+Operation : rx(pi/2) 18 -2147483648 at layer 449
+Operation : t 9 -2147483648 at layer 450
+Operation : t 16 -2147483648 at layer 451
+Operation : cz 8 9 at layer 451
+Operation : cz 16 17 at layer 452
+Operation : t 11 -2147483648 at layer 452
+Operation : cz 4 8 at layer 452
+Operation : t 18 -2147483648 at layer 453
+Operation : ry(pi/2) 6 -2147483648 at layer 454
+Operation : rx(pi/2) 13 -2147483648 at layer 455
+Operation : cz 6 7 at layer 455
+Operation : t 13 -2147483648 at layer 456
+Operation : ry(pi/2) 5 -2147483648 at layer 457
+Operation : cz 13 17 at layer 457
+Operation : cz 17 18 at layer 458
+Operation : rx(pi/2) 12 -2147483648 at layer 458
+Operation : ry(pi/2) 3 -2147483648 at layer 459
+Operation : rx(pi/2) 10 -2147483648 at layer 460
+Operation : cz 6 10 at layer 461
+Operation : t 5 -2147483648 at layer 461
+Operation : t 12 -2147483648 at layer 462
+Operation : t 3 -2147483648 at layer 463
+Operation : rx(pi/2) 0 -2147483648 at layer 464
+Operation : rx(pi/2) 1 -2147483648 at layer 465
+Operation : cz 1 2 at layer 466
+Operation : ry(pi/2) 7 -2147483648 at layer 466
+Operation : rx(pi/2) 9 -2147483648 at layer 467
+Operation : ry(pi/2) 14 -2147483648 at layer 468
+Operation : cz 9 10 at layer 468
+Operation : ry(pi/2) 16 -2147483648 at layer 469
+Operation : t 0 -2147483648 at layer 470
+Operation : t 7 -2147483648 at layer 471
+Operation : t 14 -2147483648 at layer 472
+Operation : t 16 -2147483648 at layer 473
+Operation : ry(pi/2) 4 -2147483648 at layer 474
+Operation : ry(pi/2) 8 -2147483648 at layer 475
+Operation : cz 0 4 at layer 475
+Operation : rx(pi/2) 13 -2147483648 at layer 476
+Operation : cz 4 5 at layer 476
+Operation : rx(pi/2) 6 -2147483648 at layer 477
+Operation : cz 9 13 at layer 477
+Operation : ry(pi/2) 15 -2147483648 at layer 478
+Operation : cz 2 6 at layer 478
+Operation : cz 12 13 at layer 478
+Operation : cz 12 16 at layer 479
+Operation : cz 2 3 at layer 479
+Operation : cz 11 15 at layer 479
+Operation : rx(pi/2) 19 -2147483648 at layer 479
+Operation : t 8 -2147483648 at layer 480
+Operation : t 19 -2147483648 at layer 481
+Operation : ry(pi/2) 1 -2147483648 at layer 482
+Operation : rx(pi/2) 10 -2147483648 at layer 483
+Operation : rx(pi/2) 17 -2147483648 at layer 484
+Operation : cz 10 11 at layer 484
+Operation : cz 7 11 at layer 485
+Operation : ry(pi/2) 18 -2147483648 at layer 485
+Operation : t 1 -2147483648 at layer 486
+Operation : cz 18 19 at layer 486
+Operation : t 17 -2147483648 at layer 487
+Operation : cz 14 18 at layer 487
+Operation : ry(pi/2) 0 -2147483648 at layer 488
+Operation : ry(pi/2) 9 -2147483648 at layer 489
+Operation : cz 5 9 at layer 490
+Operation : ry(pi/2) 6 -2147483648 at layer 490
+Operation : ry(pi/2) 15 -2147483648 at layer 491
+Operation : t 0 -2147483648 at layer 492
+Operation : t 6 -2147483648 at layer 493
+Operation : t 15 -2147483648 at layer 494
+Operation : cz 5 6 at layer 494
+Operation : rx(pi/2) 4 -2147483648 at layer 495
+Operation : cz 1 5 at layer 495
+Operation : rx(pi/2) 2 -2147483648 at layer 496
+Operation : cz 0 1 at layer 496
+Operation : rx(pi/2) 3 -2147483648 at layer 497
+Operation : ry(pi/2) 13 -2147483648 at layer 498
+Operation : rx(pi/2) 10 -2147483648 at layer 499
+Operation : cz 13 14 at layer 499
+Operation : ry(pi/2) 19 -2147483648 at layer 500
+Operation : t 4 -2147483648 at layer 501
+Operation : t 2 -2147483648 at layer 502
+Operation : t 3 -2147483648 at layer 503
+Operation : t 10 -2147483648 at layer 504
+Operation : t 19 -2147483648 at layer 505
+Operation : cz 10 14 at layer 505
+Operation : ry(pi/2) 9 -2147483648 at layer 506
+Operation : cz 14 15 at layer 506
+Operation : ry(pi/2) 12 -2147483648 at layer 507
+Operation : cz 15 19 at layer 507
+Operation : cz 8 12 at layer 508
+Operation : ry(pi/2) 16 -2147483648 at layer 508
+Operation : ry(pi/2) 7 -2147483648 at layer 509
+Operation : cz 3 7 at layer 510
+Operation : rx(pi/2) 11 -2147483648 at layer 510
+Operation : ry(pi/2) 18 -2147483648 at layer 511
+Operation : t 9 -2147483648 at layer 512
+Operation : t 16 -2147483648 at layer 513
+Operation : cz 8 9 at layer 513
+Operation : cz 16 17 at layer 514
+Operation : cz 4 8 at layer 514
+Operation : t 11 -2147483648 at layer 514
+Operation : t 18 -2147483648 at layer 515
+Operation : rx(pi/2) 6 -2147483648 at layer 516
+Operation : cz 6 7 at layer 517
+Operation : ry(pi/2) 13 -2147483648 at layer 517
+Operation : t 13 -2147483648 at layer 518
+Operation : rx(pi/2) 5 -2147483648 at layer 519
+Operation : cz 13 17 at layer 519
+Operation : rx(pi/2) 12 -2147483648 at layer 520
+Operation : cz 17 18 at layer 520
+Operation : rx(pi/2) 3 -2147483648 at layer 521
+Operation : ry(pi/2) 10 -2147483648 at layer 522
+Operation : cz 6 10 at layer 523
+Operation : t 5 -2147483648 at layer 523
+Operation : t 12 -2147483648 at layer 524
+Operation : t 3 -2147483648 at layer 525
+Operation : ry(pi/2) 0 -2147483648 at layer 526
+Operation : ry(pi/2) 1 -2147483648 at layer 527
+Operation : cz 1 2 at layer 528
+Operation : ry(pi/2) 7 -2147483648 at layer 528
+Operation : ry(pi/2) 9 -2147483648 at layer 529
+Operation : cz 9 10 at layer 530
+Operation : ry(pi/2) 14 -2147483648 at layer 530
+Operation : ry(pi/2) 16 -2147483648 at layer 531
+Operation : t 0 -2147483648 at layer 532
+Operation : t 7 -2147483648 at layer 533
+Operation : t 14 -2147483648 at layer 534
+Operation : t 16 -2147483648 at layer 535
+Operation : rx(pi/2) 4 -2147483648 at layer 536
+Operation : rx(pi/2) 8 -2147483648 at layer 537
+Operation : cz 0 4 at layer 537
+Operation : cz 4 5 at layer 538
+Operation : ry(pi/2) 13 -2147483648 at layer 538
+Operation : rx(pi/2) 6 -2147483648 at layer 539
+Operation : cz 9 13 at layer 539
+Operation : rx(pi/2) 15 -2147483648 at layer 540
+Operation : cz 2 6 at layer 540
+Operation : cz 12 13 at layer 540
+Operation : cz 2 3 at layer 541
+Operation : cz 12 16 at layer 541
+Operation : cz 11 15 at layer 541
+Operation : ry(pi/2) 19 -2147483648 at layer 541
+Operation : t 8 -2147483648 at layer 542
+Operation : t 19 -2147483648 at layer 543
+Operation : ry(pi/2) 1 -2147483648 at layer 544
+Operation : ry(pi/2) 10 -2147483648 at layer 545
+Operation : rx(pi/2) 17 -2147483648 at layer 546
+Operation : cz 10 11 at layer 546
+Operation : ry(pi/2) 18 -2147483648 at layer 547
+Operation : cz 7 11 at layer 547
+Operation : cz 18 19 at layer 548
+Operation : t 1 -2147483648 at layer 548
+Operation : t 17 -2147483648 at layer 549
+Operation : cz 14 18 at layer 549
+Operation : rx(pi/2) 0 -2147483648 at layer 550
+Operation : ry(pi/2) 9 -2147483648 at layer 551
+Operation : cz 5 9 at layer 552
+Operation : ry(pi/2) 6 -2147483648 at layer 552
+Operation : rx(pi/2) 15 -2147483648 at layer 553
+Operation : t 0 -2147483648 at layer 554
+Operation : t 6 -2147483648 at layer 555
+Operation : t 15 -2147483648 at layer 556
+Operation : cz 5 6 at layer 556
+Operation : rx(pi/2) 4 -2147483648 at layer 557
+Operation : cz 1 5 at layer 557
+Operation : cz 0 1 at layer 558
+Operation : rx(pi/2) 2 -2147483648 at layer 558
+Operation : ry(pi/2) 3 -2147483648 at layer 559
+Operation : rx(pi/2) 13 -2147483648 at layer 560
+Operation : cz 13 14 at layer 561
+Operation : rx(pi/2) 10 -2147483648 at layer 561
+Operation : ry(pi/2) 19 -2147483648 at layer 562
+Operation : t 4 -2147483648 at layer 563
+Operation : t 2 -2147483648 at layer 564
+Operation : t 3 -2147483648 at layer 565
+Operation : t 10 -2147483648 at layer 566
+Operation : cz 10 14 at layer 567
+Operation : t 19 -2147483648 at layer 567
+Operation : cz 14 15 at layer 568
+Operation : ry(pi/2) 9 -2147483648 at layer 568
+Operation : ry(pi/2) 12 -2147483648 at layer 569
+Operation : cz 15 19 at layer 569
+Operation : rx(pi/2) 16 -2147483648 at layer 570
+Operation : cz 8 12 at layer 570
+Operation : rx(pi/2) 7 -2147483648 at layer 571
+Operation : cz 3 7 at layer 572
+Operation : ry(pi/2) 11 -2147483648 at layer 572
+Operation : rx(pi/2) 18 -2147483648 at layer 573
+Operation : t 9 -2147483648 at layer 574
+Operation : cz 8 9 at layer 575
+Operation : t 16 -2147483648 at layer 575
+Operation : cz 4 8 at layer 576
+Operation : t 11 -2147483648 at layer 576
+Operation : cz 16 17 at layer 576
+Operation : t 18 -2147483648 at layer 577
+Operation : ry(pi/2) 6 -2147483648 at layer 578
+Operation : rx(pi/2) 13 -2147483648 at layer 579
+Operation : cz 6 7 at layer 579
+Operation : t 13 -2147483648 at layer 580
+Operation : ry(pi/2) 5 -2147483648 at layer 581
+Operation : cz 13 17 at layer 581
+Operation : rx(pi/2) 12 -2147483648 at layer 582
+Operation : cz 17 18 at layer 582
+Operation : rx(pi/2) 3 -2147483648 at layer 583
+Operation : rx(pi/2) 10 -2147483648 at layer 584
+Operation : cz 6 10 at layer 585
+Operation : t 5 -2147483648 at layer 585
+Operation : t 12 -2147483648 at layer 586
+Operation : t 3 -2147483648 at layer 587
+Operation : ry(pi/2) 0 -2147483648 at layer 588
+Operation : rx(pi/2) 1 -2147483648 at layer 589
+Operation : ry(pi/2) 7 -2147483648 at layer 590
+Operation : cz 1 2 at layer 590
+Operation : rx(pi/2) 9 -2147483648 at layer 591
+Operation : rx(pi/2) 14 -2147483648 at layer 592
+Operation : cz 9 10 at layer 592
+Operation : ry(pi/2) 16 -2147483648 at layer 593
+Operation : t 0 -2147483648 at layer 594
+Operation : t 7 -2147483648 at layer 595
+Operation : t 14 -2147483648 at layer 596
+Operation : t 16 -2147483648 at layer 597
+Operation : rx(pi/2) 4 -2147483648 at layer 598
+Operation : ry(pi/2) 8 -2147483648 at layer 599
+Operation : cz 0 4 at layer 599
+Operation : ry(pi/2) 13 -2147483648 at layer 600
+Operation : cz 4 5 at layer 600
+Operation : ry(pi/2) 6 -2147483648 at layer 601
+Operation : cz 9 13 at layer 601
+Operation : ry(pi/2) 15 -2147483648 at layer 602
+Operation : cz 2 6 at layer 602
+Operation : cz 12 13 at layer 602
+Operation : cz 12 16 at layer 603
+Operation : cz 2 3 at layer 603
+Operation : ry(pi/2) 19 -2147483648 at layer 603
+Operation : cz 11 15 at layer 603
+Operation : t 8 -2147483648 at layer 604
+Operation : t 19 -2147483648 at layer 605
+Operation : rx(pi/2) 1 -2147483648 at layer 606
+Operation : rx(pi/2) 10 -2147483648 at layer 607
+Operation : cz 10 11 at layer 608
+Operation : ry(pi/2) 17 -2147483648 at layer 608
+Operation : rx(pi/2) 18 -2147483648 at layer 609
+Operation : cz 7 11 at layer 609
+Operation : cz 18 19 at layer 610
+Operation : t 1 -2147483648 at layer 610
+Operation : t 17 -2147483648 at layer 611
+Operation : cz 14 18 at layer 611
+Operation : rx(pi/2) 0 -2147483648 at layer 612
+Operation : ry(pi/2) 9 -2147483648 at layer 613
+Operation : ry(pi/2) 6 -2147483648 at layer 614
+Operation : cz 5 9 at layer 614
+Operation : rx(pi/2) 15 -2147483648 at layer 615
+Operation : t 0 -2147483648 at layer 616
+Operation : t 6 -2147483648 at layer 617
+Operation : t 15 -2147483648 at layer 618
+Operation : cz 5 6 at layer 618
+Operation : cz 1 5 at layer 619
+Operation : rx(pi/2) 4 -2147483648 at layer 619
+Operation : ry(pi/2) 2 -2147483648 at layer 620
+Operation : rx(pi/2) 3 -2147483648 at layer 621
+Operation : rx(pi/2) 13 -2147483648 at layer 622
+Operation : ry(pi/2) 10 -2147483648 at layer 623
+Operation : cz 13 14 at layer 623
+Operation : rx(pi/2) 19 -2147483648 at layer 624
+Operation : t 4 -2147483648 at layer 625
+Operation : t 2 -2147483648 at layer 626
+Operation : t 3 -2147483648 at layer 627
+Operation : t 10 -2147483648 at layer 628
+Operation : cz 10 14 at layer 629
+Operation : t 19 -2147483648 at layer 629
+Operation : rx(pi/2) 9 -2147483648 at layer 630
+Operation : ry(pi/2) 12 -2147483648 at layer 631
+Operation : rx(pi/2) 16 -2147483648 at layer 632
+Operation : cz 8 12 at layer 632
+Operation : ry(pi/2) 7 -2147483648 at layer 633
+Operation : ry(pi/2) 11 -2147483648 at layer 634
+Operation : cz 3 7 at layer 634
+Operation : rx(pi/2) 18 -2147483648 at layer 635
+Operation : t 9 -2147483648 at layer 636
+Operation : t 16 -2147483648 at layer 637
+Operation : t 11 -2147483648 at layer 638
+Operation : t 18 -2147483648 at layer 639
+Operation : ry(pi/2) 6 -2147483648 at layer 640
+Operation : rx(pi/2) 13 -2147483648 at layer 641
+Operation : h 0 -2147483648 at layer 642
+Operation : h 1 -2147483648 at layer 643
+Operation : h 2 -2147483648 at layer 644
+Operation : h 3 -2147483648 at layer 645
+Operation : h 4 -2147483648 at layer 646
+Operation : h 5 -2147483648 at layer 647
+Operation : h 6 -2147483648 at layer 648
+Operation : h 7 -2147483648 at layer 649
+Operation : h 8 -2147483648 at layer 650
+Operation : h 9 -2147483648 at layer 651
+Operation : h 10 -2147483648 at layer 652
+Operation : h 11 -2147483648 at layer 653
+Operation : h 12 -2147483648 at layer 654
+Operation : h 13 -2147483648 at layer 655
+Operation : h 14 -2147483648 at layer 656
+Operation : h 15 -2147483648 at layer 657
+Operation : h 16 -2147483648 at layer 658
+Operation : h 17 -2147483648 at layer 659
+Operation : h 18 -2147483648 at layer 660
+Operation : h 19 -2147483648 at layer 661
+Edge weights:
+Qubit 0 - Qubit 1 : 5.78248
+Qubit 0 - Qubit 4 : 5.16616
+Qubit 1 - Qubit 2 : 5.30211
+Qubit 1 - Qubit 5 : 4.86405
+Qubit 2 - Qubit 3 : 5.10574
+Qubit 2 - Qubit 6 : 5.12085
+Qubit 3 - Qubit 7 : 4.63746
+Qubit 4 - Qubit 5 : 5.15106
+Qubit 4 - Qubit 8 : 5.50604
+Qubit 5 - Qubit 6 : 4.87915
+Qubit 5 - Qubit 9 : 4.93958
+Qubit 6 - Qubit 7 : 5.48792
+Qubit 6 - Qubit 10 : 5.38066
+Qubit 7 - Qubit 11 : 5.01511
+Qubit 8 - Qubit 9 : 5.53927
+Qubit 8 - Qubit 12 : 4.66767
+Qubit 9 - Qubit 10 : 5.2719
+Qubit 9 - Qubit 13 : 5.13595
+Qubit 10 - Qubit 11 : 5.03021
+Qubit 10 - Qubit 14 : 4.71299
+Qubit 11 - Qubit 15 : 5.10574
+Qubit 12 - Qubit 13 : 5.12085
+Qubit 12 - Qubit 16 : 5.10574
+Qubit 13 - Qubit 14 : 4.80363
+Qubit 13 - Qubit 17 : 5.43051
+Qubit 14 - Qubit 15 : 5.62538
+Qubit 14 - Qubit 18 : 4.98489
+Qubit 15 - Qubit 19 : 5.59063
+Qubit 16 - Qubit 17 : 5.5136
+Qubit 17 - Qubit 18 : 5.41541
+Qubit 18 - Qubit 19 : 5
+寫入完成，結果存於 qubit_graph.txt
+supremacy_25.qasm
+Operation : h 0 -2147483648 at layer 0
+Operation : h 1 -2147483648 at layer 1
+Operation : cz 0 1 at layer 2
+Operation : h 2 -2147483648 at layer 2
+Operation : h 3 -2147483648 at layer 3
+Operation : h 4 -2147483648 at layer 4
+Operation : h 5 -2147483648 at layer 5
+Operation : h 6 -2147483648 at layer 6
+Operation : h 7 -2147483648 at layer 7
+Operation : h 8 -2147483648 at layer 8
+Operation : h 9 -2147483648 at layer 9
+Operation : cz 7 8 at layer 9
+Operation : h 10 -2147483648 at layer 10
+Operation : h 11 -2147483648 at layer 11
+Operation : h 12 -2147483648 at layer 12
+Operation : cz 10 11 at layer 12
+Operation : h 13 -2147483648 at layer 13
+Operation : h 14 -2147483648 at layer 14
+Operation : h 15 -2147483648 at layer 15
+Operation : h 16 -2147483648 at layer 16
+Operation : h 17 -2147483648 at layer 17
+Operation : h 18 -2147483648 at layer 18
+Operation : h 19 -2147483648 at layer 19
+Operation : cz 17 18 at layer 19
+Operation : h 20 -2147483648 at layer 20
+Operation : h 21 -2147483648 at layer 21
+Operation : h 22 -2147483648 at layer 22
+Operation : cz 20 21 at layer 22
+Operation : h 23 -2147483648 at layer 23
+Operation : h 24 -2147483648 at layer 24
+Operation : t 2 -2147483648 at layer 25
+Operation : t 3 -2147483648 at layer 26
+Operation : t 4 -2147483648 at layer 27
+Operation : t 5 -2147483648 at layer 28
+Operation : t 6 -2147483648 at layer 29
+Operation : cz 5 10 at layer 29
+Operation : t 9 -2147483648 at layer 30
+Operation : t 12 -2147483648 at layer 31
+Operation : t 13 -2147483648 at layer 32
+Operation : cz 7 12 at layer 32
+Operation : t 14 -2147483648 at layer 33
+Operation : t 15 -2147483648 at layer 34
+Operation : cz 9 14 at layer 34
+Operation : t 16 -2147483648 at layer 35
+Operation : t 19 -2147483648 at layer 36
+Operation : cz 16 21 at layer 36
+Operation : t 22 -2147483648 at layer 37
+Operation : t 23 -2147483648 at layer 38
+Operation : cz 21 22 at layer 38
+Operation : cz 18 23 at layer 39
+Operation : t 24 -2147483648 at layer 39
+Operation : rx(pi/2) 0 -2147483648 at layer 40
+Operation : cz 18 19 at layer 40
+Operation : rx(pi/2) 1 -2147483648 at layer 41
+Operation : cz 13 18 at layer 41
+Operation : cz 1 2 at layer 42
+Operation : ry(pi/2) 8 -2147483648 at layer 42
+Operation : ry(pi/2) 11 -2147483648 at layer 43
+Operation : cz 8 9 at layer 43
+Operation : rx(pi/2) 17 -2147483648 at layer 44
+Operation : cz 11 12 at layer 44
+Operation : cz 4 9 at layer 44
+Operation : rx(pi/2) 20 -2147483648 at layer 45
+Operation : t 0 -2147483648 at layer 46
+Operation : t 17 -2147483648 at layer 47
+Operation : t 20 -2147483648 at layer 48
+Operation : ry(pi/2) 5 -2147483648 at layer 49
+Operation : cz 0 5 at layer 50
+Operation : rx(pi/2) 10 -2147483648 at layer 50
+Operation : ry(pi/2) 16 -2147483648 at layer 51
+Operation : cz 5 6 at layer 51
+Operation : cz 11 16 at layer 52
+Operation : ry(pi/2) 7 -2147483648 at layer 52
+Operation : rx(pi/2) 23 -2147483648 at layer 53
+Operation : cz 2 7 at layer 53
+Operation : cz 15 16 at layer 53
+Operation : cz 2 3 at layer 54
+Operation : cz 15 20 at layer 54
+Operation : ry(pi/2) 14 -2147483648 at layer 54
+Operation : t 10 -2147483648 at layer 55
+Operation : t 23 -2147483648 at layer 56
+Operation : t 14 -2147483648 at layer 57
+Operation : rx(pi/2) 1 -2147483648 at layer 58
+Operation : rx(pi/2) 8 -2147483648 at layer 59
+Operation : rx(pi/2) 12 -2147483648 at layer 60
+Operation : rx(pi/2) 19 -2147483648 at layer 61
+Operation : cz 12 13 at layer 61
+Operation : rx(pi/2) 21 -2147483648 at layer 62
+Operation : rx(pi/2) 22 -2147483648 at layer 63
+Operation : cz 22 23 at layer 64
+Operation : t 1 -2147483648 at layer 64
+Operation : cz 17 22 at layer 65
+Operation : t 8 -2147483648 at layer 65
+Operation : t 19 -2147483648 at layer 66
+Operation : cz 8 13 at layer 66
+Operation : cz 13 14 at layer 67
+Operation : t 21 -2147483648 at layer 67
+Operation : cz 19 24 at layer 67
+Operation : rx(pi/2) 0 -2147483648 at layer 68
+Operation : rx(pi/2) 11 -2147483648 at layer 69
+Operation : ry(pi/2) 7 -2147483648 at layer 70
+Operation : cz 6 11 at layer 70
+Operation : ry(pi/2) 18 -2147483648 at layer 71
+Operation : rx(pi/2) 4 -2147483648 at layer 72
+Operation : rx(pi/2) 9 -2147483648 at layer 73
+Operation : t 0 -2147483648 at layer 74
+Operation : t 7 -2147483648 at layer 75
+Operation : t 18 -2147483648 at layer 76
+Operation : cz 6 7 at layer 76
+Operation : cz 1 6 at layer 77
+Operation : t 4 -2147483648 at layer 77
+Operation : cz 0 1 at layer 78
+Operation : t 9 -2147483648 at layer 78
+Operation : ry(pi/2) 5 -2147483648 at layer 79
+Operation : ry(pi/2) 2 -2147483648 at layer 80
+Operation : rx(pi/2) 3 -2147483648 at layer 81
+Operation : cz 3 4 at layer 82
+Operation : ry(pi/2) 16 -2147483648 at layer 82
+Operation : cz 16 17 at layer 83
+Operation : rx(pi/2) 12 -2147483648 at layer 83
+Operation : ry(pi/2) 23 -2147483648 at layer 84
+Operation : cz 23 24 at layer 85
+Operation : t 5 -2147483648 at layer 85
+Operation : t 2 -2147483648 at layer 86
+Operation : t 12 -2147483648 at layer 87
+Operation : ry(pi/2) 11 -2147483648 at layer 88
+Operation : cz 12 17 at layer 88
+Operation : cz 17 18 at layer 89
+Operation : ry(pi/2) 15 -2147483648 at layer 89
+Operation : cz 10 15 at layer 90
+Operation : rx(pi/2) 20 -2147483648 at layer 90
+Operation : rx(pi/2) 8 -2147483648 at layer 91
+Operation : rx(pi/2) 22 -2147483648 at layer 92
+Operation : cz 3 8 at layer 92
+Operation : ry(pi/2) 19 -2147483648 at layer 93
+Operation : cz 14 19 at layer 94
+Operation : t 11 -2147483648 at layer 94
+Operation : t 20 -2147483648 at layer 95
+Operation : cz 10 11 at layer 95
+Operation : cz 5 10 at layer 96
+Operation : cz 20 21 at layer 96
+Operation : t 22 -2147483648 at layer 96
+Operation : rx(pi/2) 7 -2147483648 at layer 97
+Operation : cz 7 8 at layer 98
+Operation : ry(pi/2) 4 -2147483648 at layer 98
+Operation : rx(pi/2) 16 -2147483648 at layer 99
+Operation : ry(pi/2) 13 -2147483648 at layer 100
+Operation : ry(pi/2) 23 -2147483648 at layer 101
+Operation : rx(pi/2) 24 -2147483648 at layer 102
+Operation : t 4 -2147483648 at layer 103
+Operation : t 16 -2147483648 at layer 104
+Operation : t 13 -2147483648 at layer 105
+Operation : cz 16 21 at layer 105
+Operation : cz 21 22 at layer 106
+Operation : t 23 -2147483648 at layer 106
+Operation : t 24 -2147483648 at layer 107
+Operation : cz 18 23 at layer 107
+Operation : rx(pi/2) 6 -2147483648 at layer 108
+Operation : rx(pi/2) 15 -2147483648 at layer 109
+Operation : ry(pi/2) 3 -2147483648 at layer 110
+Operation : rx(pi/2) 12 -2147483648 at layer 111
+Operation : ry(pi/2) 14 -2147483648 at layer 112
+Operation : cz 7 12 at layer 112
+Operation : ry(pi/2) 19 -2147483648 at layer 113
+Operation : cz 9 14 at layer 113
+Operation : t 6 -2147483648 at layer 114
+Operation : t 15 -2147483648 at layer 115
+Operation : t 3 -2147483648 at layer 116
+Operation : t 19 -2147483648 at layer 117
+Operation : ry(pi/2) 0 -2147483648 at layer 118
+Operation : cz 18 19 at layer 118
+Operation : rx(pi/2) 1 -2147483648 at layer 119
+Operation : cz 13 18 at layer 119
+Operation : ry(pi/2) 8 -2147483648 at layer 120
+Operation : cz 1 2 at layer 120
+Operation : ry(pi/2) 11 -2147483648 at layer 121
+Operation : cz 8 9 at layer 121
+Operation : cz 4 9 at layer 122
+Operation : rx(pi/2) 17 -2147483648 at layer 122
+Operation : cz 11 12 at layer 122
+Operation : ry(pi/2) 20 -2147483648 at layer 123
+Operation : t 0 -2147483648 at layer 124
+Operation : t 17 -2147483648 at layer 125
+Operation : t 20 -2147483648 at layer 126
+Operation : rx(pi/2) 5 -2147483648 at layer 127
+Operation : rx(pi/2) 10 -2147483648 at layer 128
+Operation : cz 0 5 at layer 128
+Operation : rx(pi/2) 16 -2147483648 at layer 129
+Operation : cz 5 6 at layer 129
+Operation : ry(pi/2) 7 -2147483648 at layer 130
+Operation : cz 11 16 at layer 130
+Operation : ry(pi/2) 23 -2147483648 at layer 131
+Operation : cz 2 7 at layer 131
+Operation : cz 15 16 at layer 131
+Operation : cz 15 20 at layer 132
+Operation : cz 2 3 at layer 132
+Operation : ry(pi/2) 14 -2147483648 at layer 132
+Operation : t 10 -2147483648 at layer 133
+Operation : t 23 -2147483648 at layer 134
+Operation : t 14 -2147483648 at layer 135
+Operation : rx(pi/2) 1 -2147483648 at layer 136
+Operation : rx(pi/2) 8 -2147483648 at layer 137
+Operation : rx(pi/2) 12 -2147483648 at layer 138
+Operation : ry(pi/2) 19 -2147483648 at layer 139
+Operation : cz 12 13 at layer 139
+Operation : ry(pi/2) 21 -2147483648 at layer 140
+Operation : rx(pi/2) 22 -2147483648 at layer 141
+Operation : cz 22 23 at layer 142
+Operation : t 1 -2147483648 at layer 142
+Operation : t 8 -2147483648 at layer 143
+Operation : cz 17 22 at layer 143
+Operation : t 19 -2147483648 at layer 144
+Operation : cz 8 13 at layer 144
+Operation : t 21 -2147483648 at layer 145
+Operation : cz 13 14 at layer 145
+Operation : cz 19 24 at layer 145
+Operation : ry(pi/2) 0 -2147483648 at layer 146
+Operation : rx(pi/2) 11 -2147483648 at layer 147
+Operation : cz 6 11 at layer 148
+Operation : ry(pi/2) 7 -2147483648 at layer 148
+Operation : ry(pi/2) 18 -2147483648 at layer 149
+Operation : ry(pi/2) 4 -2147483648 at layer 150
+Operation : ry(pi/2) 9 -2147483648 at layer 151
+Operation : t 0 -2147483648 at layer 152
+Operation : t 7 -2147483648 at layer 153
+Operation : t 18 -2147483648 at layer 154
+Operation : cz 6 7 at layer 154
+Operation : t 4 -2147483648 at layer 155
+Operation : cz 1 6 at layer 155
+Operation : cz 0 1 at layer 156
+Operation : t 9 -2147483648 at layer 156
+Operation : ry(pi/2) 5 -2147483648 at layer 157
+Operation : rx(pi/2) 2 -2147483648 at layer 158
+Operation : ry(pi/2) 3 -2147483648 at layer 159
+Operation : cz 3 4 at layer 160
+Operation : rx(pi/2) 16 -2147483648 at layer 160
+Operation : ry(pi/2) 12 -2147483648 at layer 161
+Operation : cz 16 17 at layer 161
+Operation : ry(pi/2) 23 -2147483648 at layer 162
+Operation : cz 23 24 at layer 163
+Operation : t 5 -2147483648 at layer 163
+Operation : t 2 -2147483648 at layer 164
+Operation : t 12 -2147483648 at layer 165
+Operation : rx(pi/2) 11 -2147483648 at layer 166
+Operation : cz 12 17 at layer 166
+Operation : rx(pi/2) 15 -2147483648 at layer 167
+Operation : cz 17 18 at layer 167
+Operation : rx(pi/2) 20 -2147483648 at layer 168
+Operation : cz 10 15 at layer 168
+Operation : rx(pi/2) 8 -2147483648 at layer 169
+Operation : ry(pi/2) 22 -2147483648 at layer 170
+Operation : cz 3 8 at layer 170
+Operation : rx(pi/2) 19 -2147483648 at layer 171
+Operation : cz 14 19 at layer 172
+Operation : t 11 -2147483648 at layer 172
+Operation : t 20 -2147483648 at layer 173
+Operation : cz 10 11 at layer 173
+Operation : cz 5 10 at layer 174
+Operation : cz 20 21 at layer 174
+Operation : t 22 -2147483648 at layer 174
+Operation : rx(pi/2) 7 -2147483648 at layer 175
+Operation : cz 7 8 at layer 176
+Operation : ry(pi/2) 4 -2147483648 at layer 176
+Operation : ry(pi/2) 16 -2147483648 at layer 177
+Operation : ry(pi/2) 13 -2147483648 at layer 178
+Operation : ry(pi/2) 23 -2147483648 at layer 179
+Operation : ry(pi/2) 24 -2147483648 at layer 180
+Operation : t 4 -2147483648 at layer 181
+Operation : t 16 -2147483648 at layer 182
+Operation : t 13 -2147483648 at layer 183
+Operation : cz 16 21 at layer 183
+Operation : cz 21 22 at layer 184
+Operation : t 23 -2147483648 at layer 184
+Operation : t 24 -2147483648 at layer 185
+Operation : cz 18 23 at layer 185
+Operation : ry(pi/2) 6 -2147483648 at layer 186
+Operation : ry(pi/2) 15 -2147483648 at layer 187
+Operation : rx(pi/2) 3 -2147483648 at layer 188
+Operation : ry(pi/2) 12 -2147483648 at layer 189
+Operation : ry(pi/2) 14 -2147483648 at layer 190
+Operation : cz 7 12 at layer 190
+Operation : rx(pi/2) 19 -2147483648 at layer 191
+Operation : cz 9 14 at layer 191
+Operation : t 6 -2147483648 at layer 192
+Operation : t 15 -2147483648 at layer 193
+Operation : t 3 -2147483648 at layer 194
+Operation : t 19 -2147483648 at layer 195
+Operation : ry(pi/2) 0 -2147483648 at layer 196
+Operation : cz 18 19 at layer 196
+Operation : rx(pi/2) 1 -2147483648 at layer 197
+Operation : cz 13 18 at layer 197
+Operation : cz 1 2 at layer 198
+Operation : ry(pi/2) 8 -2147483648 at layer 198
+Operation : cz 8 9 at layer 199
+Operation : ry(pi/2) 11 -2147483648 at layer 199
+Operation : cz 4 9 at layer 200
+Operation : cz 11 12 at layer 200
+Operation : rx(pi/2) 17 -2147483648 at layer 200
+Operation : rx(pi/2) 20 -2147483648 at layer 201
+Operation : t 0 -2147483648 at layer 202
+Operation : t 17 -2147483648 at layer 203
+Operation : t 20 -2147483648 at layer 204
+Operation : ry(pi/2) 5 -2147483648 at layer 205
+Operation : rx(pi/2) 10 -2147483648 at layer 206
+Operation : cz 0 5 at layer 206
+Operation : ry(pi/2) 16 -2147483648 at layer 207
+Operation : cz 5 6 at layer 207
+Operation : ry(pi/2) 7 -2147483648 at layer 208
+Operation : cz 11 16 at layer 208
+Operation : rx(pi/2) 23 -2147483648 at layer 209
+Operation : cz 2 7 at layer 209
+Operation : cz 15 16 at layer 209
+Operation : cz 15 20 at layer 210
+Operation : cz 2 3 at layer 210
+Operation : rx(pi/2) 14 -2147483648 at layer 210
+Operation : t 10 -2147483648 at layer 211
+Operation : t 23 -2147483648 at layer 212
+Operation : t 14 -2147483648 at layer 213
+Operation : ry(pi/2) 1 -2147483648 at layer 214
+Operation : rx(pi/2) 8 -2147483648 at layer 215
+Operation : ry(pi/2) 12 -2147483648 at layer 216
+Operation : ry(pi/2) 19 -2147483648 at layer 217
+Operation : cz 12 13 at layer 217
+Operation : rx(pi/2) 21 -2147483648 at layer 218
+Operation : rx(pi/2) 22 -2147483648 at layer 219
+Operation : cz 22 23 at layer 220
+Operation : t 1 -2147483648 at layer 220
+Operation : t 8 -2147483648 at layer 221
+Operation : cz 17 22 at layer 221
+Operation : t 19 -2147483648 at layer 222
+Operation : cz 8 13 at layer 222
+Operation : cz 13 14 at layer 223
+Operation : cz 19 24 at layer 223
+Operation : t 21 -2147483648 at layer 223
+Operation : ry(pi/2) 0 -2147483648 at layer 224
+Operation : ry(pi/2) 11 -2147483648 at layer 225
+Operation : cz 6 11 at layer 226
+Operation : rx(pi/2) 7 -2147483648 at layer 226
+Operation : rx(pi/2) 18 -2147483648 at layer 227
+Operation : rx(pi/2) 4 -2147483648 at layer 228
+Operation : rx(pi/2) 9 -2147483648 at layer 229
+Operation : t 0 -2147483648 at layer 230
+Operation : t 7 -2147483648 at layer 231
+Operation : t 18 -2147483648 at layer 232
+Operation : cz 6 7 at layer 232
+Operation : cz 1 6 at layer 233
+Operation : t 4 -2147483648 at layer 233
+Operation : t 9 -2147483648 at layer 234
+Operation : cz 0 1 at layer 234
+Operation : rx(pi/2) 5 -2147483648 at layer 235
+Operation : ry(pi/2) 2 -2147483648 at layer 236
+Operation : ry(pi/2) 3 -2147483648 at layer 237
+Operation : rx(pi/2) 16 -2147483648 at layer 238
+Operation : cz 3 4 at layer 238
+Operation : ry(pi/2) 12 -2147483648 at layer 239
+Operation : cz 16 17 at layer 239
+Operation : ry(pi/2) 23 -2147483648 at layer 240
+Operation : cz 23 24 at layer 241
+Operation : t 5 -2147483648 at layer 241
+Operation : t 2 -2147483648 at layer 242
+Operation : t 12 -2147483648 at layer 243
+Operation : ry(pi/2) 11 -2147483648 at layer 244
+Operation : cz 12 17 at layer 244
+Operation : cz 17 18 at layer 245
+Operation : rx(pi/2) 15 -2147483648 at layer 245
+Operation : rx(pi/2) 20 -2147483648 at layer 246
+Operation : cz 10 15 at layer 246
+Operation : rx(pi/2) 8 -2147483648 at layer 247
+Operation : cz 3 8 at layer 248
+Operation : rx(pi/2) 22 -2147483648 at layer 248
+Operation : ry(pi/2) 19 -2147483648 at layer 249
+Operation : cz 14 19 at layer 250
+Operation : t 11 -2147483648 at layer 250
+Operation : t 20 -2147483648 at layer 251
+Operation : cz 10 11 at layer 251
+Operation : cz 20 21 at layer 252
+Operation : t 22 -2147483648 at layer 252
+Operation : cz 5 10 at layer 252
+Operation : rx(pi/2) 7 -2147483648 at layer 253
+Operation : ry(pi/2) 4 -2147483648 at layer 254
+Operation : cz 7 8 at layer 254
+Operation : ry(pi/2) 16 -2147483648 at layer 255
+Operation : rx(pi/2) 13 -2147483648 at layer 256
+Operation : ry(pi/2) 23 -2147483648 at layer 257
+Operation : ry(pi/2) 24 -2147483648 at layer 258
+Operation : t 4 -2147483648 at layer 259
+Operation : t 16 -2147483648 at layer 260
+Operation : t 13 -2147483648 at layer 261
+Operation : cz 16 21 at layer 261
+Operation : t 23 -2147483648 at layer 262
+Operation : cz 21 22 at layer 262
+Operation : t 24 -2147483648 at layer 263
+Operation : cz 18 23 at layer 263
+Operation : rx(pi/2) 6 -2147483648 at layer 264
+Operation : rx(pi/2) 15 -2147483648 at layer 265
+Operation : rx(pi/2) 3 -2147483648 at layer 266
+Operation : rx(pi/2) 12 -2147483648 at layer 267
+Operation : ry(pi/2) 14 -2147483648 at layer 268
+Operation : cz 7 12 at layer 268
+Operation : rx(pi/2) 19 -2147483648 at layer 269
+Operation : cz 9 14 at layer 269
+Operation : t 6 -2147483648 at layer 270
+Operation : t 15 -2147483648 at layer 271
+Operation : t 3 -2147483648 at layer 272
+Operation : t 19 -2147483648 at layer 273
+Operation : rx(pi/2) 0 -2147483648 at layer 274
+Operation : cz 18 19 at layer 274
+Operation : ry(pi/2) 1 -2147483648 at layer 275
+Operation : cz 13 18 at layer 275
+Operation : cz 1 2 at layer 276
+Operation : ry(pi/2) 8 -2147483648 at layer 276
+Operation : cz 8 9 at layer 277
+Operation : rx(pi/2) 11 -2147483648 at layer 277
+Operation : cz 11 12 at layer 278
+Operation : rx(pi/2) 17 -2147483648 at layer 278
+Operation : cz 4 9 at layer 278
+Operation : rx(pi/2) 20 -2147483648 at layer 279
+Operation : t 0 -2147483648 at layer 280
+Operation : t 17 -2147483648 at layer 281
+Operation : t 20 -2147483648 at layer 282
+Operation : rx(pi/2) 5 -2147483648 at layer 283
+Operation : ry(pi/2) 10 -2147483648 at layer 284
+Operation : cz 0 5 at layer 284
+Operation : cz 5 6 at layer 285
+Operation : rx(pi/2) 16 -2147483648 at layer 285
+Operation : cz 11 16 at layer 286
+Operation : ry(pi/2) 7 -2147483648 at layer 286
+Operation : cz 2 7 at layer 287
+Operation : cz 15 16 at layer 287
+Operation : rx(pi/2) 23 -2147483648 at layer 287
+Operation : cz 15 20 at layer 288
+Operation : ry(pi/2) 14 -2147483648 at layer 288
+Operation : cz 2 3 at layer 288
+Operation : t 10 -2147483648 at layer 289
+Operation : t 23 -2147483648 at layer 290
+Operation : t 14 -2147483648 at layer 291
+Operation : ry(pi/2) 1 -2147483648 at layer 292
+Operation : ry(pi/2) 8 -2147483648 at layer 293
+Operation : rx(pi/2) 12 -2147483648 at layer 294
+Operation : ry(pi/2) 19 -2147483648 at layer 295
+Operation : cz 12 13 at layer 295
+Operation : ry(pi/2) 21 -2147483648 at layer 296
+Operation : rx(pi/2) 22 -2147483648 at layer 297
+Operation : cz 22 23 at layer 298
+Operation : t 1 -2147483648 at layer 298
+Operation : t 8 -2147483648 at layer 299
+Operation : cz 17 22 at layer 299
+Operation : t 19 -2147483648 at layer 300
+Operation : cz 8 13 at layer 300
+Operation : t 21 -2147483648 at layer 301
+Operation : cz 13 14 at layer 301
+Operation : cz 19 24 at layer 301
+Operation : rx(pi/2) 0 -2147483648 at layer 302
+Operation : rx(pi/2) 11 -2147483648 at layer 303
+Operation : rx(pi/2) 7 -2147483648 at layer 304
+Operation : cz 6 11 at layer 304
+Operation : rx(pi/2) 18 -2147483648 at layer 305
+Operation : ry(pi/2) 4 -2147483648 at layer 306
+Operation : ry(pi/2) 9 -2147483648 at layer 307
+Operation : t 0 -2147483648 at layer 308
+Operation : t 7 -2147483648 at layer 309
+Operation : cz 6 7 at layer 310
+Operation : t 18 -2147483648 at layer 310
+Operation : t 4 -2147483648 at layer 311
+Operation : cz 1 6 at layer 311
+Operation : t 9 -2147483648 at layer 312
+Operation : cz 0 1 at layer 312
+Operation : rx(pi/2) 5 -2147483648 at layer 313
+Operation : ry(pi/2) 2 -2147483648 at layer 314
+Operation : ry(pi/2) 3 -2147483648 at layer 315
+Operation : ry(pi/2) 16 -2147483648 at layer 316
+Operation : cz 3 4 at layer 316
+Operation : cz 16 17 at layer 317
+Operation : ry(pi/2) 12 -2147483648 at layer 317
+Operation : rx(pi/2) 23 -2147483648 at layer 318
+Operation : t 5 -2147483648 at layer 319
+Operation : cz 23 24 at layer 319
+Operation : t 2 -2147483648 at layer 320
+Operation : t 12 -2147483648 at layer 321
+Operation : ry(pi/2) 11 -2147483648 at layer 322
+Operation : cz 12 17 at layer 322
+Operation : ry(pi/2) 15 -2147483648 at layer 323
+Operation : cz 17 18 at layer 323
+Operation : ry(pi/2) 20 -2147483648 at layer 324
+Operation : cz 10 15 at layer 324
+Operation : rx(pi/2) 8 -2147483648 at layer 325
+Operation : ry(pi/2) 22 -2147483648 at layer 326
+Operation : cz 3 8 at layer 326
+Operation : ry(pi/2) 19 -2147483648 at layer 327
+Operation : t 11 -2147483648 at layer 328
+Operation : cz 14 19 at layer 328
+Operation : cz 10 11 at layer 329
+Operation : t 20 -2147483648 at layer 329
+Operation : t 22 -2147483648 at layer 330
+Operation : cz 5 10 at layer 330
+Operation : cz 20 21 at layer 330
+Operation : ry(pi/2) 7 -2147483648 at layer 331
+Operation : cz 7 8 at layer 332
+Operation : rx(pi/2) 4 -2147483648 at layer 332
+Operation : ry(pi/2) 16 -2147483648 at layer 333
+Operation : rx(pi/2) 13 -2147483648 at layer 334
+Operation : rx(pi/2) 23 -2147483648 at layer 335
+Operation : ry(pi/2) 24 -2147483648 at layer 336
+Operation : t 4 -2147483648 at layer 337
+Operation : t 16 -2147483648 at layer 338
+Operation : t 13 -2147483648 at layer 339
+Operation : cz 16 21 at layer 339
+Operation : cz 21 22 at layer 340
+Operation : t 23 -2147483648 at layer 340
+Operation : cz 18 23 at layer 341
+Operation : t 24 -2147483648 at layer 341
+Operation : rx(pi/2) 6 -2147483648 at layer 342
+Operation : rx(pi/2) 15 -2147483648 at layer 343
+Operation : ry(pi/2) 3 -2147483648 at layer 344
+Operation : rx(pi/2) 12 -2147483648 at layer 345
+Operation : rx(pi/2) 14 -2147483648 at layer 346
+Operation : cz 7 12 at layer 346
+Operation : ry(pi/2) 19 -2147483648 at layer 347
+Operation : cz 9 14 at layer 347
+Operation : t 6 -2147483648 at layer 348
+Operation : t 15 -2147483648 at layer 349
+Operation : t 3 -2147483648 at layer 350
+Operation : t 19 -2147483648 at layer 351
+Operation : rx(pi/2) 0 -2147483648 at layer 352
+Operation : cz 18 19 at layer 352
+Operation : cz 13 18 at layer 353
+Operation : rx(pi/2) 1 -2147483648 at layer 353
+Operation : cz 1 2 at layer 354
+Operation : rx(pi/2) 8 -2147483648 at layer 354
+Operation : cz 8 9 at layer 355
+Operation : rx(pi/2) 11 -2147483648 at layer 355
+Operation : cz 11 12 at layer 356
+Operation : cz 4 9 at layer 356
+Operation : ry(pi/2) 17 -2147483648 at layer 356
+Operation : rx(pi/2) 20 -2147483648 at layer 357
+Operation : t 0 -2147483648 at layer 358
+Operation : t 17 -2147483648 at layer 359
+Operation : t 20 -2147483648 at layer 360
+Operation : ry(pi/2) 5 -2147483648 at layer 361
+Operation : rx(pi/2) 10 -2147483648 at layer 362
+Operation : cz 0 5 at layer 362
+Operation : ry(pi/2) 16 -2147483648 at layer 363
+Operation : cz 5 6 at layer 363
+Operation : cz 11 16 at layer 364
+Operation : rx(pi/2) 7 -2147483648 at layer 364
+Operation : cz 2 7 at layer 365
+Operation : cz 15 16 at layer 365
+Operation : rx(pi/2) 23 -2147483648 at layer 365
+Operation : cz 15 20 at layer 366
+Operation : ry(pi/2) 14 -2147483648 at layer 366
+Operation : cz 2 3 at layer 366
+Operation : t 10 -2147483648 at layer 367
+Operation : t 23 -2147483648 at layer 368
+Operation : t 14 -2147483648 at layer 369
+Operation : rx(pi/2) 1 -2147483648 at layer 370
+Operation : ry(pi/2) 8 -2147483648 at layer 371
+Operation : ry(pi/2) 12 -2147483648 at layer 372
+Operation : ry(pi/2) 19 -2147483648 at layer 373
+Operation : cz 12 13 at layer 373
+Operation : ry(pi/2) 21 -2147483648 at layer 374
+Operation : rx(pi/2) 22 -2147483648 at layer 375
+Operation : t 1 -2147483648 at layer 376
+Operation : cz 22 23 at layer 376
+Operation : t 8 -2147483648 at layer 377
+Operation : cz 17 22 at layer 377
+Operation : t 19 -2147483648 at layer 378
+Operation : cz 8 13 at layer 378
+Operation : cz 13 14 at layer 379
+Operation : cz 19 24 at layer 379
+Operation : t 21 -2147483648 at layer 379
+Operation : ry(pi/2) 0 -2147483648 at layer 380
+Operation : rx(pi/2) 11 -2147483648 at layer 381
+Operation : cz 6 11 at layer 382
+Operation : rx(pi/2) 7 -2147483648 at layer 382
+Operation : rx(pi/2) 18 -2147483648 at layer 383
+Operation : ry(pi/2) 4 -2147483648 at layer 384
+Operation : ry(pi/2) 9 -2147483648 at layer 385
+Operation : t 0 -2147483648 at layer 386
+Operation : t 7 -2147483648 at layer 387
+Operation : t 18 -2147483648 at layer 388
+Operation : cz 6 7 at layer 388
+Operation : t 4 -2147483648 at layer 389
+Operation : cz 1 6 at layer 389
+Operation : cz 0 1 at layer 390
+Operation : t 9 -2147483648 at layer 390
+Operation : ry(pi/2) 5 -2147483648 at layer 391
+Operation : ry(pi/2) 2 -2147483648 at layer 392
+Operation : rx(pi/2) 3 -2147483648 at layer 393
+Operation : ry(pi/2) 16 -2147483648 at layer 394
+Operation : cz 3 4 at layer 394
+Operation : rx(pi/2) 12 -2147483648 at layer 395
+Operation : cz 16 17 at layer 395
+Operation : rx(pi/2) 23 -2147483648 at layer 396
+Operation : t 5 -2147483648 at layer 397
+Operation : cz 23 24 at layer 397
+Operation : t 2 -2147483648 at layer 398
+Operation : t 12 -2147483648 at layer 399
+Operation : ry(pi/2) 11 -2147483648 at layer 400
+Operation : cz 12 17 at layer 400
+Operation : ry(pi/2) 15 -2147483648 at layer 401
+Operation : cz 17 18 at layer 401
+Operation : rx(pi/2) 20 -2147483648 at layer 402
+Operation : cz 10 15 at layer 402
+Operation : ry(pi/2) 8 -2147483648 at layer 403
+Operation : cz 3 8 at layer 404
+Operation : ry(pi/2) 22 -2147483648 at layer 404
+Operation : rx(pi/2) 19 -2147483648 at layer 405
+Operation : cz 14 19 at layer 406
+Operation : t 11 -2147483648 at layer 406
+Operation : t 20 -2147483648 at layer 407
+Operation : cz 10 11 at layer 407
+Operation : t 22 -2147483648 at layer 408
+Operation : cz 5 10 at layer 408
+Operation : cz 20 21 at layer 408
+Operation : rx(pi/2) 7 -2147483648 at layer 409
+Operation : cz 7 8 at layer 410
+Operation : ry(pi/2) 4 -2147483648 at layer 410
+Operation : ry(pi/2) 16 -2147483648 at layer 411
+Operation : rx(pi/2) 13 -2147483648 at layer 412
+Operation : ry(pi/2) 23 -2147483648 at layer 413
+Operation : ry(pi/2) 24 -2147483648 at layer 414
+Operation : t 4 -2147483648 at layer 415
+Operation : t 16 -2147483648 at layer 416
+Operation : t 13 -2147483648 at layer 417
+Operation : cz 16 21 at layer 417
+Operation : t 23 -2147483648 at layer 418
+Operation : cz 21 22 at layer 418
+Operation : cz 18 23 at layer 419
+Operation : t 24 -2147483648 at layer 419
+Operation : rx(pi/2) 6 -2147483648 at layer 420
+Operation : rx(pi/2) 15 -2147483648 at layer 421
+Operation : ry(pi/2) 3 -2147483648 at layer 422
+Operation : ry(pi/2) 12 -2147483648 at layer 423
+Operation : ry(pi/2) 14 -2147483648 at layer 424
+Operation : cz 7 12 at layer 424
+Operation : cz 9 14 at layer 425
+Operation : rx(pi/2) 19 -2147483648 at layer 425
+Operation : t 6 -2147483648 at layer 426
+Operation : t 15 -2147483648 at layer 427
+Operation : t 3 -2147483648 at layer 428
+Operation : t 19 -2147483648 at layer 429
+Operation : ry(pi/2) 0 -2147483648 at layer 430
+Operation : cz 18 19 at layer 430
+Operation : cz 13 18 at layer 431
+Operation : rx(pi/2) 1 -2147483648 at layer 431
+Operation : cz 1 2 at layer 432
+Operation : rx(pi/2) 8 -2147483648 at layer 432
+Operation : cz 8 9 at layer 433
+Operation : ry(pi/2) 11 -2147483648 at layer 433
+Operation : ry(pi/2) 17 -2147483648 at layer 434
+Operation : cz 11 12 at layer 434
+Operation : cz 4 9 at layer 434
+Operation : ry(pi/2) 20 -2147483648 at layer 435
+Operation : t 0 -2147483648 at layer 436
+Operation : t 17 -2147483648 at layer 437
+Operation : t 20 -2147483648 at layer 438
+Operation : rx(pi/2) 5 -2147483648 at layer 439
+Operation : cz 0 5 at layer 440
+Operation : rx(pi/2) 10 -2147483648 at layer 440
+Operation : cz 5 6 at layer 441
+Operation : ry(pi/2) 16 -2147483648 at layer 441
+Operation : ry(pi/2) 7 -2147483648 at layer 442
+Operation : cz 11 16 at layer 442
+Operation : rx(pi/2) 23 -2147483648 at layer 443
+Operation : cz 15 16 at layer 443
+Operation : cz 2 7 at layer 443
+Operation : cz 15 20 at layer 444
+Operation : cz 2 3 at layer 444
+Operation : rx(pi/2) 14 -2147483648 at layer 444
+Operation : t 10 -2147483648 at layer 445
+Operation : t 23 -2147483648 at layer 446
+Operation : t 14 -2147483648 at layer 447
+Operation : ry(pi/2) 1 -2147483648 at layer 448
+Operation : rx(pi/2) 8 -2147483648 at layer 449
+Operation : rx(pi/2) 12 -2147483648 at layer 450
+Operation : ry(pi/2) 19 -2147483648 at layer 451
+Operation : cz 12 13 at layer 451
+Operation : ry(pi/2) 21 -2147483648 at layer 452
+Operation : ry(pi/2) 22 -2147483648 at layer 453
+Operation : cz 22 23 at layer 454
+Operation : t 1 -2147483648 at layer 454
+Operation : cz 17 22 at layer 455
+Operation : t 8 -2147483648 at layer 455
+Operation : t 19 -2147483648 at layer 456
+Operation : cz 8 13 at layer 456
+Operation : t 21 -2147483648 at layer 457
+Operation : cz 13 14 at layer 457
+Operation : cz 19 24 at layer 457
+Operation : ry(pi/2) 0 -2147483648 at layer 458
+Operation : rx(pi/2) 11 -2147483648 at layer 459
+Operation : ry(pi/2) 7 -2147483648 at layer 460
+Operation : cz 6 11 at layer 460
+Operation : rx(pi/2) 18 -2147483648 at layer 461
+Operation : ry(pi/2) 4 -2147483648 at layer 462
+Operation : rx(pi/2) 9 -2147483648 at layer 463
+Operation : t 0 -2147483648 at layer 464
+Operation : t 7 -2147483648 at layer 465
+Operation : t 18 -2147483648 at layer 466
+Operation : cz 6 7 at layer 466
+Operation : cz 1 6 at layer 467
+Operation : t 4 -2147483648 at layer 467
+Operation : cz 0 1 at layer 468
+Operation : t 9 -2147483648 at layer 468
+Operation : ry(pi/2) 5 -2147483648 at layer 469
+Operation : ry(pi/2) 2 -2147483648 at layer 470
+Operation : rx(pi/2) 3 -2147483648 at layer 471
+Operation : cz 3 4 at layer 472
+Operation : rx(pi/2) 16 -2147483648 at layer 472
+Operation : cz 16 17 at layer 473
+Operation : rx(pi/2) 12 -2147483648 at layer 473
+Operation : rx(pi/2) 23 -2147483648 at layer 474
+Operation : cz 23 24 at layer 475
+Operation : t 5 -2147483648 at layer 475
+Operation : t 2 -2147483648 at layer 476
+Operation : t 12 -2147483648 at layer 477
+Operation : ry(pi/2) 11 -2147483648 at layer 478
+Operation : cz 12 17 at layer 478
+Operation : ry(pi/2) 15 -2147483648 at layer 479
+Operation : cz 17 18 at layer 479
+Operation : cz 10 15 at layer 480
+Operation : ry(pi/2) 20 -2147483648 at layer 480
+Operation : rx(pi/2) 8 -2147483648 at layer 481
+Operation : ry(pi/2) 22 -2147483648 at layer 482
+Operation : cz 3 8 at layer 482
+Operation : ry(pi/2) 19 -2147483648 at layer 483
+Operation : cz 14 19 at layer 484
+Operation : t 11 -2147483648 at layer 484
+Operation : t 20 -2147483648 at layer 485
+Operation : cz 10 11 at layer 485
+Operation : cz 20 21 at layer 486
+Operation : cz 5 10 at layer 486
+Operation : t 22 -2147483648 at layer 486
+Operation : ry(pi/2) 7 -2147483648 at layer 487
+Operation : cz 7 8 at layer 488
+Operation : rx(pi/2) 4 -2147483648 at layer 488
+Operation : rx(pi/2) 16 -2147483648 at layer 489
+Operation : rx(pi/2) 13 -2147483648 at layer 490
+Operation : rx(pi/2) 23 -2147483648 at layer 491
+Operation : ry(pi/2) 24 -2147483648 at layer 492
+Operation : t 4 -2147483648 at layer 493
+Operation : t 16 -2147483648 at layer 494
+Operation : t 13 -2147483648 at layer 495
+Operation : cz 16 21 at layer 495
+Operation : cz 21 22 at layer 496
+Operation : t 23 -2147483648 at layer 496
+Operation : t 24 -2147483648 at layer 497
+Operation : cz 18 23 at layer 497
+Operation : rx(pi/2) 6 -2147483648 at layer 498
+Operation : ry(pi/2) 15 -2147483648 at layer 499
+Operation : rx(pi/2) 3 -2147483648 at layer 500
+Operation : ry(pi/2) 12 -2147483648 at layer 501
+Operation : rx(pi/2) 14 -2147483648 at layer 502
+Operation : cz 7 12 at layer 502
+Operation : ry(pi/2) 19 -2147483648 at layer 503
+Operation : cz 9 14 at layer 503
+Operation : t 6 -2147483648 at layer 504
+Operation : t 15 -2147483648 at layer 505
+Operation : t 3 -2147483648 at layer 506
+Operation : t 19 -2147483648 at layer 507
+Operation : rx(pi/2) 0 -2147483648 at layer 508
+Operation : cz 18 19 at layer 508
+Operation : ry(pi/2) 1 -2147483648 at layer 509
+Operation : cz 13 18 at layer 509
+Operation : rx(pi/2) 8 -2147483648 at layer 510
+Operation : cz 1 2 at layer 510
+Operation : ry(pi/2) 11 -2147483648 at layer 511
+Operation : cz 8 9 at layer 511
+Operation : cz 4 9 at layer 512
+Operation : cz 11 12 at layer 512
+Operation : ry(pi/2) 17 -2147483648 at layer 512
+Operation : rx(pi/2) 20 -2147483648 at layer 513
+Operation : t 0 -2147483648 at layer 514
+Operation : t 17 -2147483648 at layer 515
+Operation : t 20 -2147483648 at layer 516
+Operation : rx(pi/2) 5 -2147483648 at layer 517
+Operation : ry(pi/2) 10 -2147483648 at layer 518
+Operation : cz 0 5 at layer 518
+Operation : ry(pi/2) 16 -2147483648 at layer 519
+Operation : cz 5 6 at layer 519
+Operation : ry(pi/2) 7 -2147483648 at layer 520
+Operation : cz 11 16 at layer 520
+Operation : ry(pi/2) 23 -2147483648 at layer 521
+Operation : cz 15 16 at layer 521
+Operation : cz 2 7 at layer 521
+Operation : cz 2 3 at layer 522
+Operation : ry(pi/2) 14 -2147483648 at layer 522
+Operation : cz 15 20 at layer 522
+Operation : t 10 -2147483648 at layer 523
+Operation : t 23 -2147483648 at layer 524
+Operation : t 14 -2147483648 at layer 525
+Operation : ry(pi/2) 1 -2147483648 at layer 526
+Operation : rx(pi/2) 8 -2147483648 at layer 527
+Operation : ry(pi/2) 12 -2147483648 at layer 528
+Operation : rx(pi/2) 19 -2147483648 at layer 529
+Operation : cz 12 13 at layer 529
+Operation : ry(pi/2) 21 -2147483648 at layer 530
+Operation : rx(pi/2) 22 -2147483648 at layer 531
+Operation : cz 22 23 at layer 532
+Operation : t 1 -2147483648 at layer 532
+Operation : t 8 -2147483648 at layer 533
+Operation : cz 17 22 at layer 533
+Operation : t 19 -2147483648 at layer 534
+Operation : cz 8 13 at layer 534
+Operation : t 21 -2147483648 at layer 535
+Operation : cz 19 24 at layer 535
+Operation : cz 13 14 at layer 535
+Operation : ry(pi/2) 0 -2147483648 at layer 536
+Operation : ry(pi/2) 11 -2147483648 at layer 537
+Operation : rx(pi/2) 7 -2147483648 at layer 538
+Operation : cz 6 11 at layer 538
+Operation : rx(pi/2) 18 -2147483648 at layer 539
+Operation : rx(pi/2) 4 -2147483648 at layer 540
+Operation : ry(pi/2) 9 -2147483648 at layer 541
+Operation : t 0 -2147483648 at layer 542
+Operation : t 7 -2147483648 at layer 543
+Operation : t 18 -2147483648 at layer 544
+Operation : cz 6 7 at layer 544
+Operation : cz 1 6 at layer 545
+Operation : t 4 -2147483648 at layer 545
+Operation : cz 0 1 at layer 546
+Operation : t 9 -2147483648 at layer 546
+Operation : ry(pi/2) 5 -2147483648 at layer 547
+Operation : rx(pi/2) 2 -2147483648 at layer 548
+Operation : rx(pi/2) 3 -2147483648 at layer 549
+Operation : cz 3 4 at layer 550
+Operation : ry(pi/2) 16 -2147483648 at layer 550
+Operation : cz 16 17 at layer 551
+Operation : ry(pi/2) 12 -2147483648 at layer 551
+Operation : ry(pi/2) 23 -2147483648 at layer 552
+Operation : cz 23 24 at layer 553
+Operation : t 5 -2147483648 at layer 553
+Operation : t 2 -2147483648 at layer 554
+Operation : t 12 -2147483648 at layer 555
+Operation : rx(pi/2) 11 -2147483648 at layer 556
+Operation : cz 12 17 at layer 556
+Operation : rx(pi/2) 15 -2147483648 at layer 557
+Operation : cz 17 18 at layer 557
+Operation : rx(pi/2) 20 -2147483648 at layer 558
+Operation : cz 10 15 at layer 558
+Operation : ry(pi/2) 8 -2147483648 at layer 559
+Operation : cz 3 8 at layer 560
+Operation : ry(pi/2) 22 -2147483648 at layer 560
+Operation : rx(pi/2) 19 -2147483648 at layer 561
+Operation : cz 14 19 at layer 562
+Operation : t 11 -2147483648 at layer 562
+Operation : t 20 -2147483648 at layer 563
+Operation : cz 10 11 at layer 563
+Operation : cz 5 10 at layer 564
+Operation : cz 20 21 at layer 564
+Operation : t 22 -2147483648 at layer 564
+Operation : rx(pi/2) 7 -2147483648 at layer 565
+Operation : cz 7 8 at layer 566
+Operation : rx(pi/2) 4 -2147483648 at layer 566
+Operation : rx(pi/2) 16 -2147483648 at layer 567
+Operation : rx(pi/2) 13 -2147483648 at layer 568
+Operation : rx(pi/2) 23 -2147483648 at layer 569
+Operation : ry(pi/2) 24 -2147483648 at layer 570
+Operation : t 4 -2147483648 at layer 571
+Operation : t 16 -2147483648 at layer 572
+Operation : cz 16 21 at layer 573
+Operation : t 13 -2147483648 at layer 573
+Operation : cz 21 22 at layer 574
+Operation : t 23 -2147483648 at layer 574
+Operation : cz 18 23 at layer 575
+Operation : t 24 -2147483648 at layer 575
+Operation : ry(pi/2) 6 -2147483648 at layer 576
+Operation : rx(pi/2) 15 -2147483648 at layer 577
+Operation : rx(pi/2) 3 -2147483648 at layer 578
+Operation : ry(pi/2) 12 -2147483648 at layer 579
+Operation : rx(pi/2) 14 -2147483648 at layer 580
+Operation : cz 7 12 at layer 580
+Operation : rx(pi/2) 19 -2147483648 at layer 581
+Operation : cz 9 14 at layer 581
+Operation : t 6 -2147483648 at layer 582
+Operation : t 15 -2147483648 at layer 583
+Operation : t 3 -2147483648 at layer 584
+Operation : t 19 -2147483648 at layer 585
+Operation : ry(pi/2) 0 -2147483648 at layer 586
+Operation : cz 18 19 at layer 586
+Operation : cz 13 18 at layer 587
+Operation : rx(pi/2) 1 -2147483648 at layer 587
+Operation : ry(pi/2) 8 -2147483648 at layer 588
+Operation : cz 1 2 at layer 588
+Operation : cz 8 9 at layer 589
+Operation : ry(pi/2) 11 -2147483648 at layer 589
+Operation : cz 11 12 at layer 590
+Operation : rx(pi/2) 17 -2147483648 at layer 590
+Operation : cz 4 9 at layer 590
+Operation : ry(pi/2) 20 -2147483648 at layer 591
+Operation : t 0 -2147483648 at layer 592
+Operation : t 17 -2147483648 at layer 593
+Operation : t 20 -2147483648 at layer 594
+Operation : rx(pi/2) 5 -2147483648 at layer 595
+Operation : rx(pi/2) 10 -2147483648 at layer 596
+Operation : cz 0 5 at layer 596
+Operation : cz 5 6 at layer 597
+Operation : rx(pi/2) 16 -2147483648 at layer 597
+Operation : rx(pi/2) 7 -2147483648 at layer 598
+Operation : cz 11 16 at layer 598
+Operation : cz 15 16 at layer 599
+Operation : cz 2 7 at layer 599
+Operation : rx(pi/2) 23 -2147483648 at layer 599
+Operation : cz 15 20 at layer 600
+Operation : ry(pi/2) 14 -2147483648 at layer 600
+Operation : cz 2 3 at layer 600
+Operation : t 10 -2147483648 at layer 601
+Operation : t 23 -2147483648 at layer 602
+Operation : t 14 -2147483648 at layer 603
+Operation : rx(pi/2) 1 -2147483648 at layer 604
+Operation : ry(pi/2) 8 -2147483648 at layer 605
+Operation : ry(pi/2) 12 -2147483648 at layer 606
+Operation : rx(pi/2) 19 -2147483648 at layer 607
+Operation : cz 12 13 at layer 607
+Operation : ry(pi/2) 21 -2147483648 at layer 608
+Operation : rx(pi/2) 22 -2147483648 at layer 609
+Operation : cz 22 23 at layer 610
+Operation : t 1 -2147483648 at layer 610
+Operation : t 8 -2147483648 at layer 611
+Operation : cz 17 22 at layer 611
+Operation : t 19 -2147483648 at layer 612
+Operation : cz 8 13 at layer 612
+Operation : t 21 -2147483648 at layer 613
+Operation : cz 13 14 at layer 613
+Operation : cz 19 24 at layer 613
+Operation : rx(pi/2) 0 -2147483648 at layer 614
+Operation : ry(pi/2) 11 -2147483648 at layer 615
+Operation : rx(pi/2) 7 -2147483648 at layer 616
+Operation : cz 6 11 at layer 616
+Operation : rx(pi/2) 18 -2147483648 at layer 617
+Operation : rx(pi/2) 4 -2147483648 at layer 618
+Operation : ry(pi/2) 9 -2147483648 at layer 619
+Operation : t 0 -2147483648 at layer 620
+Operation : t 7 -2147483648 at layer 621
+Operation : t 18 -2147483648 at layer 622
+Operation : cz 6 7 at layer 622
+Operation : cz 1 6 at layer 623
+Operation : t 4 -2147483648 at layer 623
+Operation : t 9 -2147483648 at layer 624
+Operation : cz 0 1 at layer 624
+Operation : ry(pi/2) 5 -2147483648 at layer 625
+Operation : rx(pi/2) 2 -2147483648 at layer 626
+Operation : rx(pi/2) 3 -2147483648 at layer 627
+Operation : ry(pi/2) 16 -2147483648 at layer 628
+Operation : cz 3 4 at layer 628
+Operation : rx(pi/2) 12 -2147483648 at layer 629
+Operation : cz 16 17 at layer 629
+Operation : rx(pi/2) 23 -2147483648 at layer 630
+Operation : t 5 -2147483648 at layer 631
+Operation : cz 23 24 at layer 631
+Operation : t 2 -2147483648 at layer 632
+Operation : t 12 -2147483648 at layer 633
+Operation : ry(pi/2) 11 -2147483648 at layer 634
+Operation : cz 12 17 at layer 634
+Operation : ry(pi/2) 15 -2147483648 at layer 635
+Operation : cz 17 18 at layer 635
+Operation : cz 10 15 at layer 636
+Operation : ry(pi/2) 20 -2147483648 at layer 636
+Operation : ry(pi/2) 8 -2147483648 at layer 637
+Operation : cz 3 8 at layer 638
+Operation : ry(pi/2) 22 -2147483648 at layer 638
+Operation : rx(pi/2) 19 -2147483648 at layer 639
+Operation : cz 14 19 at layer 640
+Operation : t 11 -2147483648 at layer 640
+Operation : t 20 -2147483648 at layer 641
+Operation : cz 10 11 at layer 641
+Operation : cz 5 10 at layer 642
+Operation : cz 20 21 at layer 642
+Operation : t 22 -2147483648 at layer 642
+Operation : ry(pi/2) 7 -2147483648 at layer 643
+Operation : cz 7 8 at layer 644
+Operation : rx(pi/2) 4 -2147483648 at layer 644
+Operation : ry(pi/2) 16 -2147483648 at layer 645
+Operation : rx(pi/2) 13 -2147483648 at layer 646
+Operation : rx(pi/2) 23 -2147483648 at layer 647
+Operation : rx(pi/2) 24 -2147483648 at layer 648
+Operation : t 4 -2147483648 at layer 649
+Operation : t 16 -2147483648 at layer 650
+Operation : t 13 -2147483648 at layer 651
+Operation : cz 16 21 at layer 651
+Operation : cz 21 22 at layer 652
+Operation : t 23 -2147483648 at layer 652
+Operation : cz 18 23 at layer 653
+Operation : t 24 -2147483648 at layer 653
+Operation : ry(pi/2) 6 -2147483648 at layer 654
+Operation : ry(pi/2) 15 -2147483648 at layer 655
+Operation : ry(pi/2) 3 -2147483648 at layer 656
+Operation : rx(pi/2) 12 -2147483648 at layer 657
+Operation : ry(pi/2) 14 -2147483648 at layer 658
+Operation : cz 7 12 at layer 658
+Operation : ry(pi/2) 19 -2147483648 at layer 659
+Operation : cz 9 14 at layer 659
+Operation : t 6 -2147483648 at layer 660
+Operation : t 15 -2147483648 at layer 661
+Operation : t 3 -2147483648 at layer 662
+Operation : t 19 -2147483648 at layer 663
+Operation : ry(pi/2) 0 -2147483648 at layer 664
+Operation : cz 18 19 at layer 664
+Operation : cz 13 18 at layer 665
+Operation : ry(pi/2) 1 -2147483648 at layer 665
+Operation : cz 1 2 at layer 666
+Operation : ry(pi/2) 8 -2147483648 at layer 666
+Operation : cz 8 9 at layer 667
+Operation : ry(pi/2) 11 -2147483648 at layer 667
+Operation : cz 11 12 at layer 668
+Operation : ry(pi/2) 17 -2147483648 at layer 668
+Operation : cz 4 9 at layer 668
+Operation : rx(pi/2) 20 -2147483648 at layer 669
+Operation : t 0 -2147483648 at layer 670
+Operation : t 17 -2147483648 at layer 671
+Operation : t 20 -2147483648 at layer 672
+Operation : rx(pi/2) 5 -2147483648 at layer 673
+Operation : ry(pi/2) 10 -2147483648 at layer 674
+Operation : cz 0 5 at layer 674
+Operation : cz 5 6 at layer 675
+Operation : ry(pi/2) 16 -2147483648 at layer 675
+Operation : cz 11 16 at layer 676
+Operation : ry(pi/2) 7 -2147483648 at layer 676
+Operation : ry(pi/2) 23 -2147483648 at layer 677
+Operation : cz 2 7 at layer 677
+Operation : cz 15 16 at layer 677
+Operation : cz 2 3 at layer 678
+Operation : cz 15 20 at layer 678
+Operation : ry(pi/2) 14 -2147483648 at layer 678
+Operation : t 10 -2147483648 at layer 679
+Operation : t 23 -2147483648 at layer 680
+Operation : t 14 -2147483648 at layer 681
+Operation : ry(pi/2) 1 -2147483648 at layer 682
+Operation : ry(pi/2) 8 -2147483648 at layer 683
+Operation : ry(pi/2) 12 -2147483648 at layer 684
+Operation : rx(pi/2) 19 -2147483648 at layer 685
+Operation : cz 12 13 at layer 685
+Operation : rx(pi/2) 21 -2147483648 at layer 686
+Operation : ry(pi/2) 22 -2147483648 at layer 687
+Operation : t 1 -2147483648 at layer 688
+Operation : cz 22 23 at layer 688
+Operation : t 8 -2147483648 at layer 689
+Operation : cz 17 22 at layer 689
+Operation : t 19 -2147483648 at layer 690
+Operation : cz 8 13 at layer 690
+Operation : t 21 -2147483648 at layer 691
+Operation : cz 13 14 at layer 691
+Operation : cz 19 24 at layer 691
+Operation : ry(pi/2) 0 -2147483648 at layer 692
+Operation : rx(pi/2) 11 -2147483648 at layer 693
+Operation : cz 6 11 at layer 694
+Operation : rx(pi/2) 7 -2147483648 at layer 694
+Operation : ry(pi/2) 18 -2147483648 at layer 695
+Operation : ry(pi/2) 4 -2147483648 at layer 696
+Operation : rx(pi/2) 9 -2147483648 at layer 697
+Operation : t 0 -2147483648 at layer 698
+Operation : t 7 -2147483648 at layer 699
+Operation : t 18 -2147483648 at layer 700
+Operation : cz 6 7 at layer 700
+Operation : t 4 -2147483648 at layer 701
+Operation : cz 1 6 at layer 701
+Operation : t 9 -2147483648 at layer 702
+Operation : cz 0 1 at layer 702
+Operation : rx(pi/2) 5 -2147483648 at layer 703
+Operation : rx(pi/2) 2 -2147483648 at layer 704
+Operation : rx(pi/2) 3 -2147483648 at layer 705
+Operation : cz 3 4 at layer 706
+Operation : ry(pi/2) 16 -2147483648 at layer 706
+Operation : cz 16 17 at layer 707
+Operation : rx(pi/2) 12 -2147483648 at layer 707
+Operation : rx(pi/2) 23 -2147483648 at layer 708
+Operation : cz 23 24 at layer 709
+Operation : t 5 -2147483648 at layer 709
+Operation : t 2 -2147483648 at layer 710
+Operation : t 12 -2147483648 at layer 711
+Operation : ry(pi/2) 11 -2147483648 at layer 712
+Operation : cz 12 17 at layer 712
+Operation : rx(pi/2) 15 -2147483648 at layer 713
+Operation : cz 17 18 at layer 713
+Operation : rx(pi/2) 20 -2147483648 at layer 714
+Operation : cz 10 15 at layer 714
+Operation : rx(pi/2) 8 -2147483648 at layer 715
+Operation : ry(pi/2) 22 -2147483648 at layer 716
+Operation : cz 3 8 at layer 716
+Operation : rx(pi/2) 19 -2147483648 at layer 717
+Operation : t 11 -2147483648 at layer 718
+Operation : cz 14 19 at layer 718
+Operation : t 20 -2147483648 at layer 719
+Operation : cz 10 11 at layer 719
+Operation : cz 20 21 at layer 720
+Operation : cz 5 10 at layer 720
+Operation : t 22 -2147483648 at layer 720
+Operation : ry(pi/2) 7 -2147483648 at layer 721
+Operation : cz 7 8 at layer 722
+Operation : ry(pi/2) 4 -2147483648 at layer 722
+Operation : rx(pi/2) 16 -2147483648 at layer 723
+Operation : rx(pi/2) 13 -2147483648 at layer 724
+Operation : ry(pi/2) 23 -2147483648 at layer 725
+Operation : rx(pi/2) 24 -2147483648 at layer 726
+Operation : t 4 -2147483648 at layer 727
+Operation : t 16 -2147483648 at layer 728
+Operation : cz 16 21 at layer 729
+Operation : t 13 -2147483648 at layer 729
+Operation : t 23 -2147483648 at layer 730
+Operation : cz 21 22 at layer 730
+Operation : t 24 -2147483648 at layer 731
+Operation : cz 18 23 at layer 731
+Operation : rx(pi/2) 6 -2147483648 at layer 732
+Operation : rx(pi/2) 15 -2147483648 at layer 733
+Operation : ry(pi/2) 3 -2147483648 at layer 734
+Operation : ry(pi/2) 12 -2147483648 at layer 735
+Operation : ry(pi/2) 14 -2147483648 at layer 736
+Operation : cz 7 12 at layer 736
+Operation : cz 9 14 at layer 737
+Operation : ry(pi/2) 19 -2147483648 at layer 737
+Operation : t 6 -2147483648 at layer 738
+Operation : t 15 -2147483648 at layer 739
+Operation : t 3 -2147483648 at layer 740
+Operation : t 19 -2147483648 at layer 741
+Operation : ry(pi/2) 0 -2147483648 at layer 742
+Operation : cz 18 19 at layer 742
+Operation : cz 13 18 at layer 743
+Operation : rx(pi/2) 1 -2147483648 at layer 743
+Operation : cz 1 2 at layer 744
+Operation : ry(pi/2) 8 -2147483648 at layer 744
+Operation : rx(pi/2) 11 -2147483648 at layer 745
+Operation : cz 8 9 at layer 745
+Operation : rx(pi/2) 17 -2147483648 at layer 746
+Operation : cz 11 12 at layer 746
+Operation : cz 4 9 at layer 746
+Operation : ry(pi/2) 20 -2147483648 at layer 747
+Operation : t 0 -2147483648 at layer 748
+Operation : t 17 -2147483648 at layer 749
+Operation : t 20 -2147483648 at layer 750
+Operation : rx(pi/2) 5 -2147483648 at layer 751
+Operation : rx(pi/2) 10 -2147483648 at layer 752
+Operation : cz 0 5 at layer 752
+Operation : ry(pi/2) 16 -2147483648 at layer 753
+Operation : cz 5 6 at layer 753
+Operation : ry(pi/2) 7 -2147483648 at layer 754
+Operation : cz 11 16 at layer 754
+Operation : rx(pi/2) 23 -2147483648 at layer 755
+Operation : cz 2 7 at layer 755
+Operation : cz 15 16 at layer 755
+Operation : cz 15 20 at layer 756
+Operation : cz 2 3 at layer 756
+Operation : rx(pi/2) 14 -2147483648 at layer 756
+Operation : t 10 -2147483648 at layer 757
+Operation : t 23 -2147483648 at layer 758
+Operation : t 14 -2147483648 at layer 759
+Operation : ry(pi/2) 1 -2147483648 at layer 760
+Operation : rx(pi/2) 8 -2147483648 at layer 761
+Operation : ry(pi/2) 12 -2147483648 at layer 762
+Operation : ry(pi/2) 19 -2147483648 at layer 763
+Operation : cz 12 13 at layer 763
+Operation : rx(pi/2) 21 -2147483648 at layer 764
+Operation : rx(pi/2) 22 -2147483648 at layer 765
+Operation : cz 22 23 at layer 766
+Operation : t 1 -2147483648 at layer 766
+Operation : t 8 -2147483648 at layer 767
+Operation : cz 17 22 at layer 767
+Operation : t 19 -2147483648 at layer 768
+Operation : cz 8 13 at layer 768
+Operation : cz 13 14 at layer 769
+Operation : cz 19 24 at layer 769
+Operation : t 21 -2147483648 at layer 769
+Operation : ry(pi/2) 0 -2147483648 at layer 770
+Operation : ry(pi/2) 11 -2147483648 at layer 771
+Operation : rx(pi/2) 7 -2147483648 at layer 772
+Operation : cz 6 11 at layer 772
+Operation : rx(pi/2) 18 -2147483648 at layer 773
+Operation : ry(pi/2) 4 -2147483648 at layer 774
+Operation : rx(pi/2) 9 -2147483648 at layer 775
+Operation : t 0 -2147483648 at layer 776
+Operation : t 7 -2147483648 at layer 777
+Operation : t 18 -2147483648 at layer 778
+Operation : cz 6 7 at layer 778
+Operation : t 4 -2147483648 at layer 779
+Operation : cz 1 6 at layer 779
+Operation : t 9 -2147483648 at layer 780
+Operation : ry(pi/2) 5 -2147483648 at layer 781
+Operation : rx(pi/2) 2 -2147483648 at layer 782
+Operation : rx(pi/2) 3 -2147483648 at layer 783
+Operation : ry(pi/2) 16 -2147483648 at layer 784
+Operation : cz 3 4 at layer 784
+Operation : rx(pi/2) 12 -2147483648 at layer 785
+Operation : cz 16 17 at layer 785
+Operation : ry(pi/2) 23 -2147483648 at layer 786
+Operation : cz 23 24 at layer 787
+Operation : t 5 -2147483648 at layer 787
+Operation : t 2 -2147483648 at layer 788
+Operation : t 12 -2147483648 at layer 789
+Operation : rx(pi/2) 11 -2147483648 at layer 790
+Operation : cz 12 17 at layer 790
+Operation : rx(pi/2) 15 -2147483648 at layer 791
+Operation : ry(pi/2) 20 -2147483648 at layer 792
+Operation : cz 10 15 at layer 792
+Operation : rx(pi/2) 8 -2147483648 at layer 793
+Operation : cz 3 8 at layer 794
+Operation : ry(pi/2) 22 -2147483648 at layer 794
+Operation : ry(pi/2) 19 -2147483648 at layer 795
+Operation : t 11 -2147483648 at layer 796
+Operation : cz 14 19 at layer 796
+Operation : t 20 -2147483648 at layer 797
+Operation : t 22 -2147483648 at layer 798
+Operation : ry(pi/2) 7 -2147483648 at layer 799
+Operation : rx(pi/2) 4 -2147483648 at layer 800
+Operation : rx(pi/2) 16 -2147483648 at layer 801
+Operation : rx(pi/2) 13 -2147483648 at layer 802
+Operation : rx(pi/2) 23 -2147483648 at layer 803
+Operation : rx(pi/2) 24 -2147483648 at layer 804
+Operation : h 0 -2147483648 at layer 805
+Operation : h 1 -2147483648 at layer 806
+Operation : h 2 -2147483648 at layer 807
+Operation : h 3 -2147483648 at layer 808
+Operation : h 4 -2147483648 at layer 809
+Operation : h 5 -2147483648 at layer 810
+Operation : h 6 -2147483648 at layer 811
+Operation : h 7 -2147483648 at layer 812
+Operation : h 8 -2147483648 at layer 813
+Operation : h 9 -2147483648 at layer 814
+Operation : h 10 -2147483648 at layer 815
+Operation : h 11 -2147483648 at layer 816
+Operation : h 12 -2147483648 at layer 817
+Operation : h 13 -2147483648 at layer 818
+Operation : h 14 -2147483648 at layer 819
+Operation : h 15 -2147483648 at layer 820
+Operation : h 16 -2147483648 at layer 821
+Operation : h 17 -2147483648 at layer 822
+Operation : h 18 -2147483648 at layer 823
+Operation : h 19 -2147483648 at layer 824
+Operation : h 20 -2147483648 at layer 825
+Operation : h 21 -2147483648 at layer 826
+Operation : h 22 -2147483648 at layer 827
+Operation : h 23 -2147483648 at layer 828
+Operation : h 24 -2147483648 at layer 829
+Edge weights:
+Qubit 0 - Qubit 1 : 5.76867
+Qubit 0 - Qubit 5 : 5.16867
+Qubit 1 - Qubit 2 : 5.26506
+Qubit 1 - Qubit 6 : 4.84337
+Qubit 2 - Qubit 3 : 5.12048
+Qubit 2 - Qubit 7 : 5.13253
+Qubit 3 - Qubit 4 : 4.78313
+Qubit 3 - Qubit 8 : 4.66265
+Qubit 4 - Qubit 9 : 5.24096
+Qubit 5 - Qubit 6 : 5.15663
+Qubit 5 - Qubit 10 : 5.54096
+Qubit 6 - Qubit 7 : 4.85542
+Qubit 6 - Qubit 11 : 4.92771
+Qubit 7 - Qubit 8 : 5.54337
+Qubit 7 - Qubit 12 : 5.36386
+Qubit 8 - Qubit 9 : 5.25301
+Qubit 8 - Qubit 13 : 4.9759
+Qubit 9 - Qubit 14 : 5.3506
+Qubit 10 - Qubit 11 : 5.57229
+Qubit 10 - Qubit 15 : 4.68675
+Qubit 11 - Qubit 12 : 5.24096
+Qubit 11 - Qubit 16 : 5.14458
+Qubit 12 - Qubit 13 : 5.03614
+Qubit 12 - Qubit 17 : 4.71084
+Qubit 13 - Qubit 14 : 4.96386
+Qubit 13 - Qubit 18 : 5.27711
+Qubit 14 - Qubit 19 : 4.63855
+Qubit 15 - Qubit 16 : 5.13253
+Qubit 15 - Qubit 20 : 5.12048
+Qubit 16 - Qubit 17 : 4.77108
+Qubit 16 - Qubit 21 : 5.43494
+Qubit 17 - Qubit 18 : 5.62892
+Qubit 17 - Qubit 22 : 4.98795
+Qubit 18 - Qubit 19 : 5.28916
+Qubit 18 - Qubit 23 : 5.40964
+Qubit 19 - Qubit 24 : 4.96386
+Qubit 20 - Qubit 21 : 5.5494
+Qubit 21 - Qubit 22 : 5.42169
+Qubit 22 - Qubit 23 : 5
+Qubit 23 - Qubit 24 : 4.74699
+寫入完成，結果存於 qubit_graph.txt

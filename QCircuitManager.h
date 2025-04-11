@@ -31,7 +31,7 @@ public:
     void printCircuit();
     void printGateLayer();
     int getLayers();
-
+    void sortGatesByLayer();
 private:
     vector<QuantumGate> gateSet; // 存放量子閘
     int totalLayers = -1;

@@ -47,17 +47,17 @@ class Graph{
                     qubit1 = qubit2;
                     qubit2 = temp;
                 }
-                if(gate.qubits_used.size() == 2 && qubit2 != INT_MIN){                    
-                    // cout<<"Operation : "<<gate.operation<<" "<<qubit1<<" "<<qubit2<<endl;
+                if(gate.qubits_used.size() == 2 && qubit2 != INT_MIN && qubit1 != INT_MIN){                    
+                    cout<<"Operation : "<<gate.operation<<" "<<qubit1<<" "<<qubit2<<endl;
                     // cout<<gate.qubits_used[0]<<" "<<gate.qubits_used[1]<<endl;
                     // gateMatrix[gate.qubits_used[0]][gate.qubits_used[1]] = 1;
                     // gateMatrix[gate.qubits_used[1]][gate.qubits_used[0]] = 1;
                     cutGraph.push_back({gate.layer*(logiNumber)+qubit1,gate.layer*(logiNumber)+qubit2,gate.layer});
                     gateCutSet.push_back({gate.layer*(logiNumber)+qubit1,gate.layer*(logiNumber)+qubit2,gate.layer});
-                }                
+                }
             }
 
-            for(int i = 0;i<layer-1;i++){                
+            for(int i = 0;i<layer-1;i++){
                 for(int j = 0;j<logiNumber;j++){
                     cutGraph.push_back({j+logiNumber*i,j+logiNumber*(i+1),i,i+1});
                     wireCutSet.push_back({j+logiNumber*i,j+logiNumber*(i+1),i,i+1});
@@ -87,7 +87,7 @@ int main(int argc, char* argv[]) {
         fileName = "example.qasm";
     }
     cout<<fileName<<endl;
-    BenchMarkParser bp("QASM_example/"+fileName); //example
+    BenchMarkParser bp("QASM_example_2/"+fileName); //example
     QuantumCircuit circuit;
     Graph graph;
     vector<pair<int, int>> singleGateArr = bp.getSingleGateArray();
@@ -97,7 +97,8 @@ int main(int argc, char* argv[]) {
     vector<vector<int>> cutSet;
     for (int i = 0; i < gateSet.size(); i++) {
         gate = gateSet[i];        
-        // {"CNOT", {0, 1}, -1},        
+        // {"CNOT", {0, 1}, -1}, 
+        // cout<<"Operation : "<<gate.first<<" Qubit 1 "<<gate.second.first<<" Qubit 2 "<<gate.second.second<<endl;       
         gates.push_back({gate.first,{gate.second.first,gate.second.second},-1});
 
     }
@@ -124,19 +125,20 @@ int main(int argc, char* argv[]) {
         env.start();
         GRBModel model = GRBModel(env);
         model.set(GRB_IntParam_Threads, 96);
-        model.set(GRB_DoubleParam_TimeLimit, 3600.0);
+        model.set(GRB_DoubleParam_TimeLimit, 36000.0);
         model.set(GRB_IntParam_Presolve, 2);
         
-        int numPartitions = 10;
+        int numPartitions = 10; // number of partition 
         int numQubits = bp.getGreatiestNumber()+1;
         int layers = circuit.getLayers();
-        int qubitLimit = 4;
+        int qubitLimit = 4; // number of qubit of each device
 
         vector<vector<GRBVar>> m(numQubits*layers, vector<GRBVar>(numPartitions)); // m[v][p]
         map<pair<int,int>, GRBVar> C; // C[u][v]
         map<tuple<int,int,int>, GRBVar> y; // y[u][v][p] only wire cut
         map<tuple<int,int,int>, GRBVar> z; // z[u][v][p] only wire cut
         vector<QuantumGate> gateSet = circuit.getGates();
+
 
         // --------------------variable---------------------------
         cout<<"Create Varaible m - m_{v,p}"<<endl;
@@ -148,6 +150,7 @@ int main(int argc, char* argv[]) {
         }
 
         cout<<"Create Varaible y - y_{u,v,p}"<<endl;
+        // wire cutting Y
         for(int p = 0;p < numPartitions;p++){
             for (int i = 0; i < layers - 1; i++) {
                 for (int j = 0; j < numQubits; j++) {
@@ -157,6 +160,8 @@ int main(int argc, char* argv[]) {
                 }
             }
         }
+
+        // gate cutting Y
         for (auto gate : gateSet) {
             int qubit1 = gate.qubits_used[0];
             int qubit2 = gate.qubits_used[1];
@@ -164,7 +169,7 @@ int main(int argc, char* argv[]) {
                 swap(qubit1, qubit2);
             }
             for (int p = 0; p < numPartitions; p++){
-                if (gate.qubits_used.size() == 2 && qubit2 != INT_MIN) {
+                if (gate.qubits_used.size() == 2 && qubit2 != INT_MIN && qubit1 != INT_MIN) {
                     string key = to_string(gate.layer * numQubits + qubit1) + "_" + to_string(gate.layer * numQubits + qubit2) + "_" + to_string(p);
                     y[{gate.layer * numQubits + qubit1,gate.layer * numQubits + qubit2,p}] = model.addVar(0, 1, 0, GRB_BINARY, "y_" + key);
                     // cout << "y_" + key << endl;
@@ -173,6 +178,7 @@ int main(int argc, char* argv[]) {
         }
 
         cout<<"Create Varaible C - C_{u,v}"<<endl;
+        // wire cutting C
         for (int i = 0; i < layers - 1; i++) {
             for (int j = 0; j < numQubits; j++) {
                 string key = to_string(j + numQubits * i) + "_" + to_string(j + numQubits * (i + 1));
@@ -180,13 +186,14 @@ int main(int argc, char* argv[]) {
                 // cout << "C_" + key << endl;
             }
         }
+        // gate cutting C
         for (auto gate : gateSet) {
             int qubit1 = gate.qubits_used[0];
             int qubit2 = gate.qubits_used[1];
             if (qubit1 > qubit2){
                 swap(qubit1, qubit2);
             }
-            if (gate.qubits_used.size() == 2 && qubit2 != INT_MIN) {
+            if (gate.qubits_used.size() == 2 && qubit2 != INT_MIN && qubit1 != INT_MIN) {
                 string key = to_string(gate.layer * numQubits + qubit1) + "_" + to_string(gate.layer * numQubits + qubit2);
                 C[{gate.layer * numQubits + qubit1,gate.layer * numQubits + qubit2}] = model.addVar(0, 1, 0, GRB_BINARY, "C_" + key);
                 // cout << "C_" + key << endl;
@@ -225,6 +232,7 @@ int main(int argc, char* argv[]) {
             model.addConstr(var >= m[u][p] - m[v][p], "yuv_upper_" + to_string(u) + "_" + to_string(v)+ "_" + to_string(p));
             model.addConstr(var >= m[v][p] - m[u][p], "yuv_lower_" + to_string(u) + "_" + to_string(v)+ "_" + to_string(p));
             model.addConstr(var <= m[u][p] + m[v][p], "yuv_sum_" + to_string(u) + "_" + to_string(v)+ "_" + to_string(p));  
+            model.addConstr(var <= 2 - m[u][p] - m[v][p], "yuv_sum_" + to_string(u) + "_" + to_string(v)+ "_" + to_string(p)); 
         }
 
         // Add consistency constraint for C[u, v] 
@@ -233,12 +241,12 @@ int main(int argc, char* argv[]) {
             int u = edge.first;
             int v = edge.second;
             GRBLinExpr sum_y = 0;
-
+            // cout<<"consistency constraint : "<<u<<" "<<v<<endl;
             for(int p = 0;p<numPartitions;p++){
                 sum_y += y[{u,v,p}];
             }
-            model.addConstr(2 * var >= sum_y, "C_"+ to_string(u) + "_"+ to_string(v) +"_ge");
-            model.addConstr(2 * var <= sum_y, "C_"+ to_string(u) + "_"+ to_string(v) +"_le");
+            model.addConstr(2 * var == sum_y, "C_"+ to_string(u) + "_"+ to_string(v) +"_eq");
+            // model.addConstr(2 * var <= sum_y, "C_"+ to_string(u) + "_"+ to_string(v) +"_le");
 
             
         }
@@ -300,20 +308,20 @@ int main(int argc, char* argv[]) {
             G_C += var; // C[u,v]
         }
         G_C -= W_C;
-        GRBVar A = model.addVar(0.0, GRB_INFINITY, 0.0, GRB_CONTINUOUS, "A");
-        GRBVar B = model.addVar(0.0, GRB_INFINITY, 0.0, GRB_CONTINUOUS, "B");
-        GRBVar W_C_var = model.addVar(0.0, GRB_INFINITY, 0.0, GRB_CONTINUOUS, "W_C_var");
-        GRBVar G_C_var = model.addVar(0.0, GRB_INFINITY, 0.0, GRB_CONTINUOUS, "G_C_var");
-        // GRBVar W_C_log = model.addVar(-GRB_INFINITY, GRB_INFINITY, 0.0, GRB_CONTINUOUS, "W_C_log");
-        // GRBVar G_C_log = model.addVar(-GRB_INFINITY, GRB_INFINITY, 0.0, GRB_CONTINUOUS, "G_C_log");
-        model.addConstr(W_C_var == W_C, "W_C_Constraint");
-        model.addConstr(G_C_var == G_C, "G_C_Constraint");
-        // model.addConstr(W_C_log == W_C_var * log(4), "W_C_Log_Constraint");
-        // model.addConstr(G_C_log == G_C_var * log(6), "G_C_Log_Constraint");
-        
-        model.addGenConstrExpA(W_C_var, A,log(4),"Exp4");
-        model.addGenConstrExpA(G_C_var, B,log(6),"Exp6");
-        model.setObjective(A + B, GRB_MINIMIZE);
+        // GRBVar A = model.addVar(0.0, GRB_INFINITY, 0.0, GRB_CONTINUOUS, "A");
+        // GRBVar B = model.addVar(0.0, GRB_INFINITY, 0.0, GRB_CONTINUOUS, "B");
+        // GRBVar W_C_var = model.addVar(0.0, GRB_INFINITY, 0.0, GRB_CONTINUOUS, "W_C_var");
+        // GRBVar G_C_var = model.addVar(0.0, GRB_INFINITY, 0.0, GRB_CONTINUOUS, "G_C_var");
+
+        // model.addConstr(W_C_var == W_C, "W_C_Constraint");
+        // model.addConstr(G_C_var == G_C, "G_C_Constraint");   
+        // model.addConstr(W_C_var >= 0);
+        // model.addConstr(G_C_var >= 0);             
+        // model.addGenConstrExpA(W_C_var, A,log(4),"Exp4");
+        // model.addGenConstrExpA(G_C_var, B,log(6),"Exp6");
+        // model.setObjective(A * B, GRB_MINIMIZE);
+
+        model.setObjective(4*W_C+6*G_C);
         model.update();
         model.optimize();
         model.write("model.lp");
